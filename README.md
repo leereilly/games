@@ -4,7 +4,7 @@ I'm looking for everything an anything. Old school text adventures, educational 
 
 If you'd like to help please send me a link to the repository, or fork this repo and submit a pull request. Thank you!
 
-# Browser Games
+# Browser-Based
 
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal
