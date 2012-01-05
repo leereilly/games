@@ -8,11 +8,13 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal
+* [Lichess](https://github.com/ornicar/lichess) - High performance chess game built with PHP 5.3 and Symfony2
 
 # Standalone
 
 * [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer
+* [Gorillas](https://github.com/Lyndir/Gorillas) - An iPhone (or iPod touch) port of the popular old QBasic game
 
 # Just The Source
 
