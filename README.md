@@ -11,18 +11,20 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 # Standalone
 
+* [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer
 
 # Just The Source
 
-* [Aquaria](https://github.com/islocated/Aquaria) - a breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
+* [Aquaria](https://github.com/islocated/Aquaria) - a breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival
 * [Doom 3](https://github.com/TTimo/doom3.gpl) - pew pew pew.
 
 # Frameworks/Engines
 
+* [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine
 
 # Maps/Hacks/Plugins/Etc
 
-* [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - the public documentation for the RESTful web service provided as part of the World of Warcraft community site.
 * [World of Warcraft Addons](https://github.com/tekkub) - too many to list!
+* [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - the public documentation for the RESTful web service provided as part of the World of Warcraft community site.
