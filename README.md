@@ -1,4 +1,4 @@
-I'm compiling a list of popular, impressive, awesome and/or community-driven game and game-related repositories on GitHub for a pet project of mine. I'm looking for everything an anything. Old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins, etc.
+I'm compiling a list of popular, impressive, awesome and/or community-driven game and game-related GitHub repositories for a pet project of mine. I'm looking for everything an anything. Old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins, etc.
 
 I'm especially interested in repositories that have strong community involvement and awesome READMEs :-)
 
