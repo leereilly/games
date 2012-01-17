@@ -23,6 +23,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 # Frameworks/Engines
 
+* [EntityJS](https://github.com/bendangelo/entityjs) - an HTML5 javascript game engine utlizing the entity-component design.
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine
 
