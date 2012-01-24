@@ -6,9 +6,11 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 # Browser-Based
 
+* [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - clone of the popular RTS
+* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind
-* [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal
 * [Lichess](https://github.com/ornicar/lichess) - High performance chess game built with PHP 5.3 and Symfony2
+* [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal
 
 # Standalone
 
@@ -21,9 +23,10 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Aquaria](https://github.com/islocated/Aquaria) - a breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival
 * [Doom 3](https://github.com/TTimo/doom3.gpl) - pew pew pew.
 
-# Frameworks/Engines
+# Frameworks/Engines/Libraries
 
 * [EntityJS](https://github.com/bendangelo/entityjs) - an HTML5 javascript game engine utlizing the entity-component design.
+* [Flixel](https://github.com/AdamAtomic/flixel) - an open source game-making library written entirely in ActionScript 3
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine
 
