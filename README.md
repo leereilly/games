@@ -22,6 +22,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 * [Aquaria](https://github.com/islocated/Aquaria) - a breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival
 * [Doom 3](https://github.com/TTimo/doom3.gpl) - pew pew pew.
+* [ID Software](https://github.com/id-Software) - includes Doom, Quake, Wolfenstein and more!
 
 # Frameworks/Engines/Libraries
 
