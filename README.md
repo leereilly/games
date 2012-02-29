@@ -11,6 +11,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind
 * [Lichess](https://github.com/ornicar/lichess) - High performance chess game built with PHP 5.3 and Symfony2
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal
+* [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
 
 # Standalone
 
