@@ -33,6 +33,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Leaderboard](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis (in Ruby)
 * [Python Leaderboard](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis (in Python)
 * [PHP Leaderboard](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis (in PHP)
+* [Java Leaderboard](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis (in Java)
 * [Scala Leaderboard](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in Scala)
 * [Halo::Reach::API](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API
 * [tassadar](https://github.com/agoragames/tassadar) - A Starcraft 2 replay parser written in pure Ruby
