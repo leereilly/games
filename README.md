@@ -30,7 +30,10 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Flixel](https://github.com/AdamAtomic/flixel) - an open source game-making library written entirely in ActionScript 3
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine
-* [Leaderboard](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis
+* [Leaderboard](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis (in Ruby)
+* [Python Leaderboard](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis (in Python)
+* [PHP Leaderboard](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis (in PHP)
+* [Scala Leaderboard](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in Scala)
 * [Halo::Reach::API](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API
 * [tassadar](https://github.com/agoragames/tassadar) - A Starcraft 2 replay parser written in pure Ruby
 
