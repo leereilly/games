@@ -6,6 +6,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 # Browser-Based
 
+* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - an HTML5/JavaScript multiplayer game experiment.
 * [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - clone of the popular RTS
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind
