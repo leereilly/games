@@ -6,16 +6,16 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 # Browser-Based
 
-* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - an HTML5/JavaScript multiplayer game experiment.
-* [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - clone of the popular RTS
-* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game
-* [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind
-* [Lichess](https://github.com/ornicar/lichess) - High performance chess game built with PHP 5.3 and Symfony2
-* [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter!
-* [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal
-* [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
-* [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame".
-* [Trigger Rally Online Edition](https://github.com/jareiko/TriggerRallyOE) - fast arcade rally racing.
+* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - an HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
+* [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
+* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
+* [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play now!](http://operasoftware.github.com/Emberwind/)
+* [Lichess](https://github.com/ornicar/lichess) - High performance chess game built with PHP 5.3 and Symfony2. [Play now!](http://en.lichess.org/)
+* [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
+* [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
+* [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
+* [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
+* [Trigger Rally Online Edition](https://github.com/jareiko/TriggerRallyOE) - fast arcade rally racing. [Play now!](http://triggerrally.com/x/Preview/Arbusu/drive)
 
 # Standalone
 
