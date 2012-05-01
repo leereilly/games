@@ -24,6 +24,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 # Native / Mobile Games
 
+* [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Canabalt](https://github.com/ericjohnson/canabalt-ios) - open source release of Canabalt for iOS.
 * [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
 * [Gorillas](https://github.com/Lyndir/Gorillas) - An iPhone (or iPod touch) port of the popular old QBasic game.
