@@ -40,6 +40,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Doom 3](https://github.com/TTimo/doom3.gpl) - pew pew pew.
 * [ID Software](https://github.com/id-Software) - includes Doom, Quake, Wolfenstein and more!
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Prince of Persia!
+* [MaNGOS](https://github.com/mangos/mangos) - a full featured World of Warcraft server!
 
 # Frameworks/Engines/Libraries
 
