@@ -55,6 +55,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
+* [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
 
 # Maps/Hacks/Plugins/Utilities/All of the Things™
 
