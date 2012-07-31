@@ -28,14 +28,14 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Canabalt](https://github.com/ericjohnson/canabalt-ios) - open source release of Canabalt for iOS.
-* [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
-* [Gorillas](https://github.com/Lyndir/Gorillas) - An iPhone (or iPod touch) port of the popular old QBasic game.
-* [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 * [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game.
+* [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.                                                    -  
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
 * [Gorillas](https://github.com/Lyndir/Gorillas) - An iPhone (or iPod touch) port of the popular old QBasic game.
-* [Pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
+* [Gorillas](https://github.com/Lyndir/Gorillas) - An iPhone (or iPod touch) port of the popular old QBasic game.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
+
+* [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 
 # Just The Source
 
