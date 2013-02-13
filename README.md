@@ -32,6 +32,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.                                                    -  
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
 * [Gorillas](https://github.com/Lyndir/Gorillas) - An iPhone (or iPod touch) port of the popular old QBasic game.
+* [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 
