@@ -115,5 +115,5 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - an open source project to bring game emulation to OS X as a first class citizen.
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
 * [Tassadar](https://github.com/agoragames/tassadar) - A Starcraft 2 replay parser written in pure Ruby.
-* [World of Warcraft Addons](https://github.com/tekkub) - too many to list!
+* [World of Warcraft Addons](https://github.com/TekNoLogic) - too many to list!
 * [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - the public documentation for the RESTful web service provided as part of the World of Warcraft community site.
