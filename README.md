@@ -6,10 +6,22 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 # Browser-Based
 
+## Boardgame
+
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
+* [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
+
+## Arcade
+
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - space invaders++.
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
+
+## FPS
+
 * [BananaBread](https://github.com/kripken/BananaBread) - a port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
+
+## Others
+
 * [Blk Game](https://github.com/benvanik/blk-game) - a multiplayer Javascript/WebGL voxel world game demo.
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - an HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
 * [Cell Mates](https://github.com/city41/cellmates) - a GGJ 13 game.
@@ -29,7 +41,6 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
 * [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - a sort of GIRP-inspired tower defense. [Play now!](http://adamatomic.com/graverobbers)
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - a GGJ13 game.
-* [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - a marble game for learning three.js.
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play now!](http://lichess.org/)
 * [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
