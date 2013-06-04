@@ -10,7 +10,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
-* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
+* [Desperate Gods](https://github.com/David20321/FTJ) - a free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 
 ## Arcade
 
@@ -22,6 +22,10 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
 * [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator.
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
+* [Cell Mates](https://github.com/city41/cellmates) - a GGJ 13 game.
+* [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
+* [Coil](https://github.com/hakimel/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
+* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
 
 ## FPS
 
@@ -35,18 +39,21 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - an HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
 
-##Strategy
+## Strategy
 
 * [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
 
-## Others
+## Racing
+
+* [Trigger Rally Online Edition](https://github.com/jareiko/TriggerRallyOE) - fast arcade rally racing. [Play now!](http://triggerrally.com/x/Preview/Arbusu/drive)
+
+## Sandbox
 
 * [Blk Game](https://github.com/benvanik/blk-game) - a multiplayer Javascript/WebGL voxel world game demo.
-* [Cell Mates](https://github.com/city41/cellmates) - a GGJ 13 game.
-* [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
-* [Coil](https://github.com/hakimel/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
 * [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL.
-* [Desperate Gods](https://github.com/David20321/FTJ) - a free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
+
+## Others
+
 * [EKG Runner](https://github.com/Myztiq/ekgrunner) - a GGJ 13 game.
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play now!](http://operasoftware.github.com/Emberwind/)
 * [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play now!](http://anirudhjoshi.github.com/fluid_table_tennis)
@@ -63,7 +70,6 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 * [Squirts](https://github.com/KrofDrakula/squirts) - A well-known indie game implemented in JavaScript. [Play now!](http://is.gd/squirts)
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
-* [Trigger Rally Online Edition](https://github.com/jareiko/TriggerRallyOE) - fast arcade rally racing. [Play now!](http://triggerrally.com/x/Preview/Arbusu/drive)
 
 # Native / Mobile Games
 
