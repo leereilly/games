@@ -26,6 +26,12 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
 * [Coil](https://github.com/hakimel/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
 * [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
+* [EKG Runner](https://github.com/Myztiq/ekgrunner) - a GGJ 13 game.
+* [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play now!](http://operasoftware.github.com/Emberwind/)
+* [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play now!](http://anirudhjoshi.github.com/fluid_table_tennis)
+* [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - a very simple flixel game inspired by the Taito classic. [Play now!](http://flixel.org/flxinvaders/)
+* [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - a sort of GIRP-inspired tower defense. [Play now!](http://adamatomic.com/graverobbers)
+* [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - a marble game for learning three.js.
 
 ## FPS
 
@@ -54,13 +60,7 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 ## Others
 
-* [EKG Runner](https://github.com/Myztiq/ekgrunner) - a GGJ 13 game.
-* [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play now!](http://operasoftware.github.com/Emberwind/)
-* [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play now!](http://anirudhjoshi.github.com/fluid_table_tennis)
-* [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - a very simple flixel game inspired by the Taito classic. [Play now!](http://flixel.org/flxinvaders/)
-* [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - a sort of GIRP-inspired tower defense. [Play now!](http://adamatomic.com/graverobbers)
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - a GGJ13 game.
-* [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - a marble game for learning three.js.
 * [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
