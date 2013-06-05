@@ -32,6 +32,11 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - a very simple flixel game inspired by the Taito classic. [Play now!](http://flixel.org/flxinvaders/)
 * [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - a sort of GIRP-inspired tower defense. [Play now!](http://adamatomic.com/graverobbers)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - a marble game for learning three.js.
+* [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
+* [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
+* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine. [Play now!](http://entityjs.com/demos)
+* [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree.
+* [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 
 ## FPS
 
@@ -58,16 +63,14 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Blk Game](https://github.com/benvanik/blk-game) - a multiplayer Javascript/WebGL voxel world game demo.
 * [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL.
 
+## Puzzle
+
+* [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
+* [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart.
+
 ## Others
 
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - a GGJ13 game.
-* [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
-* [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
-* [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
-* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine. [Play now!](http://lichess.org/)
-* [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart.
-* [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree.
-* [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 * [Squirts](https://github.com/KrofDrakula/squirts) - A well-known indie game implemented in JavaScript. [Play now!](http://is.gd/squirts)
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
 
