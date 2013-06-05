@@ -4,6 +4,8 @@ I'm looking for everything and anything. Old school text adventures, educational
 
 If you'd like to help please send me a link to the repository, or fork this repo and submit a pull request. Thank you!
 
+-------
+
 # Browser-Based
 
 ## Boardgame
@@ -74,6 +76,8 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Squirts](https://github.com/KrofDrakula/squirts) - A well-known indie game implemented in JavaScript. [Play now!](http://is.gd/squirts)
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
 
+-------
+
 # Native / Mobile Games
 
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
@@ -100,6 +104,8 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 
+-------
+
 # Just The Source
 
 * [Aquaria](https://github.com/islocated/Aquaria) - a breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
@@ -108,6 +114,8 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [MaNGOS](https://github.com/mangos/mangos) - a full featured World of Warcraft server!
 * [Miner Wars 2081](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) - for modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Prince of Persia!
+
+-------
 
 # Frameworks/Engines/Libraries
 
@@ -128,6 +136,8 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
+
+-------
 
 # Maps/Hacks/Plugins/Utilities/All of the Things™
 
