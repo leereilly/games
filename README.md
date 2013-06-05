@@ -4,46 +4,79 @@ I'm looking for everything and anything. Old school text adventures, educational
 
 If you'd like to help please send me a link to the repository, or fork this repo and submit a pull request. Thank you!
 
+-------
+
 # Browser-Based
 
+## Boardgame
+
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
+* [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
+* [Desperate Gods](https://github.com/David20321/FTJ) - a free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
+
+## Arcade
+
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - space invaders++.
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
-* [BananaBread](https://github.com/kripken/BananaBread) - a port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
-* [Blk Game](https://github.com/benvanik/blk-game) - a multiplayer Javascript/WebGL voxel world game demo.
-* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - an HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
+* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
+* [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
+* [Snake](https://github.com/jrgdiz/snake) - a clone of the snake game.
+* [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
+* [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator.
+* [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
 * [Cell Mates](https://github.com/city41/cellmates) - a GGJ 13 game.
 * [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
-* [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
 * [Coil](https://github.com/hakimel/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
-* [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
-* [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL.
-* [Desperate Gods](https://github.com/David20321/FTJ) - a free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
-* [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.
-* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
-* [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator.
+* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
 * [EKG Runner](https://github.com/Myztiq/ekgrunner) - a GGJ 13 game.
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play now!](http://operasoftware.github.com/Emberwind/)
 * [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play now!](http://anirudhjoshi.github.com/fluid_table_tennis)
 * [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - a very simple flixel game inspired by the Taito classic. [Play now!](http://flixel.org/flxinvaders/)
-* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
 * [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - a sort of GIRP-inspired tower defense. [Play now!](http://adamatomic.com/graverobbers)
-* [HeartLine](https://github.com/gamebytes/heartline.github.com) - a GGJ13 game.
-* [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - a marble game for learning three.js.
-* [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play now!](http://lichess.org/)
 * [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
-* [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
-* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine. [Play now!](http://lichess.org/)
-* [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart.
+* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine. [Play now!](http://entityjs.com/demos)
 * [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree.
-* [Snake](https://github.com/jrgdiz/snake) - a clone of the snake game.
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
-* [Squirts](https://github.com/KrofDrakula/squirts) - A well-known indie game implemented in JavaScript. [Play now!](http://is.gd/squirts)
-* [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
-* [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
+
+## FPS
+
+* [BananaBread](https://github.com/kripken/BananaBread) - a port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
+
+## RPG
+
+* [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.
+
+## MMORPG
+
+* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - an HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
+
+## Strategy
+
+* [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
+
+## Racing
+
 * [Trigger Rally Online Edition](https://github.com/jareiko/TriggerRallyOE) - fast arcade rally racing. [Play now!](http://triggerrally.com/x/Preview/Arbusu/drive)
+
+## Sandbox
+
+* [Blk Game](https://github.com/benvanik/blk-game) - a multiplayer Javascript/WebGL voxel world game demo.
+* [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL.
+
+## Puzzle
+
+* [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
+* [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart.
+
+## Others
+
+* [HeartLine](https://github.com/gamebytes/heartline.github.com) - a GGJ13 game.
+* [Squirts](https://github.com/KrofDrakula/squirts) - A well-known indie game implemented in JavaScript. [Play now!](http://is.gd/squirts)
+* [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
+
+-------
 
 # Native / Mobile Games
 
@@ -71,6 +104,8 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 
+-------
+
 # Just The Source
 
 * [Aquaria](https://github.com/islocated/Aquaria) - a breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
@@ -79,6 +114,8 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [MaNGOS](https://github.com/mangos/mangos) - a full featured World of Warcraft server!
 * [Miner Wars 2081](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) - for modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Prince of Persia!
+
+-------
 
 # Frameworks/Engines/Libraries
 
@@ -99,6 +136,8 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
+
+-------
 
 # Maps/Hacks/Plugins/Utilities/All of the Things™
 
