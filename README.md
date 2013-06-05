@@ -78,21 +78,13 @@ If you'd like to help please send me a link to the repository, or fork this repo
 
 -------
 
-# Native / Mobile Games
+# Native
 
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
-* [Bridges](https://github.com/zgrossbart/bridges) - a puzzle game with bridges, houses, tolls, and subways for iOS.
-* [Canabalt](https://github.com/ericjohnson/canabalt-ios) - open source release of Canabalt for iOS.
 * [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game.
-* [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.                                                    -
-* [DrugsNRock](https://github.com/biou/DrugsNRock) - a simple multiplayer rhythm game designed during the Global Game Jam'13.
-* [Frogatto](https://github.com/frogatto/frogatto) - an action-adventure game, starring a certain quixotic frog.
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
-* [Gorillas](https://github.com/Lyndir/Gorillas) - an iPhone (or iPod touch) port of the popular old QBasic game.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) -  patience card game written in Ruby.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
-* [Light Jockey](https://github.com/jmfieldman/Light-Jockey) - an iOS Auditorium-like game.
-* [Lumio](https://github.com/joannecdyer/lumio) - a puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
 * [OpenRA](https://github.com/OpenRA/OpenRA) - an open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
 * [PCOTM (Phone Case of the Monster)](https://github.com/jwoertink/pcotm) - A Ruby game, where you play as a phone-collecting monster.
@@ -102,6 +94,20 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - an open source block-based game engine implementation developed with C#.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
+
+# Mobile Games
+
+## Android
+
+## IOS
+
+* [Bridges](https://github.com/zgrossbart/bridges) - a puzzle game with bridges, houses, tolls, and subways for iOS.
+* [Canabalt](https://github.com/ericjohnson/canabalt-ios) - open source release of Canabalt for iOS.
+* [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.                                               * [DrugsNRock](https://github.com/biou/DrugsNRock) - a simple multiplayer rhythm game designed during the Global Game Jam'13.
+* [Frogatto](https://github.com/frogatto/frogatto) - an action-adventure game, starring a certain quixotic frog.
+* [Gorillas](https://github.com/Lyndir/Gorillas) - an iPhone (or iPod touch) port of the popular old QBasic game.
+* [Light Jockey](https://github.com/jmfieldman/Light-Jockey) - an iOS Auditorium-like game.
+* [Lumio](https://github.com/joannecdyer/lumio) - a puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 
 -------
