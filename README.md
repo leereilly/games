@@ -1,10 +1,10 @@
 # Games on GitHub
 
-Below is a list of open source games and game-related projects (libraries, frameworks, engines, etc.) that can be found on GitHub. 
+Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it. 
 
-I'm looking for everything and anything. Old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, etc. I'm especially interested in repositories that have strong community involvement and awesome READMEs :-)
+#### Contributing
 
-If you'd like to help please send me a link to the repository, or fork this repo and submit a pull request. Thank you!
+If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request. 
 
 -------
 
