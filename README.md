@@ -33,10 +33,14 @@ If you'd like to help please send me a link to the repository, or fork this repo
 * [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play now!](http://anirudhjoshi.github.com/fluid_table_tennis)
 * [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - a very simple flixel game inspired by the Taito classic. [Play now!](http://flixel.org/flxinvaders/)
 * [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - a sort of GIRP-inspired tower defense. [Play now!](http://adamatomic.com/graverobbers)
+* [HotFix](https://github.com/sdrdis/hotfix) - help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. [Play now!](http://sdrdis.github.com/hotfix/)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - a marble game for learning three.js.
 * [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
+* [Pappu Pakia](https://github.com/mindd-it/game-off-2012) - an addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play now!](http://khele.in/pappu-pakia/)
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine. [Play now!](http://entityjs.com/demos)
+* [Polybranch](https://github.com/gbatha/PolyBranch) - a minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity?
+* [Release Cycles](https://github.com/RothschildGames/release-cycles) - n abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. [Play now!](http://www.release-cycles.com/)
 * [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree.
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 
