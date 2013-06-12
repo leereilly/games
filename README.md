@@ -4,7 +4,7 @@ I'm looking for everything and anything. Old school text adventures, educational
 
 If you'd like to help please send me a link to the repository, or fork this repo and submit a pull request. Thank you!
 
-[MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
+Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 -------
@@ -39,6 +39,18 @@ If you'd like to help please send me a link to the repository, or fork this repo
 | [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer)               | Browser   | Arcade    |
 | [Ski Free](https://github.com/basicallydan/skifree.js)                         | Browser   | Arcade    |
 | [SORADES 13K](https://github.com/maettig/starship-sorades-13k)                 | Browser   | Arcade    |
+| [BananaBread](https://github.com/kripken/BananaBread)                          | Browser   | FPS       |
+| [Diablo JS](https://github.com/mitallast/diablo-js)                            | Browser   | RPG       |
+| [BrowserQuest](https://github.com/mozilla/BrowserQuest)                        | Browser   | MMORPG    |
+| [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer)  | Browser   | Strategy  |
+| [Trigger Rally Online Edition](https://github.com/jareiko/TriggerRallyOE)      | Browser   | Racing    |
+| [Blk Game](https://github.com/benvanik/blk-game)                               | Browser   | Sandbox   |
+| [Cube Engine](https://github.com/Nurgak/Cube-engine)                           | Browser   | Sandbox   |
+| [Orbium](https://github.com/bni/orbium)                                        | Browser   | Puzzle    |
+| [Pop Pop Win](https://github.com/dart-lang/pop-pop-win)                        | Browser   | Puzzle    |
+| [HeartLine](https://github.com/gamebytes/heartline.github.com)                 | Browser   | Others    |
+| [Squirts](https://github.com/KrofDrakula/squirts)                              | Browser   | Others    |
+| [The Killer](https://github.com/JordanMagnuson/The-Killer)                     | Browser   | Others    |
 
 # Browser-Based
 
