@@ -9,49 +9,6 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-# Table Resume
-
-| Name                                                                           | Plataform | Type      |
-| ------------------------------------------------------------------------------ | --------- | --------- |
-| [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) | Browser   | Boardgame |
-| [Lichess](https://github.com/ornicar/lila)                                     | Browser   | Boardgame |
-| [Desperate Gods](https://github.com/David20321/FTJ)                            | Browser   | Boardgame |
-| [Alien Invasion](https://github.com/cykod/AlienInvasion)                       | Browser   | Arcade    |
-| [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids)                        | Browser   | Arcade    |
-| [Digger](https://github.com/lutzroeder/digger)                                 | Browser   | Arcade    |
-| [Coffee Snake](https://github.com/dommmel/coffee-snake)                        | Browser   | Arcade    |
-| [Snake](https://github.com/jrgdiz/snake)                                       | Browser   | Arcade    |
-| [Survivor](https://github.com/scottschiller/SURVIVOR)                          | Browser   | Arcade    |
-| [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS)                    | Browser   | Arcade    |
-| [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5)                   | Browser   | Arcade    |
-| [Cell Mates](https://github.com/city41/cellmates)                              | Browser   | Arcade    |
-| [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/)            | Browser   | Arcade    |
-| [Coil](https://github.com/hakimel/Coil)                                        | Browser   | Arcade    |
-| [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids)                         | Browser   | Arcade    |
-| [EKG Runner](https://github.com/Myztiq/ekgrunner)                              | Browser   | Arcade    |
-| [Emberwind](https://github.com/operasoftware/Emberwind)                        | Browser   | Arcade    |
-| [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis)       | Browser   | Arcade    |
-| [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders)                      | Browser   | Arcade    |
-| [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers)                    | Browser   | Arcade    |
-| [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer)                 | Browser   | Arcade    |
-| [Mode](https://github.com/AdamAtomic/Mode)                                     | Browser   | Arcade    |
-| [Onslaught Arena](https://github.com/lostdecade/onslaught_arena)               | Browser   | Arcade    |
-| [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer)               | Browser   | Arcade    |
-| [Ski Free](https://github.com/basicallydan/skifree.js)                         | Browser   | Arcade    |
-| [SORADES 13K](https://github.com/maettig/starship-sorades-13k)                 | Browser   | Arcade    |
-| [BananaBread](https://github.com/kripken/BananaBread)                          | Browser   | FPS       |
-| [Diablo JS](https://github.com/mitallast/diablo-js)                            | Browser   | RPG       |
-| [BrowserQuest](https://github.com/mozilla/BrowserQuest)                        | Browser   | MMORPG    |
-| [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer)  | Browser   | Strategy  |
-| [Trigger Rally Online Edition](https://github.com/jareiko/TriggerRallyOE)      | Browser   | Racing    |
-| [Blk Game](https://github.com/benvanik/blk-game)                               | Browser   | Sandbox   |
-| [Cube Engine](https://github.com/Nurgak/Cube-engine)                           | Browser   | Sandbox   |
-| [Orbium](https://github.com/bni/orbium)                                        | Browser   | Puzzle    |
-| [Pop Pop Win](https://github.com/dart-lang/pop-pop-win)                        | Browser   | Puzzle    |
-| [HeartLine](https://github.com/gamebytes/heartline.github.com)                 | Browser   | Others    |
-| [Squirts](https://github.com/KrofDrakula/squirts)                              | Browser   | Others    |
-| [The Killer](https://github.com/JordanMagnuson/The-Killer)                     | Browser   | Others    |
-
 # Browser-Based
 
 ## Boardgame
