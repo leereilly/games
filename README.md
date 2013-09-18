@@ -6,6 +6,9 @@ Below is a list of open source games and game-related projects that can be found
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request. 
 
+Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
 -------
 
 # Browser-Based
@@ -22,7 +25,7 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
-* [Snake](https://github.com/jrgdiz/snake) - a clone of the snake game.
+* [Snake](https://github.com/jrgdiz/snake) - a clone of the snake game. [Play it now!](http://diz.es/snake/)
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
 * [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator.
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
@@ -86,11 +89,11 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 # Native
 
-## Arcade
-
+* [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
+* [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game.
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
+* [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) -  patience card game written in Ruby.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
-* [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - a physics platform game about a plucky wheeled robot named Polly.
 * [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
 * [Savage Wheels](https://github.com/petarov/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
 
@@ -112,22 +115,13 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [OpenRA](https://github.com/OpenRA/OpenRA) - an open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
-
-## Sandbox
-
-* [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - an open source block-based game engine implementation developed with C#.
-
-## Space flight simulator
-
-* [Pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
-
-## MMORPG
-
-* [Source of Tales](https://github.com/tales/sourceoftales) - an entry in the Liberated Pixel Cup 2012.
-
-## Other
-
 * [PCOTM (Phone Case of the Monster)](https://github.com/jwoertink/pcotm) - A Ruby game, where you play as a phone-collecting monster.
+* [Pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
+* [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - a physics platform game about a plucky wheeled robot named Polly.
+* [Source of Tales](https://github.com/tales/sourceoftales) - an entry in the Liberated Pixel Cup 2012.
+* [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
+* [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - an open source block-based game engine implementation developed with C#.
+* [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
 
 # Mobile Games
 
@@ -157,49 +151,25 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 -------
 
-# Libraries
-
-## Javascript
+# Frameworks/Engines/Libraries
 
 * [Akihabara](https://github.com/Akihabara/akihabara) - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript.
 * [ammo.js](https://github.com/kripken/ammo.js) - direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - a simple, lightweight, fast and portable 2D rigid body physics library written in C.
+* [cocos2d for iphone](https://github.com/cocos2d/cocos2d-iphone) - a framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-c.
 * [EaselJS](https://github.com/gskinner/EaselJS) - a library to make working with the Canvas element easier.
 * [EntityJS](https://github.com/bendangelo/entityjs) - an HTML5 javascript game engine utlizing the entity-component design.
-* [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
-
-## Flash
-
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - a free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](https://github.com/AdamAtomic/flixel) - an open source game-making library written entirely in ActionScript 3.
-
-## C / C++
-
-* [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - a simple, lightweight, fast and portable 2D rigid body physics library written in C.
-
-# Frameworks/Engines
-
-## C / C++
-
-* [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
-* [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames.
-
-## Javascript
-
-* [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
-
-## IOS
-
-* [cocos2d for iphone](https://github.com/cocos2d/cocos2d-iphone) - a framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-c.
-
-## XNA
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
-
-# Other
-
+* [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
+* [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
+* [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames.
+* [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
 
 -------
 
