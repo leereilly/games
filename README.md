@@ -105,6 +105,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 ## RPG
 
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
+* [Open MW](https://github.com/zinnschlag/openmw) - Reimplementation of the game Morrowind.
 
 
 ## Puzzle
