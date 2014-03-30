@@ -132,7 +132,8 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 * [Bridges](https://github.com/zgrossbart/bridges) - a puzzle game with bridges, houses, tolls, and subways for iOS.
 * [Canabalt](https://github.com/ericjohnson/canabalt-ios) - open source release of Canabalt for iOS.
-* [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.                                               * [DrugsNRock](https://github.com/biou/DrugsNRock) - a simple multiplayer rhythm game designed during the Global Game Jam'13.
+* [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
+* [DrugsNRock](https://github.com/biou/DrugsNRock) - a simple multiplayer rhythm game designed during the Global Game Jam'13.
 * [Frogatto](https://github.com/frogatto/frogatto) - an action-adventure game, starring a certain quixotic frog.
 * [Gorillas](https://github.com/Lyndir/Gorillas) - an iPhone (or iPod touch) port of the popular old QBasic game.
 * [Light Jockey](https://github.com/jmfieldman/Light-Jockey) - an iOS Auditorium-like game.
