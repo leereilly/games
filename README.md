@@ -48,6 +48,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Release Cycles](https://github.com/RothschildGames/release-cycles) - n abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. [Play now!](http://www.release-cycles.com/)
 * [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree.
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
+* [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy bird clone in JavaScript and Canvas2D Api
 
 ## FPS
 
