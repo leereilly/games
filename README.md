@@ -31,7 +31,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
 * [Cell Mates](https://github.com/city41/cellmates) - a GGJ 13 game.
 * [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
-* [Coil](https://github.com/hakimel/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
+* [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
 * [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
 * [EKG Runner](https://github.com/Myztiq/ekgrunner) - a GGJ 13 game.
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play now!](http://operasoftware.github.com/Emberwind/)
