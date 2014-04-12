@@ -49,6 +49,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree.
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 * [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) -a game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". [Play now!](http://zedfumetto.it/zedinvaders/game.html)
+* [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy bird clone in JavaScript and Canvas2D Api
 
 ## FPS
 
