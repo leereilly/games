@@ -120,7 +120,6 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - a physics platform game about a plucky wheeled robot named Polly.
 * [Source of Tales](https://github.com/tales/sourceoftales) - an entry in the Liberated Pixel Cup 2012.
-* [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - an open source block-based game engine implementation developed with C#.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
 
