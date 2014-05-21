@@ -113,6 +113,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 ## Puzzle
 
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
+* [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - A match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
 
 ## Strategy
 
@@ -160,6 +161,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [ammo.js](https://github.com/kripken/ammo.js) - direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - a simple, lightweight, fast and portable 2D rigid body physics library written in C.
 * [cocos2d for iphone](https://github.com/cocos2d/cocos2d-iphone) - a framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-c.
+* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * [EaselJS](https://github.com/gskinner/EaselJS) - a library to make working with the Canvas element easier.
 * [EntityJS](https://github.com/bendangelo/entityjs) - an HTML5 javascript game engine utlizing the entity-component design.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - a free ActionScript 3 library designed for developing 2D Flash games.
