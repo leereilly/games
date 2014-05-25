@@ -97,6 +97,8 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
 * [Savage Wheels](https://github.com/petarov/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
+* [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL. 
+* [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - The first level of Super Mario Bros made with Python and Pygame.
 
 ## Boardgame
 
@@ -129,6 +131,8 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Android
 
+* [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
+
 ## IOS
 
 * [Bridges](https://github.com/zgrossbart/bridges) - a puzzle game with bridges, houses, tolls, and subways for iOS.
@@ -160,6 +164,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [ammo.js](https://github.com/kripken/ammo.js) - direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - a simple, lightweight, fast and portable 2D rigid body physics library written in C.
 * [cocos2d for iphone](https://github.com/cocos2d/cocos2d-iphone) - a framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-c.
+* [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * [EaselJS](https://github.com/gskinner/EaselJS) - a library to make working with the Canvas element easier.
 * [EntityJS](https://github.com/bendangelo/entityjs) - an HTML5 javascript game engine utlizing the entity-component design.
