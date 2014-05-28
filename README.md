@@ -10,7 +10,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-**Table of Contents**
+# Table of Contents
 
 - [Browser-Based](#user-content-browser-based)
 	- [Boardgame](#user-content-boardgame)
