@@ -8,6 +8,32 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+-------
+
+# Table of Contents
+
+- [Browser-Based](#user-content-browser-based)
+	- [Boardgame](#user-content-boardgame)
+	- [Arcade](#user-content-arcade)
+	- [FPS](#user-content-fps)
+	- [RPG](#user-content-rpg)
+	- [MMORPG](#user-content-mmorpg)
+	- [Strategy](#user-content-strategy)
+	- [Racing](#user-content-racing)
+	- [Sandbox](#user-content-sandbox)
+	- [Puzzle](#user-content-puzzle)
+	- [Others](#user-content-others)
+- [Native](#user-content-native)
+	- [Boardgame](#user-content-boardgame-1)
+	- [RPG](#user-content-rpg-1)
+	- [Puzzle](#user-content-puzzle-1)
+	- [Strategy](#user-content-strategy-1)
+- [Mobile Games](#user-content-mobile-games)
+	- [Android](#user-content-android)
+	- [IOS](#user-content-ios)
+- [Just The Source](#user-content-just-the-source)
+- [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
+- [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
 
 -------
 
