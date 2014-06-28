@@ -55,7 +55,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
 * [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator.
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
-* [Cell Mates](https://github.com/city41/cellmates) - a GGJ 13 game.
+* [Cell Mates](https://github.com/gamebytes/cellmates) - a GGJ 13 game.
 * [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
 * [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
 * [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
@@ -68,7 +68,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - a marble game for learning three.js.
 * [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
-* [Pappu Pakia](https://github.com/mindd-it/game-off-2012) - an addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play now!](http://khele.in/pappu-pakia/)
+* [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - an addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play now!](http://khele.in/pappu-pakia/)
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine. [Play now!](http://entityjs.com/demos)
 * [Polybranch](https://github.com/gbatha/PolyBranch) - a minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity?
 * [Release Cycles](https://github.com/RothschildGames/release-cycles) - n abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. [Play now!](http://www.release-cycles.com/)
@@ -99,7 +99,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Sandbox
 
-* [Blk Game](https://github.com/benvanik/blk-game) - a multiplayer Javascript/WebGL voxel world game demo.
+* [Blk Game](https://github.com/morozd/blk-game) - a multiplayer Javascript/WebGL voxel world game demo.
 * [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL.
 
 ## Puzzle
