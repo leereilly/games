@@ -47,7 +47,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Arcade
 
-* [Alien Invasion](https://github.com/cykod/AlienInvasion) - space invaders++.
+* [Alien Invasion](https://github.com/cykod/AlienInvasion) - space invaders++. [Play it now!](http://cykod.github.io/AlienInvasion/)
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
