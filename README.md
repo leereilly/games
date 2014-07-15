@@ -1,10 +1,10 @@
 # Games on GitHub
 
-Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it. 
+Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
 #### Contributing
 
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request. 
+If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request.
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -76,6 +76,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 * [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) -a game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". [Play now!](http://zedfumetto.it/zedinvaders/game.html)
 * [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy bird clone in JavaScript and Canvas2D Api
+* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy bird clone in JavaScript using MelonJS
 
 ## FPS
 
@@ -118,7 +119,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 # Native
 
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
-* [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL. 
+* [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL.
 * [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game.
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) -  patience card game written in Ruby.
@@ -209,6 +210,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
+* [melonJS](http://melonjs.org) - An open-source HTML5 game framework for 2D games.
 
 -------
 
