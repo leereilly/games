@@ -199,6 +199,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [cocos2d for iphone](https://github.com/cocos2d/cocos2d-iphone) - a framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-c.
 * [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+* [Duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework.
 * [EaselJS](https://github.com/gskinner/EaselJS) - a library to make working with the Canvas element easier.
 * [EntityJS](https://github.com/bendangelo/entityjs) - an HTML5 javascript game engine utlizing the entity-component design.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - a free ActionScript 3 library designed for developing 2D Flash games.
