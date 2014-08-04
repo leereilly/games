@@ -122,6 +122,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
 * [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL.
 * [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game.
+* [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - an indie, side-scrolling, action, RPG.
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) -  patience card game written in Ruby.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
