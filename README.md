@@ -69,7 +69,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
 * [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - an addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play now!](http://khele.in/pappu-pakia/)
-* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine. [Play now!](http://entityjs.com/demos)
+* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine.
 * [Polybranch](https://github.com/gbatha/PolyBranch) - a minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity?
 * [Release Cycles](https://github.com/RothschildGames/release-cycles) - n abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. [Play now!](http://www.release-cycles.com/)
 * [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree.
