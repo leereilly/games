@@ -118,7 +118,6 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 # Native
 
-* [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
 * [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL.
 * [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game.
