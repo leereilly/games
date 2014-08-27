@@ -140,7 +140,8 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Open MW](https://github.com/zinnschlag/openmw) - Reimplementation of the game Morrowind.
-
+* [Flare RPG](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
+* [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - open-source single-player medieval-fantasy 2D J-RPG.
 
 ## Puzzle
 
@@ -149,12 +150,14 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Strategy
 
+* [Caesaria](https://github.com/dalerank/caesaria-game) - an open-source remake of the popular citybuilder and economic sim Caesar III.
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [OpenRA](https://github.com/OpenRA/OpenRA) - an open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
 * [PCOTM (Phone Case of the Monster)](https://github.com/jwoertink/pcotm) - A Ruby game, where you play as a phone-collecting monster.
 * [Pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - a physics platform game about a plucky wheeled robot named Polly.
 * [Source of Tales](https://github.com/tales/sourceoftales) - an entry in the Liberated Pixel Cup 2012.
+* [Spring RTS](https://github.com/spring/spring) - a powerful free cross-platform RTS engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - an open source block-based game engine implementation developed with C#.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
 
