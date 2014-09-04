@@ -118,23 +118,21 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 # Native
 
-* [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
-* [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL.
-* [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game.
+## Arcade
+
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - an indie, side-scrolling, action, RPG.
-* [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
-* [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) -  patience card game written in Ruby.
-* [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
-* [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
-* [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - The first level of Super Mario Bros made with Python and Pygame.
 * [OpenLieroX](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
 * [Savage Wheels](https://github.com/petarov/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
 
+## FPS
+
+* [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
+* [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 
 ## Boardgame
 
-* [Dominion](https://github.com/paulbatum/Dominion) -  a C# implementation of Dominion, a board/card game.
-* [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) -  patience card game written in Ruby.
+* [Dominion](https://github.com/paulbatum/Dominion) - a C# implementation of Dominion, a board/card game.
+* [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - patience card game written in Ruby.
 
 ## RPG
 
@@ -143,10 +141,23 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Flare RPG](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - open-source single-player medieval-fantasy 2D J-RPG.
 
+## Platform
+
+* [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
+* [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
+* [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
+* [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - The first level of Super Mario Bros made with Python and Pygame.
+
 ## Puzzle
 
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - A match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
+
+## Sandbox
+
+* [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL.
+* [Minetest](https://github.com/minetest/minetest) - An open source infinite-world block sandbox game with survival and crafting.
+* [Freeminer](https://github.com/freeminer/freeminer) - An open source sandbox game inspired by Minecraft.
 
 ## Strategy
 
