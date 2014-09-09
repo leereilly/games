@@ -139,12 +139,15 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 ## Platform
 
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
+* [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
+* [Frogatto](https://github.com/frogatto/frogatto) - an action-adventure game, starring a certain quixotic frog.
 * [Gish](https://github.com/blinry/gish) - open Source version of the award-winning physics platformer.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - The first level of Super Mario Bros made with Python and Pygame.
 
 ## Puzzle/card/board
 
+* [2048-cli](https://github.com/Tiehuis/2048-cli) - A cli version of the game 2048 for your Linux terminal.
 * [Dominion](https://github.com/paulbatum/Dominion) - a C# implementation of Dominion, a board/card game.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - patience card game written in Ruby.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - A match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
@@ -161,6 +164,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Caesaria](https://github.com/dalerank/caesaria-game) - an open-source remake of the popular citybuilder and economic sim Caesar III.
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [OpenRA](https://github.com/OpenRA/OpenRA) - an open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
+* [OpenXcom](https://github.com/SupSuper/OpenXcom) - Open-source clone of the original X-Com
 * [PCOTM (Phone Case of the Monster)](https://github.com/jwoertink/pcotm) - A Ruby game, where you play as a phone-collecting monster.
 * [Pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - a physics platform game about a plucky wheeled robot named Polly.
