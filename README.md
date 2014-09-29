@@ -181,6 +181,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Strategy
 
 * [Caesaria](https://github.com/dalerank/caesaria-game) - an open-source remake of the popular citybuilder and economic sim Caesar III.
+* [CorsixTH](https://github.com/CorsixTH/CorsixTH) - open source clone of Theme Hospital
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [OpenRA](https://github.com/OpenRA/OpenRA) - an open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) - Open-source clone of the original X-Com
