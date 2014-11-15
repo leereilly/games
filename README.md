@@ -72,7 +72,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
 * [Snake](https://github.com/jrgdiz/snake) - a clone of the snake game. [Play it now!](http://diz.es/snake/)
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
-* [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator.
+* [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator. [Play now!](http://mattsurabian.com/duckhunt/)
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
 * [Cell Mates](https://github.com/gamebytes/cellmates) - a GGJ 13 game.
 * [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
@@ -89,13 +89,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
 * [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - an addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play now!](http://khele.in/pappu-pakia/)
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine.
-* [Polybranch](https://github.com/gbatha/PolyBranch) - a minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity?
+* [Polybranch](https://github.com/gbatha/PolyBranch) - a minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play now!](http://gregbatha.com/branches/)
 * [Release Cycles](https://github.com/RothschildGames/release-cycles) - n abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. [Play now!](http://www.release-cycles.com/)
-* [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree.
+* [Ski Free](https://github.com/basicallydan/skifree.js) - a JavaScript port of the classic PC Game, Skifree. [Play the Demo now!](http://basicallydan.github.com/skifree.js)
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - a scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 * [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) -a game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". [Play now!](http://zedfumetto.it/zedinvaders/game.html)
-* [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy bird clone in JavaScript and Canvas2D Api
-* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy bird clone in JavaScript using MelonJS
+* [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy bird clone in JavaScript and Canvas2D Api [Play now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
+* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy bird clone in JavaScript using MelonJS [Play now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 
 ## FPS
 
