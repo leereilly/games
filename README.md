@@ -61,6 +61,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Boardgame
 
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
+* [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
 * [Desperate Gods](https://github.com/David20321/FTJ) - a free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 
@@ -199,6 +200,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Android
 
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
+* [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 
 ## IOS
 
@@ -211,6 +213,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Light Jockey](https://github.com/jmfieldman/Light-Jockey) - an iOS Auditorium-like game.
 * [Lumio](https://github.com/joannecdyer/lumio) - a puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
+* [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 
 -------
 
