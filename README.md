@@ -71,6 +71,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
+* [hurry!](https://github.com/hughsk/ludum-dare-27) - a small but speedy arcade shooter. [Play it now!](http://hughsk.io/ludum-dare-27/)
 * [Snake](https://github.com/jrgdiz/snake) - a clone of the snake game. [Play it now!](http://diz.es/snake/)
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
 * [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator. [Play now!](http://mattsurabian.com/duckhunt/)
