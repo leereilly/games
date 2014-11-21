@@ -125,6 +125,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Puzzle
 
+* [Hextris](https://github.com/Hextris/hextris) - an addictive puzzle game inspired by Tetris. [Play now!](http://hextris.io/)
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart.
 
