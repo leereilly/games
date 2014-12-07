@@ -89,6 +89,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [HotFix](https://github.com/sdrdis/hotfix) - help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. [Play now!](http://sdrdis.github.com/hotfix/)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - a marble game for learning three.js.
 * [Mode](https://github.com/AdamAtomic/Mode) - a small (but sadly not that simple) demo game built on the flixel framework. [Play now!](http://www.adamatomic.com/mode/)
+* [Monster wants candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - a simple HTML5 game created with Phaser 2.0.7 [Play now!](http://candy-demo.enclavegames.com/)
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play now!](http://arcade.lostdecadegames.com/onslaught_arena/)
 * [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - an addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play now!](http://khele.in/pappu-pakia/)
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - simple platformer game that demostrates the power of the Entity game engine.
