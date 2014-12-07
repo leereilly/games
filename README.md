@@ -122,6 +122,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Racing
 
+* [HexGL](https://github.com/BKcore/HexGL) - a futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play now!](http://hexgl.bkcore.com/)
 * [Trigger Rally Online Edition](https://github.com/jareiko/TriggerRallyOE) - fast arcade rally racing. [Play now!](http://triggerrally.com/x/Preview/Arbusu/drive)
 
 ## Sandbox
