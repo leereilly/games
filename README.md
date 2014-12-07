@@ -104,7 +104,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - a playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play now!](http://www.schillmania.com/survivor/)
 * [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) -a game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". [Play now!](http://zedfumetto.it/zedinvaders/game.html)
 
-
 ## FPS
 
 * [BananaBread](https://github.com/kripken/BananaBread) - a port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
@@ -129,7 +128,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Sandbox
 
-* [Blk Game](https://github.com/morozd/blk-game) - a multiplayer Javascript/WebGL voxel world game demo.
+* [Blk Game](https://github.com/morozd/blk-game) - a multiplayer Javascript/WebGL voxel world game demo. [Play now!](http://benvanik.github.io/blk-game/)
 * [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL.
 
 ## Puzzle
