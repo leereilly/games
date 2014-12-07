@@ -60,6 +60,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Boardgame
 
+* [2048](https://github.com/gabrielecirulli/2048) - a small clone of 1024 but for web browser. [Play it now!](http://gabrielecirulli.github.io/2048/)
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
