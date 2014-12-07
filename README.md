@@ -135,7 +135,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Hextris](https://github.com/Hextris/hextris) - an addictive puzzle game inspired by Tetris. [Play now!](http://hextris.io/)
 * [Monkey Rally](https://github.com/antila/ludum-dare-28) - a JS game for the Ludum Dare #28 jam. [Play now!](http://antila.github.io/ludum-dare-28/)
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
-* [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart.
+* [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart. [Play now!](http://dart-lang.github.io/sample-pop_pop_win/)
 
 ## Others
 
