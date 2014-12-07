@@ -255,6 +255,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
+* [three.js](https://github.com/mrdoob/three.js) - A JavaScript 3D library used in many browser games.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
 * [melonJS](http://melonjs.org) - An open-source HTML5 game framework for 2D games.
