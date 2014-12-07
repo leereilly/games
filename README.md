@@ -70,6 +70,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - space invaders++. [Play it now!](http://cykod.github.io/AlienInvasion/)
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
+* [Captain Rogers](https://github.com/dommmel/coffee-snake) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 * [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
 * [Draconas](https://github.com/Casmo/Drakonas) - a classic shoot 'em up game build with the Three.js library. [Play it now!](http://www.fellicht.nl/games/drakonas/)
 * [hurry!](https://github.com/hughsk/ludum-dare-27) - a small but speedy arcade shooter. [Play it now!](http://hughsk.io/ludum-dare-27/)
