@@ -133,6 +133,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Puzzle
 
+* [A Dark Room](https://github.com/Continuities/adarkroom) - a Minimalist Text Adventure written in JavaScript. [Play now!](http://adarkroom.doublespeakgames.com/)
 * [Hextris](https://github.com/Hextris/hextris) - an addictive puzzle game inspired by Tetris. [Play now!](http://hextris.io/)
 * [Monkey Rally](https://github.com/antila/ludum-dare-28) - a JS game for the Ludum Dare #28 jam. [Play now!](http://antila.github.io/ludum-dare-28/)
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
