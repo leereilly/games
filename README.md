@@ -137,6 +137,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - a GGJ13 game.
 * [Squirts](https://github.com/KrofDrakula/squirts) - A well-known indie game implemented in JavaScript. [Play now!](http://is.gd/squirts)
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
+* [binb](https://github.com/lpinca/binb) - A competitive, multiplayer, realtime, guess the song game. [Play now!](http://binb.nodejitsu.com)
 
 -------
 
