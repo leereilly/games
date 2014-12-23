@@ -23,6 +23,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 	- [Racing](#user-content-racing)
 	- [Sandbox](#user-content-sandbox)
 	- [Puzzle](#user-content-puzzle)
+	- [Clicker](#user-content-clicker)
 	- [Others](#user-content-others)
 - [Native](#user-content-native)
 	- [Boardgame](#user-content-boardgame-1)
@@ -131,6 +132,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Hextris](https://github.com/Hextris/hextris) - an addictive puzzle game inspired by Tetris. [Play now!](http://hextris.io/)
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart.
+
+## Clicker
+* [A Dark Room](https://github.com/Continuities/adarkroom) - A Minimalist Text Adventure Game [Play now!](http://continuities.github.io/adarkroom)
+* [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics. [Play now!](http://cern.ch/particle-clicker)
 
 ## Others
 
