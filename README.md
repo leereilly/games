@@ -140,6 +140,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart. [Play now!](http://dart-lang.github.io/sample-pop_pop_win/)
 * [untrusted](https://github.com/AlexNisnevich/untrusted) - a meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. [Play now!](http://alex.nisnevich.com/untrusted/)
+* [0hh1](https://github.com/Q42/0hh1) - A lovely little logic game by Q42. [Play now!](http://0hh1.com)
+* [2048](https://github.com/gabrielecirulli/2048) - A sliding addition game [Play now!](http://gabrielecirulli.github.io/2048/)
 
 ## Clicker
 * [A Dark Room](https://github.com/Continuities/adarkroom) - A Minimalist Text Adventure Game [Play now!](http://continuities.github.io/adarkroom)
