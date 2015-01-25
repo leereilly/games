@@ -267,6 +267,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [Pygame](http://pygame.org/) - Set of [Python](https://www.python.org/) modules designed for writing games.
+* [Pyglet](http://www.pyglet.org/) - [Python](https://www.python.org/) library that provides an object-oriented application programming interface allowing the creation of games and other multimedia applications.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
