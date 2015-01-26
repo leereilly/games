@@ -198,6 +198,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Freeminer](https://github.com/freeminer/freeminer) - An open source sandbox game inspired by Minecraft.
 
 ## Strategy
+
 * [0 A.D.](https://github.com/0ad/0ad) - a 3D RTS similar to Age of Empires II
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - a 2D turn-based stratey
 * [Caesaria](https://github.com/dalerank/caesaria-game) - an open-source remake of the popular citybuilder and economic sim Caesar III.
