@@ -194,6 +194,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Sandbox
 
 * [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL.
+* [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 * [Minetest](https://github.com/minetest/minetest) - An open source infinite-world block sandbox game with survival and crafting.
 * [Freeminer](https://github.com/freeminer/freeminer) - An open source sandbox game inspired by Minecraft.
 
@@ -265,9 +266,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/)
 * [melonJS](http://melonjs.org) - An open-source HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
+* [OGRE](http://www.ogre3d.org/) - Open Source 3D Graphics Engine.
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
+* [Pygame](http://pygame.org/) - Set of [Python](https://www.python.org/) modules designed for writing games.
+* [Pyglet](http://www.pyglet.org/) - [Python](https://www.python.org/) library that provides an object-oriented application programming interface allowing the creation of games and other multimedia applications.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library 
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
