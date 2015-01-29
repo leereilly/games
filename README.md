@@ -159,6 +159,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Arcade
 
+* [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - overhead shoot-em-up, open source port of the classic DOS game.
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - an indie, side-scrolling, action, RPG.
 * [OpenLieroX](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
 * [Savage Wheels](https://github.com/petarov/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
