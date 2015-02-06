@@ -265,6 +265,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [EntityJS](https://github.com/bendangelo/entityjs) - an HTML5 javascript game engine utlizing the entity-component design.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - a free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](https://github.com/AdamAtomic/flixel) - an open source game-making library written entirely in ActionScript 3.
+* [GameJS](https://github.com/gamejs/gamejs) - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [Gladiator 3D](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/)
