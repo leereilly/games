@@ -262,17 +262,19 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Flixel](https://github.com/AdamAtomic/flixel) - an open source game-making library written entirely in ActionScript 3.
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [Gladiator 3D](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
+* [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/)
+* [melonJS](http://melonjs.org) - An open-source HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
+* [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library 
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [three.js](https://github.com/mrdoob/three.js) - A JavaScript 3D library used in many browser games.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
-* [melonJS](http://melonjs.org) - An open-source HTML5 game framework for 2D games.
 
 -------
 
