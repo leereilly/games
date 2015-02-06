@@ -201,6 +201,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Strategy
 
+* [0 A.D.](https://github.com/0ad/0ad) - a 3D RTS similar to Age of Empires II
+* [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - a 2D turn-based stratey
 * [Caesaria](https://github.com/dalerank/caesaria-game) - an open-source remake of the popular citybuilder and economic sim Caesar III.
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - open source clone of Theme Hospital
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
@@ -251,6 +253,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 # Frameworks/Engines/Libraries
 
 * [Akihabara](https://github.com/Akihabara/akihabara) - a set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript.
+* [Allegro 5](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games (graphics,sound etc.)
 * [ammo.js](https://github.com/kripken/ammo.js) - direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) - a complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - a simple, lightweight, fast and portable 2D rigid body physics library written in C.
