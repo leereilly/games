@@ -197,6 +197,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Sandbox
 
 * [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL.
+* [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 * [Minetest](https://github.com/minetest/minetest) - An open source infinite-world block sandbox game with survival and crafting.
 * [Freeminer](https://github.com/freeminer/freeminer) - An open source sandbox game inspired by Minecraft.
 
