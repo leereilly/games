@@ -61,7 +61,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Boardgame
 
-* [2048](https://github.com/gabrielecirulli/2048) - a small clone of 1024 but for web browser. [Play it now!](http://gabrielecirulli.github.io/2048/)
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
@@ -134,14 +133,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Puzzle
 
+* [0hh1](https://github.com/Q42/0hh1) - A lovely little logic game by Q42. [Play now!](http://0hh1.com)
+* [2048](https://github.com/gabrielecirulli/2048) - A sliding addition game [Play now!](http://gabrielecirulli.github.io/2048/)
 * [A Dark Room](https://github.com/Continuities/adarkroom) - a Minimalist Text Adventure written in JavaScript. [Play now!](http://adarkroom.doublespeakgames.com/)
 * [Hextris](https://github.com/Hextris/hextris) - an addictive puzzle game inspired by Tetris. [Play now!](http://hextris.io/)
 * [Monkey Rally](https://github.com/antila/ludum-dare-28) - a JS game for the Ludum Dare #28 jam. [Play now!](http://antila.github.io/ludum-dare-28/)
 * [Orbium](https://github.com/bni/orbium) - a modern version of the 90's game Log!cal. [Play now!](http://jsway.se/m/)
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - an implementation of Minesweeper in Dart. [Play now!](http://dart-lang.github.io/sample-pop_pop_win/)
 * [untrusted](https://github.com/AlexNisnevich/untrusted) - a meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. [Play now!](http://alex.nisnevich.com/untrusted/)
-* [0hh1](https://github.com/Q42/0hh1) - A lovely little logic game by Q42. [Play now!](http://0hh1.com)
-* [2048](https://github.com/gabrielecirulli/2048) - A sliding addition game [Play now!](http://gabrielecirulli.github.io/2048/)
 
 ## Clicker
 * [A Dark Room](https://github.com/Continuities/adarkroom) - A Minimalist Text Adventure Game [Play now!](http://continuities.github.io/adarkroom)
@@ -271,7 +270,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
-* [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library 
+* [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [three.js](https://github.com/mrdoob/three.js) - A JavaScript 3D library used in many browser games.
