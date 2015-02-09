@@ -61,7 +61,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Boardgame
 
-* [2048](https://github.com/gabrielecirulli/2048) - a small clone of 1024 but for web browser. [Play it now!](http://gabrielecirulli.github.io/2048/)
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
@@ -134,6 +133,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Puzzle
 
+* [0hh1](https://github.com/Q42/0hh1) - A lovely little logic game by Q42. [Play now!](http://0hh1.com)
+* [2048](https://github.com/gabrielecirulli/2048) - A sliding addition game [Play now!](http://gabrielecirulli.github.io/2048/)
 * [A Dark Room](https://github.com/Continuities/adarkroom) - a Minimalist Text Adventure written in JavaScript. [Play now!](http://adarkroom.doublespeakgames.com/)
 * [Hextris](https://github.com/Hextris/hextris) - an addictive puzzle game inspired by Tetris. [Play now!](http://hextris.io/)
 * [Monkey Rally](https://github.com/antila/ludum-dare-28) - a JS game for the Ludum Dare #28 jam. [Play now!](http://antila.github.io/ludum-dare-28/)
@@ -199,6 +200,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 * [Minetest](https://github.com/minetest/minetest) - An open source infinite-world block sandbox game with survival and crafting.
 * [Freeminer](https://github.com/freeminer/freeminer) - An open source sandbox game inspired by Minecraft.
+* [Terasology](https://github.com/MovingBlocks/Terasology) - Open source voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility
 
 ## Strategy
 
@@ -272,14 +274,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/)
 * [melonJS](http://melonjs.org) - An open-source HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
-* [OGRE](http://www.ogre3d.org/) - Open Source 3D Graphics Engine.
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
-* [Pygame](http://pygame.org/) - Set of [Python](https://www.python.org/) modules designed for writing games.
-* [Pyglet](http://www.pyglet.org/) - [Python](https://www.python.org/) library that provides an object-oriented application programming interface allowing the creation of games and other multimedia applications.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
-* [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library 
+* [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [three.js](https://github.com/mrdoob/three.js) - A JavaScript 3D library used in many browser games.
