@@ -74,7 +74,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Captain Rogers](https://github.com/dommmel/coffee-snake) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 * [Cell Mates](https://github.com/gamebytes/cellmates) - a GGJ 13 game.
-* [Codename Lumberjack](http://projects.iarke.us/codenamelumberjack/) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
+* [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
 * [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
 * [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
 * [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy bird clone in JavaScript and Canvas2D Api [Play now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
@@ -272,7 +272,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [Gladiator 3D](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/)
-* [melonJS](http://melonjs.org) - An open-source HTML5 game framework for 2D games.
+* [melonJS](https://github.com/melonjs/melonJS) - An open-source HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
