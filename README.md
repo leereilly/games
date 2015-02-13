@@ -62,30 +62,30 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Boardgame
 
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
+* [Desperate Gods](https://github.com/David20321/FTJ) - a free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with scala, Play 2.1, mongodb and elasticsearch. [Play now!](http://lichess.org/)
-* [Desperate Gods](https://github.com/David20321/FTJ) - a free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 
 ## Arcade
 
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - space invaders++. [Play it now!](http://cykod.github.io/AlienInvasion/)
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
-* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Captain Rogers](https://github.com/dommmel/coffee-snake) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 * [Cell Mates](https://github.com/gamebytes/cellmates) - a GGJ 13 game.
+* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy bird clone in JavaScript using MelonJS [Play now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 * [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - a simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
 * [Coffee Snake](https://github.com/dommmel/coffee-snake) - an HTML5 snake game written in coffee script. [Play it now!](http://dommmel.github.com/coffee-snake/)
 * [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play now!](http://hakim.se/experiments/html5/coil/)
 * [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy bird clone in JavaScript and Canvas2D Api [Play now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
-* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy bird clone in JavaScript using MelonJS [Play now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
+* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Draconas](https://github.com/Casmo/Drakonas) - a classic shoot 'em up game build with the Three.js library. [Play it now!](http://www.fellicht.nl/games/drakonas/)
 * [Duck Hunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator. [Play now!](http://mattsurabian.com/duckhunt/)
-* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
 * [EKG Runner](https://github.com/Myztiq/ekgrunner) - a GGJ 13 game.
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play now!](http://operasoftware.github.com/Emberwind/)
 * [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play now!](http://anirudhjoshi.github.com/fluid_table_tennis)
 * [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - a very simple flixel game inspired by the Taito classic. [Play now!](http://flixel.org/flxinvaders/)
+* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - a very simple flixel game inspired by the classic arcade shooter. [Play now!](http://www.flixel.org/flxteroids/)
 * [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - a sort of GIRP-inspired tower defense. [Play now!](http://adamatomic.com/graverobbers)
 * [HotFix](https://github.com/sdrdis/hotfix) - help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. [Play now!](http://sdrdis.github.com/hotfix/)
 * [hurry!](https://github.com/hughsk/ludum-dare-27) - a small but speedy arcade shooter. [Play it now!](http://hughsk.io/ludum-dare-27/)
@@ -148,11 +148,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Others
 
+* [binb](https://github.com/lpinca/binb) - A competitive, multiplayer, realtime, guess the song game. [Play now!](http://binb.nodejitsu.com)
+* [Hauberk](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - a GGJ13 game.
 * [Squirts](https://github.com/KrofDrakula/squirts) - A well-known indie game implemented in JavaScript. [Play now!](http://is.gd/squirts)
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - a flash/as3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
-* [binb](https://github.com/lpinca/binb) - A competitive, multiplayer, realtime, guess the song game. [Play now!](http://binb.nodejitsu.com)
-* [Hauberk](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 
 -------
 
@@ -173,8 +173,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## RPG
 
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - cross-platform port of Arx Fatalis, a first-person role-playing game.
-* [Open MW](https://github.com/zinnschlag/openmw) - Reimplementation of the game Morrowind.
 * [Flare RPG](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
+* [Open MW](https://github.com/zinnschlag/openmw) - Reimplementation of the game Morrowind.
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - open-source single-player medieval-fantasy 2D J-RPG.
 
 ## Platform
@@ -197,18 +197,16 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Sandbox
 
 * [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL.
+* [Freeminer](https://github.com/freeminer/freeminer) - An open source sandbox game inspired by Minecraft.
 * [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 * [Minetest](https://github.com/minetest/minetest) - An open source infinite-world block sandbox game with survival and crafting.
-* [Freeminer](https://github.com/freeminer/freeminer) - An open source sandbox game inspired by Minecraft.
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Open source voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility
 
 ## Strategy
 
 * [0 A.D.](https://github.com/0ad/0ad) - a 3D RTS similar to Age of Empires II
-* [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - a 2D turn-based stratey
 * [Caesaria](https://github.com/dalerank/caesaria-game) - an open-source remake of the popular citybuilder and economic sim Caesar III.
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - open source clone of Theme Hospital
-* [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [openage](https://github.com/SFTtech/openage) - Open source clone of the Age of Empires II engine.
 * [OpenRA](https://github.com/OpenRA/OpenRA) - an open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) - Open-source clone of the original X-Com
@@ -217,6 +215,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - a physics platform game about a plucky wheeled robot named Polly.
 * [Source of Tales](https://github.com/tales/sourceoftales) - an entry in the Liberated Pixel Cup 2012.
 * [Spring RTS](https://github.com/spring/spring) - a powerful free cross-platform RTS engine.
+* [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - a 2D turn-based stratey
+* [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - an open source block-based game engine implementation developed with C#.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - most awesome puzzle game.
 
@@ -235,10 +235,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [DrugsNRock](https://github.com/biou/DrugsNRock) - a simple multiplayer rhythm game designed during the Global Game Jam'13.
 * [Frogatto](https://github.com/frogatto/frogatto) - an action-adventure game, starring a certain quixotic frog.
 * [Gorillas](https://github.com/Lyndir/Gorillas) - an iPhone (or iPod touch) port of the popular old QBasic game.
+* [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 * [Light Jockey](https://github.com/jmfieldman/Light-Jockey) - an iOS Auditorium-like game.
 * [Lumio](https://github.com/joannecdyer/lumio) - a puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
-* [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 
 -------
 
@@ -274,8 +274,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/)
 * [melonJS](https://github.com/melonjs/melonJS) - An open-source HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
-* [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library
