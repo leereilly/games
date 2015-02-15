@@ -226,8 +226,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Android
 
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
+* [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
 * [https://github.com/watabou/pixel-dungeon](Pixel Dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
+* [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - A slider puzzle game implementation created with Cocos2d for Android.
 
 ## IOS
 
@@ -264,6 +266,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [ammo.js](https://github.com/kripken/ammo.js) - direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) - a complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - a simple, lightweight, fast and portable 2D rigid body physics library written in C.
+* [Cocos2d for Android](https://github.com/ZhouWeikuan/cocos2d) -
 * [cocos2d for iphone](https://github.com/cocos2d/cocos2d-iphone) - a framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-c.
 * [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
