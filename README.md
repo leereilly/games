@@ -201,7 +201,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Freeminer](https://github.com/freeminer/freeminer) - An open source sandbox game inspired by Minecraft.
 * [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 * [Minetest](https://github.com/minetest/minetest) - An open source infinite-world block sandbox game with survival and crafting.
-* [Terasology](https://github.com/MovingBlocks/Terasology) - Open source voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility
+* [Terasology](https://github.com/MovingBlocks/Terasology) - Open source voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 
 ## Strategy
 
