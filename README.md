@@ -250,6 +250,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [MaNGOS](https://github.com/mangos/mangos) - a full featured World of Warcraft server!
 * [Miner Wars 2081](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) - for modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Prince of Persia!
+* [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 
 -------
 
