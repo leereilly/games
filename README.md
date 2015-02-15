@@ -70,6 +70,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - space invaders++. [Play it now!](http://cykod.github.io/AlienInvasion/)
+* [Arashi](https://github.com/stephank/arashi-js) - Arashi is a clone of the Arcade game Tempest. [Play it now!](http://stephank.github.io/arashi-js/)
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
 * [Captain Rogers](https://github.com/dommmel/coffee-snake) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 * [Cell Mates](https://github.com/gamebytes/cellmates) - a GGJ 13 game.
