@@ -228,7 +228,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 * [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - solitaire mahjong game done in HTML/CSS/JS.
-* [https://github.com/watabou/pixel-dungeon](Pixel Dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - A slider puzzle game implementation created with Cocos2d for Android.
 
 ## IOS
