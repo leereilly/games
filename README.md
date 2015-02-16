@@ -266,6 +266,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Duality](https://github.com/AdamsLair/duality) - a 2D Game Development Framework.
 * [EaselJS](https://github.com/gskinner/EaselJS) - a library to make working with the Canvas element easier.
 * [EntityJS](https://github.com/bendangelo/entityjs) - an HTML5 javascript game engine utlizing the entity-component design.
+* [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - a free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](https://github.com/AdamAtomic/flixel) - an open source game-making library written entirely in ActionScript 3.
 * [GameJS](https://github.com/gamejs/gamejs) - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame
