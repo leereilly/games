@@ -275,7 +275,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Gladiator 3D](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
 * [Godot](https://github.com/okamstudio/godot) - Fully featured, open source, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/)
-* [LÖVE](https://love2d.org/) - LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X and Linux.
 * [melonJS](https://github.com/melonjs/melonJS) - An open-source HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
