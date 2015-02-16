@@ -281,6 +281,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library
 * [Spring](https://github.com/spring/spring) - an Open Source Real Time Strategy game engine.
+* [Starling](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, OS X), and to the browser (via the Flash plugin).
 * [Tesseract](https://github.com/lsalzman/tesseract) - make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [three.js](https://github.com/mrdoob/three.js) - A JavaScript 3D library used in many browser games.
 * [Torque 2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D from GarageGames.
