@@ -133,6 +133,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Puzzle
 
+* [0hh0](https://github.com/Q42/0hn0) - A companion game to 0hh1 by Q42. [Play now!](http://0hh0.com)
 * [0hh1](https://github.com/Q42/0hh1) - A lovely little logic game by Q42. [Play now!](http://0hh1.com)
 * [2048](https://github.com/gabrielecirulli/2048) - A sliding addition game [Play now!](http://gabrielecirulli.github.io/2048/)
 * [A Dark Room](https://github.com/Continuities/adarkroom) - a Minimalist Text Adventure written in JavaScript. [Play now!](http://adarkroom.doublespeakgames.com/)
