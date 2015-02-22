@@ -287,6 +287,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [kiwi.js](https://github.com/gamelab/kiwi.js) - Blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
 * [libRocket](https://github.com/librocket/librocket) - C++ user interface package based on the HTML and CSS standards. It is designed as a complete solution for any project's interface needs.
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/).
+* [lycheeJS](https://github.com/LazerUnicorns/lycheeJS) - Free HTML5 + native OpenGL Game Engine for Embedded, Console, Mobile, Server and Desktop.
 * [Matter.js](https://github.com/liabru/matter-js) - Matter.js is a JavaScript 2D rigid body physics engine for the web.
 * [melonJS](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
