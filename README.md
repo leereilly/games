@@ -142,8 +142,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Monkey Rally](https://github.com/antila/ludum-dare-28) - JavaScript game created for the Ludum Dare #28 jam. [Play it now!](http://antila.github.io/ludum-dare-28/)
 * [Orbium](https://github.com/bni/orbium) - Modern version of the 90's game Log!cal. [Play it now!](http://jsway.se/m/)
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart. [Play it now!](http://dart-lang.github.io/sample-pop_pop_win/)
-* [Swap](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal.
-* [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations.
+* [Swap](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. [Play it now!](http://nmoroze.github.io/swap/)
+* [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jeroenverfallie.be/ggo13-transcube/)
 * [untrusted](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. [Play it now!](http://alex.nisnevich.com/untrusted/)
 
 ## Clicker
