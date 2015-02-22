@@ -292,8 +292,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - Simple, lightweight, fast and portable 2D rigid body physics library written in C.
 * [Cocos2d for Android](https://github.com/ZhouWeikuan/cocos2d) - Cocos2d for Android, based on cocos2d-android-0.82, and now ported from cocos2d-iphone 0.99.4.
-* [cocos2d for iphone](https://github.com/cocos2d/cocos2d-iphone) - Framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-C.
-* [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.
+* [Cocos2d for iPhone](https://github.com/cocos2d/cocos2d-iphone) - Framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-C.
+* [Cocos2d for HTML5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
+* [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.
+* [Crafty](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
+* [CutJS](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 * [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 * [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 * [EaselJS](https://github.com/gskinner/EaselJS) - Library to make working with the Canvas element easier.
@@ -306,14 +309,19 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [Gladiator 3D](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
 * [Godot](https://github.com/okamstudio/godot) - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+* [kiwi.js](https://github.com/gamelab/kiwi.js) - Blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
 * [libRocket](https://github.com/librocket/librocket) - C++ user interface package based on the HTML and CSS standards. It is designed as a complete solution for any project's interface needs.
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/).
+* [lycheeJS](https://github.com/LazerUnicorns/lycheeJS) - Free HTML5 + native OpenGL Game Engine for Embedded, Console, Mobile, Server and Desktop.
 * [Matter.js](https://github.com/liabru/matter-js) - Matter.js is a JavaScript 2D rigid body physics engine for the web.
 * [melonJS](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
+* [panda.js](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS) - Modular, extendable, and easy-to-use physics engine for JavaScript.
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
+* [PlayCanvas](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
 * [Spring](https://github.com/spring/spring) - Real Time Strategy game engine.
