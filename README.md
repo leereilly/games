@@ -204,7 +204,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Open MW](https://github.com/zinnschlag/openmw) - Reimplementation of the game Morrowind.
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
 * [Project X](https://github.com/dvolk/project_x) - Open-world survival roguelikelike game.
-* 
+
 ## Platform
 
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
