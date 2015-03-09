@@ -352,6 +352,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [FlxCollisions](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
 * [Gamertag](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.
+* [Greenworks](https://github.com/greenheartgames/greenworks) - A node.js/nw.js addon allowing you to integrate HTML5 game with Steamworks.
 * [Halo::Reach::API](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API.
 * [JavaScript Breakouts](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).
 * [Leaderboard(Java)](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in Java).
