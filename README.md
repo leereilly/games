@@ -262,6 +262,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
+* [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
 
 # Mobile Games
 
