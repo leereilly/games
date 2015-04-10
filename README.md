@@ -230,6 +230,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Gish](https://github.com/blinry/gish) - Award-winning physics platformer.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
+* [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style
 
 ## Puzzle/card/board
 
@@ -253,7 +254,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Caesaria](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
 * [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript. [Play it now!](http://www.adityaravishankar.com/projects/games/lastcolony/)
+* [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d)
 * [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
+* [OpenDungeons] (https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
 * [OpenRA](https://github.com/OpenRA/OpenRA) - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM.
 * [PCOTM (Phone Case of the Monster)](https://github.com/jwoertink/pcotm) - Ruby game, where you play as a phone-collecting monster.
