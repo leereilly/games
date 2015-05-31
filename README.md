@@ -28,6 +28,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 - [Native](#user-content-native)
   - [Arcade](#user-content-arcade-1)
   - [FPS](#user-content-fps-1)
+  - [MMORPG](#user-content-mmorpg-1)
   - [RPG](#user-content-rpg-1)
   - [Platform](#user-content-platform)
   - [Boardgame](#user-content-boardgame-1)
@@ -225,6 +226,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
 * [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
+
+## MMORPG
+
+* [Meridian 59](https://github.com/Daenks/Meridian59_103) - The first 3D MMORPG, released in 1996 and open sourced in 2012. Actively developed. [Play it now!](http://openmeridian.org)
+* [Meridian 59 Classic](https://github.com/Meridian59/Meridian59) - The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
 
 ## RPG
 
