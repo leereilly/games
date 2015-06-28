@@ -383,6 +383,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Torque 2D](https://github.com/GarageGames/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
+* [Urho3D](https://github.com/urho3d/Urho3D) - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
 
 -------
 
