@@ -240,7 +240,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Flare RPG](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
-* [Open MW](https://github.com/zinnschlag/openmw) - Reimplementation of the game Morrowind.
+* [Open MW](https://github.com/OpenMW/openmw) - Reimplementation of the game Morrowind.
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
 
 ## Platform
