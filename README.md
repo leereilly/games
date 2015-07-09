@@ -238,8 +238,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## RPG
 
+* [Angband](https://github.com/angband/angband) - Single-player dungeon exploration game in the universe of JRR Tolkien.
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
+* [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
 * [Crystal Picnic](https://github.com/Nooskewl/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
+* [Dungeon Monkey Eternal](https://github.com/jwvhewitt/dmeternal) - Party-based fantasy roguelike role-playing game.
+* [Egoboo](https://github.com/egoboo/egoboo) - Cool 3D dungeon crawling game in the spirit of NetHack.
 * [Flare RPG](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
 * [Monster 1](https://github.com/Nooskewl/monster) - Classic-style J-RPG, prequel to Monster RPG 2.
 * [Monster RPG 2](https://github.com/Nooskewl/monster-rpg-2) - Turn-based J-RPG in a fantasy universe.
@@ -255,7 +259,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Gish](https://github.com/blinry/gish) - Award-winning physics platformer.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
-* [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style
+* [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
+* [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
 
 ## Puzzle/card/board
 
@@ -266,6 +271,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
+
+## Racing
+
+* [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
+* [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
 
 ## Sandbox
 
@@ -280,7 +290,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [0 A.D.](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II
 * [Caesaria](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
+* [Colobot](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
+* [Curse of War](https://github.com/a-nikolaev/curseofwar) - Fast-paced action strategy game with ncurses and SDL frontends.
 * [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript. [Play it now!](http://www.adityaravishankar.com/projects/games/lastcolony/)
 * [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d)
 * [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
@@ -291,11 +303,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
 * [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
+* [Race into Space](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
+* [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
 * [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
-* [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - 2D turn-based stratey.
+* [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
+* [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
 
