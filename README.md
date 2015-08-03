@@ -125,6 +125,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
 * [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree. [Play it now!](http://basicallydan.github.com/skifree.js)
 * [Snake](https://github.com/jrgdiz/snake) - Clone of the classic Snake game. [Play it now!](http://diz.es/snake/)
+* [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer. [Play it now!](http://couchfriends.com/games/5)
 * [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - Scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play it now!](http://maettig.com/code/canvas/starship-sorades-13k/)
 * [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJS Framework. [Play it now!](http://games.loopeex.com/space-crusade)
