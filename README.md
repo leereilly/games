@@ -157,6 +157,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Racing
 
 * [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
+* [Stunt Rally](https://github.com/stuntrally/stuntrally) - 3D racing game featuring more than 20 vehicles, 160 tracks, multiplayer support (network & split screen) as well as a track editor.
 * [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing. [Play it now!](https://triggerrally.com/)
 
 ## Sandbox
