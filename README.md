@@ -391,7 +391,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [CutJS](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 * [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 * [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
-* [EaselJS](https://github.com/gskinner/EaselJS) - Library to make working with the Canvas element easier.
+* [EaselJS](https://github.com/CreateJS/EaselJS/) - Library to make working with the Canvas element easier.
 * [EntityJS](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
 * [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
