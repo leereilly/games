@@ -31,8 +31,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [MMORPG](#user-content-mmorpg-1)
   - [RPG](#user-content-rpg-1)
   - [Platform](#user-content-platform)
-  - [Boardgame](#user-content-boardgame-1)
-  - [Puzzle](#user-content-puzzle-1)
+  - [Puzzle/card/board](#user-content-puzzlecardboard)
   - [Sandbox](#user-content-sandbox-1)
   - [Strategy](#user-content-strategy-1)
 - [Mobile Games](#user-content-mobile-games)
@@ -288,6 +287,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
+* [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 
 ## Racing
