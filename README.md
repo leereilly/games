@@ -356,6 +356,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Canabalt](https://github.com/ericjohnson/canabalt-ios) - Release of Canabalt for iOS.
 * [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
 * [DrugsNRock](https://github.com/biou/DrugsNRock) - Simple multiplayer rhythm game designed during the 2013 Global Game Jam.
+* [FinalFighter](https://github.com/sebcode/FinalFighter-iphone) - Tank deathmatch battle game developed using Cocos2D.
 * [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 * [Gorillas](https://github.com/Lyndir/Gorillas) - iPhone(or iPod touch) port of the popular old QBasic game.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
