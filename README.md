@@ -352,6 +352,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## IOS
 
+* [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs) - Arcade game about a bug-craving bat.
 * [Bridges](https://github.com/zgrossbart/bridges) - Puzzle game with bridges, houses, tolls, and subways for iOS.
 * [Canabalt](https://github.com/ericjohnson/canabalt-ios) - Release of Canabalt for iOS.
 * [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
