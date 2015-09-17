@@ -371,7 +371,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 # Just The Source
 
-* [Aquaria](https://github.com/islocated/Aquaria) - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
+* [Aquaria](https://github.com/AquariaOSE/Aquaria) - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
 * [Doom 3](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source code release.
 * [ID Software](https://github.com/id-Software) - Includes Doom, Quake, Wolfenstein and more.
 * [MaNGOS](https://github.com/mangos/mangos) - Full featured World of Warcraft server.
