@@ -249,7 +249,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## MMORPG
 
-* [Open Meridian](https://github.com/Daenks/Meridian59_103) - The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed. [Play it now!](http://openmeridian.org)
+* [Open Meridian](https://github.com/OpenMeridian/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed. [Play it now!](http://openmeridian.org)
 * [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
 
 ## RPG
