@@ -432,6 +432,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [PlayCanvas](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
+* [Ren'py](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
 * [Spring](https://github.com/spring/spring) - Real Time Strategy game engine.
 * [Starling](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, OS X), and to the browser (via the Flash plugin).
