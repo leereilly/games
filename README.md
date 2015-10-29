@@ -314,6 +314,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 * [Minetest](https://github.com/minetest/minetest) - Infinite-world block sandbox game with survival and crafting.
 * [Pycraft](https://github.com/itsapi/pycraft) - A Minecraft-inspired game for the terminal.
+* [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) - Soft-Body physics simulator for vehicles and more.
 * [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 * [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
