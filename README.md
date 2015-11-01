@@ -328,6 +328,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Micropolis](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
 * [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 * [OpenDungeons] (https://github.com/OpenDungeons/OpenDungeons) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
+* [OpenFodder](https://github.com/segrax/openfodder) - Open-source implementation of Cannon Fodder
 * [OpenRA](https://github.com/OpenRA/OpenRA) - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
 * [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM.
