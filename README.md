@@ -137,7 +137,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## FPS
 
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
-* [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++. 
+
 ## RPG
 
 * [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.
@@ -245,6 +245,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
 * [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
+* [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 * [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 * [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
 * [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
