@@ -82,6 +82,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5. [Play it now!](http://cdn.couchfriends.com/games/breakout/)
 * [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 * [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
+* [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game. [Play it now!](http://ceros-snake.hasba.ch/)
 * [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
 * [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
 * [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser. [Play it now!](http://eugenioclrc.github.io/circushtml5)
