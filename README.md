@@ -445,6 +445,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [PlayCanvas](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
+* [QICI Engine](https://github.com/qiciengine/qiciengine) - free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
 * [Ren'py](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
