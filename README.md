@@ -359,6 +359,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
 
+## Others
+
+ * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
+
 # Mobile Games
 
 ## Android
