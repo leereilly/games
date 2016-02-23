@@ -5,7 +5,7 @@ Below is a list of open source games and game-related projects that can be found
 #### Contributing
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request.
-
+[PlaneShift
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -------
@@ -257,8 +257,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Open Meridian](https://github.com/OpenMeridian/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed. [Play it now!](http://openmeridian.org)
 * [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
-* [The Mana World](https://github.com/themanaworld) - are a free 2D open source MMORPG, released in 2004.
-* [PlaneShift](https://github.com/baoboa/planeshift) - PlaneShift is a cross-platform 3D Online Multiplayer Role Playing Game in a fantasy setting, released in 2004.[Play it now!](http://www.planeshift.it/)
+* [The Mana World](https://github.com/themanaworld/tmwa-client-data) - are a free 2D open source MMORPG, released in 2004.
 * [Eternal Lands](https://github.com/raduprv/Eternal-Lands/) - Eternal Lands is a free, multiplayer, online role-playing game created by Radu Privantu in 2002.[Play it now!](http://www.eternal-lands.com/)
 
 ## RPG
