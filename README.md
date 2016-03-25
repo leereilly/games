@@ -229,6 +229,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Arcade
 
+* [Beerwanter](https://github.com/richelbilderbeek/BeerWanter) - Just click the beer!
+* [Boenken](https://github.com/richelbilderbeek/Boenken) - 2-player game that is a mix between soccer and billiards
 * [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
 * [Chaos Projectile](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 * [Clonepoint](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
@@ -361,7 +363,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Others
 
+ * [Das Wahre Schlagerfest](https://github.com/richelbilderbeek/DasWahreSchlagerfest) - Truly fun Columns game with an Oktoberfest theme
  * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
+ * [City Of Thieves](https://github.com/richelbilderbeek/CityOfThieves) - Text adventure game, after the book 'City of Thieves' by Ian Livingstone
+ * [Zork](https://github.com/richelbilderbeek/Zork) - Text adventure `Zork: The Great Underground Empire - Part I`
 
 # Mobile Games
 
