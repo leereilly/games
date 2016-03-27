@@ -439,6 +439,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Cutting edge, cross-platform 3D game engine for adventurous Java developers.
 * [kiwi.js](https://github.com/gamelab/kiwi.js) - Blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
 * [libGDX](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework.
+* [Ewok2D](https://github.com/SquirrelEmpire/Ewok) - Simple framework for making Java2d games.
 * [libRocket](https://github.com/librocket/librocket) - C++ user interface package based on the HTML and CSS standards. It is designed as a complete solution for any project's interface needs.
 * [libSDL2pp](https://github.com/AMDmi3/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/).
 * [lycheeJS](https://github.com/LazerUnicorns/lycheeJS) - Free HTML5 + native OpenGL Game Engine for Embedded, Console, Mobile, Server and Desktop.
