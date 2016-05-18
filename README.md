@@ -168,6 +168,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [3d.city](https://github.com/lo-th/3d.city) - 3d city builder game. [Play it now!](http://lo-th.github.io/3d.city/index.html)
 * [Blk Game](https://github.com/morozd/blk-game) - Multiplayer Javascript/WebGL voxel world game demo. [Play it now!](http://benvanik.github.io/blk-game/)
 * [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL.
+* [Project Cube](https://github.com/B-Train04/Project-Cube) - Voxel game based on Minecraft made with HTML5.
 
 ## Puzzle
 
