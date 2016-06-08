@@ -395,6 +395,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
 * [Light Jockey](https://github.com/jmfieldman/Light-Jockey) - iOS Auditorium-like game.
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
+* [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 
 -------
