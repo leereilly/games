@@ -233,6 +233,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Arcade
 
+* [hēXōn](https://github.com/LucKeyProductions/heXon) - A twin-stick-shooter with 3D graphics and a classic feel.
 * [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
 * [Chaos Projectile](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 * [Clonepoint](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
