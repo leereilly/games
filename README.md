@@ -95,6 +95,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Core Commiter](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://committer.meteor.com/)
 * [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 * [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
+* [d3shooter](https://github.com/nsmirn0v/d3shooter) - Asteroids style game in HTML5 as a demo of the d3 library. [Play it now!](http://d3shooter.herokuapp.com)
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Drakonas](https://github.com/Casmo/Drakonas) - Classic shoot 'em up game build with the Three.js library. [Play it now!](http://www.fellicht.nl/games/drakonas/)
 * [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library. [Play it now!](http://dreamshowadventures.github.io/LudumDare29/)
