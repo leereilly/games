@@ -326,6 +326,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
 * [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
 * [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
+* [Manic Digger](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone.
 * [Minetest](https://github.com/minetest/minetest) - Infinite-world block sandbox game with survival and crafting.
 * [Pycraft](https://github.com/itsapi/pycraft) - A Minecraft-inspired game for the terminal.
 * [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) - Soft-Body physics simulator for vehicles and more.
