@@ -181,6 +181,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [2048](https://github.com/gabrielecirulli/2048) - Sliding addition game [Play it now!](http://gabrielecirulli.github.io/2048/)
 * [A Dark Room](https://github.com/Continuities/adarkroom) - Minimalist Text Adventure game written in JavaScript. [Play it now!](http://adarkroom.doublespeakgames.com/)
 * [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb. [Play it now!](http://wwwtyro.github.io/Astray/)
+* [Balance](https://github.com/fsvieira/balance) - A Logic Puzzle With Balls, can you find the defective ball? [Play it now!](http://fsvieira.com/balance/)
 * [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm. [Play it now!](http://gamejolt.com/games/puzzle/beatrix/27454/)
 * [BitBot](https://github.com/recardona/BitBot) - HTML/JS game where you control a bot, which must sense, plan, and act. [Play it now!](http://recardona.github.io/BitBot/)
 * [Blockrain.js](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that. [Play it now!](http://aerolab.github.io/blockrain.js/)
@@ -374,6 +375,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Android
 
+* [Balance](https://github.com/fsvieira/balance) - A Logic Puzzle With Balls, can you find the defective ball? [Google Play](https://play.google.com/store/apps/details?id=com.fsvieira.balance)
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
 * [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
