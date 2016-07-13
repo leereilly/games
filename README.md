@@ -265,6 +265,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
+* [Xonotic](http://www.xonotic.org/) - Xonotic is an addictive, arena-style first person shooter with crisp movement and a wide array of weapons.
 
 ## MMORPG
 
