@@ -76,6 +76,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
 * [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant. [Play it now!](http://krgspl.com/)
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
+* [Solitairey](https://github.com/shlomif/Solitairey) - Card Solitaire/Patience Games.
 
 
 ## Arcade
@@ -344,12 +345,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
+* [Black Hole Solitaire Solver](https://github.com/shlomif/black-hole-solitaire) - solvers for “Black Hole” and “All in a Row” card solitaires.
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
 * [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 * [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
+* [Freecell Solver](https://github.com/shlomif/fc-solve) - a C library (and related code) for automatically solving FreeCell and some other variants of card solitaire/patience.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
+* [PySol FC](https://github.com/shlomif/PySolFC) - a collection of Solitaire games for Python.
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
