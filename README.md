@@ -294,6 +294,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
 * [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 * [Gish](https://github.com/blinry/gish) - Award-winning physics platformer.
+* [hoverboard-sdl](https://github.com/AMDmi3/hoverboard-sdl) - Native remake of [XKCD-1608 "Hoverboard"](https://xkcd.com/1608/) exploration platformaer hame.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
 * [HFT Mario Party] (https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
