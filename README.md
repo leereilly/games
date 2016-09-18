@@ -215,6 +215,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Clicker
 
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
+* [Clicking Bad](https://github.com/nullism/clickingbad) - A drug lord clicking game. Some strategy, as the DEA or IRS may raid your nest egg. [Play online](http://clickingbad.nullism.com/)
 
 ## Others
 
