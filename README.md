@@ -332,6 +332,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 * [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+* [Voxels](https://github.com/programmerjake/voxels-0.7) - 3D sandbox game designed to be Minecraft compatible (functionality-wise)
 
 ## Strategy
 
@@ -383,6 +384,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
+* [Voxels](https://github.com/programmerjake/voxels-0.7) - 3D sandbox game designed to be Minecraft compatible (functionality-wise)
 
 ## IOS
 
