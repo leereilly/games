@@ -373,6 +373,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
+* [Wargus](https://github.com/Wargus/wargus) - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
