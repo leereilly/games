@@ -246,6 +246,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
 * [Chaos Projectile](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 * [Clonepoint](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
+* [DDraceNetwork](https://github.com/ddnet/ddnet) - Cooperative Teeworlds racing modification
 * [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
 * [Duckmarines](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
