@@ -70,7 +70,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS. [Play it now!](https://kenrick95.github.io/c4/demo/)
 * [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
+* [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant. [Play it now!](http://krgspl.com/)
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
+
 
 ## Arcade
 
@@ -183,6 +185,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [0hh1](https://github.com/Q42/0hh1) - Lovely little logic game by Q42. [Play it now!](http://0hh1.com)
 * [2048](https://github.com/gabrielecirulli/2048) - Sliding addition game [Play it now!](http://gabrielecirulli.github.io/2048/)
 * [A Dark Room](https://github.com/Continuities/adarkroom) - Minimalist Text Adventure game written in JavaScript. [Play it now!](http://adarkroom.doublespeakgames.com/)
+* [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams. [Play it now!](http://www.anagramica.com/)
 * [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb. [Play it now!](http://wwwtyro.github.io/Astray/)
 * [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm. [Play it now!](http://gamejolt.com/games/puzzle/beatrix/27454/)
 * [BitBot](https://github.com/recardona/BitBot) - HTML/JS game where you control a bot, which must sense, plan, and act. [Play it now!](http://recardona.github.io/BitBot/)
@@ -207,6 +210,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart. [Play it now!](http://dart-lang.github.io/sample-pop_pop_win/)
 * [Prism](https://github.com/Zolmeister/prism) - Match all the colors. [Play it now!](http://prism.clay.io/game/prism)
 * [Push and Fork](https://github.com/Octocarina/game-off-2012) - Puzzle game in which you carry a fork, push blocks, and go back in time.. [Play it now!](http://gelisam.com/octocarina/)
+* [Shape Experiment](https://github.com/binarymax/shape) - The shape recognition reflex game. [Play it now!](http://shapex.org/)
 * [Sliding Puzzle](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game. [Play it now!](http://gamedolph.in/sample-page/sliding-puzzle/)
 * [Swap](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. [Play it now!](http://nmoroze.github.io/swap/)
 * [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jeroenverfallie.be/ggo13-transcube/)
