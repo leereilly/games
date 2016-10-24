@@ -374,6 +374,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Android
 
+* [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
 * [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
@@ -383,7 +384,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
-* [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
 
 ## IOS
 
