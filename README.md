@@ -480,6 +480,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [melonJS](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript.
+* [OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
 * [Oxygine](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
 * [panda.js](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
