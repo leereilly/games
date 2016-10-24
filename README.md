@@ -37,6 +37,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 - [Mobile Games](#user-content-mobile-games)
   - [Android](#user-content-android)
   - [IOS](#user-content-ios)
+- [Chat bots](#chat-bots)
 - [Just The Source](#user-content-just-the-source)
 - [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
@@ -414,6 +415,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
+
+-------
+
+# Chat bots
+* [c4bot](https://github.com/kenrick95/c4bot) - Chat bot that plays Connect Four with you, works in web chat, Facebook Messenger, Skype, and Telegram. [Play it now!](https://bots.botframework.com/bot?id=c4bot)
 
 -------
 
