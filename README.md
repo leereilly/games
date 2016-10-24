@@ -223,6 +223,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Clicker
 
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
+* [Swarm Simulator](https://github.com/swarmsim/swarm) - Starting with only a few larvae and a small pile of meat, build a merciless swarm of trillions of giant alien bugs. [Play it now!](https://swarmsim.github.io/)
 
 ## Others
 
