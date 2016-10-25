@@ -213,6 +213,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Push and Fork](https://github.com/Octocarina/game-off-2012) - Puzzle game in which you carry a fork, push blocks, and go back in time.. [Play it now!](http://gelisam.com/octocarina/)
 * [Shape Experiment](https://github.com/binarymax/shape) - The shape recognition reflex game. [Play it now!](http://shapex.org/)
 * [Sliding Puzzle](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game. [Play it now!](http://gamedolph.in/sample-page/sliding-puzzle/)
+* [Spook](https://github.com/adriancooney/spook) - Traverse a pattern gates that rotate with every move. [Play it now!](http://adriancooney.ie/spook)
 * [Swap](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. [Play it now!](http://nmoroze.github.io/swap/)
 * [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jeroenverfallie.be/ggo13-transcube/)
 * [untrusted](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. [Play it now!](http://alex.nisnevich.com/untrusted/)
