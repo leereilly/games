@@ -251,6 +251,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 * [Falling Time](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 * [Kroniax](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
+* [Missile Command](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.
 * [Mystic Mine](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
 * [OpenLieroX](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
 * [OSGG] (https://github.com/DusteDdk/Osgg) - Oldskool Gravity Game, very difficult lander game in glorious vector graphics.
