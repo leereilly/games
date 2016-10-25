@@ -26,6 +26,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Clicker](#user-content-clicker)
   - [Others](#user-content-others)
 - [Native](#user-content-native)
+  - [Action](#user-content-action-1)
   - [Arcade](#user-content-arcade-1)
   - [FPS](#user-content-fps-1)
   - [MMORPG](#user-content-mmorpg-1)
@@ -239,6 +240,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 -------
 
 # Native
+
+## Action
+* [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
 
 ## Arcade
 
