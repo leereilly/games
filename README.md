@@ -83,6 +83,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
 * [Avabranch](https://github.com/Zolmeister/avabranch) - GitHub Game Off 2012 entry. [Play it now!](http://avabranch.zolmeister.com/)
 * [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
+* [BolinhaWars!](https://github.com/alexmoreno/bolinhawars) - Eat smaller and avoid bigger balls!. [Play it now!](http://alexmoreno.github.io/bolinhawars/)
 * [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5. [Play it now!](http://cdn.couchfriends.com/games/breakout/)
 * [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
 * [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
