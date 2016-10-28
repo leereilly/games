@@ -497,7 +497,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
 * [Ren'py](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
-* [Solarus] (https://github.com/christopho/solarus) - An Action-RPG game engine written in C++.
+* [Solarus](https://github.com/christopho/solarus) - An Action-RPG game engine written in C++.
 * [Spring](https://github.com/spring/spring) - Real Time Strategy game engine.
 * [Starling](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, OS X), and to the browser (via the Flash plugin).
 * [Superpowers](https://github.com/superpowers) - TypeScript & ThreeJS powered game engine and framework (2D & 3D with WebGL)
@@ -508,6 +508,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
 * [Urho3D](https://github.com/urho3d/Urho3D) - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
+* [Vinage](https://github.com/KordonBleu/vinage) - Javascript 2D collision library, especially useful for dealing with wrapped universes.
 * [XLE](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
 
 -------
