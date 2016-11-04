@@ -148,6 +148,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [WPilot](https://github.com/jfd/wpilot) - A browser-based remake of the famous XPilot game, built with NodeJS and HTML5
 * [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". [Play it now!](http://zedfumetto.it/zedinvaders/game.html)
 * [FullScreenMario] (https://github.com/FullScreenShenanigans/FullScreenMario/) – a free HTML 5 remake of Super Mario Bros with additional features.
+* [Soccer.js](https://github.com/Mati365/Soccer.js) - open source HTML5/ES6 remake of Haxball(free multiplayer soccer game)
 
 ## FPS
 
