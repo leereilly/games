@@ -262,6 +262,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [SDL-Ball] (https://github.com/DusteDdk/SDL-Ball) - Pretty looking breakout clone available in most distributions.
 * [Taisei](https://github.com/laochailan/taisei) - Fan-made, open Source clone of the Touhou series.
 * [Teeworlds](https://github.com/teeworlds/teeworlds/) - Online multi-player platform 2D shooter.
+* [The City Drone Escape](https://github.com/bfarley88/The-City-Drone-Escape) - Fast paced 2D top-down drone shooter.
 * [Wannabe Tempest](https://github.com/awlzac/wbt) - Tempest(80's arcade game) clone in Java, and a small project for playing with git.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawl shooter similar to The Binding of Isaac.
 
