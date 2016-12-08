@@ -32,8 +32,10 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [RPG](#user-content-rpg-1)
   - [Platform](#user-content-platform)
   - [Puzzle/card/board](#user-content-puzzlecardboard)
+  - [Racing](#user-content-racing-1)
   - [Sandbox](#user-content-sandbox-1)
   - [Strategy](#user-content-strategy-1)
+  - [Others](#user-content-others-1)
 - [Mobile Games](#user-content-mobile-games)
   - [Android](#user-content-android)
   - [IOS](#user-content-ios)
@@ -272,6 +274,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 * [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 * [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
+* [ET Legacy](https://github.com/etlegacy/etlegacy) - A second breath of life for Wolfenstein: Enemy Territory.
 * [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 * [Red Eclipse](https://github.com/red-eclipse) - Free, casual arena shooter featuring parkour.
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
@@ -299,7 +302,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Monster 1](https://github.com/Nooskewl/monster) - Classic-style J-RPG, prequel to Monster RPG 2.
 * [Monster RPG 2](https://github.com/Nooskewl/monster-rpg-2) - Turn-based J-RPG in a fantasy universe.
 * [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
-* [Open MW](https://github.com/OpenMW/openmw) - Reimplementation of the game Morrowind.
+* [Open MW](https://github.com/OpenMW/openmw) - Reimplementation of the game The Elder Scrolls: Morrowind.
+* [Open TES Arena](https://github.com/afritz1/OpenTESArena) - Reimplementation of the game The Elder Scrolls: Arena.
 * [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus] (https://github.com/christopho/solarus) engine
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
 
@@ -440,6 +444,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
+* [World of Padman](https://github.com/PadWorld-Entertainment/wop-gamesource) - ioQuake3-based multiplayer FPS.
 
 -------
 
@@ -470,6 +475,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Flixel](https://github.com/AdamAtomic/flixel) - Game-making library written entirely in ActionScript 3.
 * [GameJS](https://github.com/gamejs/gamejs) - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame.
 * [GamePlay](https://github.com/gameplay3d/GamePlay) - Cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
+* [GDevelop](https://github.com/4ian/GD) - Cross-platform Game development software, without needing any knowledge in a specific programming language.
 * [GemRB](https://github.com/gemrb/gemrb) - Cross-platform implementation of Bioware's Infinity Engine.
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [Gladiator 3D](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
