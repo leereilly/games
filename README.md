@@ -368,6 +368,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Harris](https://github.com/ec429/harris) - Strategy game based around the actions of RAF Bomber Command in the Second World War.
 * [Hedgewars](https://github.com/hedgewars/hw) - Hedgewars is a turn based strategy, artillery, action and comedy game, featuring the antics of pink hedgehogs with attitude as they battle from the depths of hell to the depths of space.
 * [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
+* [KeeperRL](https://github.com/miki151/keeperrl) - KeeperRL - Roguelike game with dungeon building, inspired by Dungeon Keeper, Dwarf Fortress and other classic roguelikes.
 * [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript. [Play it now!](http://www.adityaravishankar.com/projects/games/lastcolony/)
 * [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d).
 * [Micropolis](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
@@ -405,11 +406,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Android
 
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
+* [ClonesOnline](https://github.com/lukedd3/ClonesOnline) - ClonesOnline is an online multiplayer Android board game.
 * [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
 * [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
 * [Green Wall](https://github.com/awlzac/greenwall) - Weirdly addictive arcade-style android game, where you fling fruit at a wall. Project developed using Android Studio 1.0.
+* [Hitball](https://github.com/harshit211997/Hitball) - Keep the ball in the air.
 * [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
