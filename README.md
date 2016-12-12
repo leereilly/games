@@ -296,8 +296,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## FPS
 
 * [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
-* [Doom the Roguelike](https://github.com/ChaosForge/doomrl) - DRL (D**m, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
+* [BZFlag](https://github.com/BZFlag-Dev/bzflag) - Cross platform, 3D tank FPS in C++. Shoot, dodge, and capture the flag. 
 * [Castle](https://github.com/castle-engine/castle-game) - FPS in a dark fantasy setting. Includes as a bonus DOOM E1M1 level done in modern technology.
+* [Doom the Roguelike](https://github.com/ChaosForge/doomrl) - DRL (D**m, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
 * [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 * [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 * [Hexen II: Hammer of Thyrion](https://github.com/svn2github/uhexen2) - Hammer of Thyrion (uHexen2) is a cross-platform port of Raven Software's Hexen II source.
