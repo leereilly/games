@@ -185,6 +185,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [BlicblockJS](https://github.com/cheshire137/blicblock-js) - JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board. [Play it now!](http://blicblockjs.herokuapp.com/)
 * [Blockrain.js](https://github.com/Aerolab/blockrain.js) - Embed & play the classic game on your site. Simple as that. [Play it now!](http://aerolab.github.io/blockrain.js/)
 * [Branching Out](https://github.com/thehen/game-off-2012) - Minimalist game about leaving home. [Play it now!](http://henryhoffman.com/branchingout/)
+* [.buk](https://github.com/industrial-revolutioners/buk) - `.buk` is a cube rolling puzzle game. [Play it now!](https://industrial-revolutioners.github.io/buk)
 * [Clone Man](https://github.com/adhicl/game-off-2012) - Puzzle, memory, retro game with simple graphics. [Play it now!](http://www.kongregate.com/games/Sorobaid/clone-man)
 * [Couch 2048](https://github.com/mvasilkov/glitch2016) - A physics-based puzzle, loosely related to the original 2048 game. [Play it now!](http://js13kgames.com/games/couch-2048/index.html)
 * [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming. [Play it now!](http://david-peter.de/cube-composer)
