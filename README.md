@@ -301,7 +301,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Open Meridian](https://github.com/OpenMeridian/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. Forked in 2013, Actively developed. [Play it now!](http://openmeridian.org)
 * [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
-* [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel. [Play it now!](https://stendhalgame.org)
+* [The Mana World](https://github.com/themanaworld) - are a free 2D open source MMORPG, released in 2004.
+* [PlaneShift](http://sourceforge.net/p/planeshift/code/HEAD/tree/) - PlaneShift is a cross-platform 3D Online Multiplayer Role Playing Game in a fantasy setting, released in 2004.[Play it now!](http://www.planeshift.it/)
+* [Eternal Lands](https://github.com/raduprv/Eternal-Lands/) - Eternal Lands is a free, multiplayer, online role-playing game created by Radu Privantu in 2002.[Play it now!](http://www.eternal-lands.com/)
 
 ## RPG
 
