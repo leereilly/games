@@ -482,6 +482,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Jedi Outcast](https://github.com/grayj/Jedi-Outcast) - Jedi Outcast source only, mirror of SourceForge from Raven Software.
 * [MaNGOS](https://github.com/mangos/mangos) - Full featured World of Warcraft server.
 * [Miner Wars 2081](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) - For modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
+* [No One Lives Forever](https://github.com/osgcc/no-one-lives-forever) - Source only for the Windows version of The Operative: No One Lives Forever
+* [No One Lives Forever 2](https://github.com/wilkie/no-one-lives-forever-2) - Source only for the Windows version of No One Lives Forever 2: A Spy in H.A.R.M.'s Way
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
