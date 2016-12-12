@@ -33,6 +33,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Platform](#user-content-platform)
   - [Puzzle/card/board](#user-content-puzzlecardboard)
   - [Racing](#user-content-racing-1)
+  - [Programming](#user-content-programming)
   - [Sandbox](#user-content-sandbox-1)
   - [Strategy](#user-content-strategy-1)
   - [Others](#user-content-others-1)
@@ -361,6 +362,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
 * [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
+
+## Programming
+
+* [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
 
 ## Sandbox
 
