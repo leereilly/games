@@ -312,6 +312,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
+* [vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
 * [Xonotic](https://github.com/xonotic/xonotic) - Xonotic is a free (GPL) fast-paced first-person shooter which runs on Windows, OS X and Linux.
 
