@@ -600,6 +600,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Leaderboard(Ruby)](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in Ruby).
 * [Leaderboard(Scala)](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in Scala).
 * [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
+* [Lutris](https://github.com/lutris/lutris) - Lutris is an open source gaming platform for GNU/Linux. It makes gaming on Linux easier by taking care of managing, installing and providing optimal settings for games.
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
 * [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
