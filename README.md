@@ -24,6 +24,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Sandbox](#user-content-sandbox)
   - [Puzzle](#user-content-puzzle)
   - [Clicker](#user-content-clicker)
+  - [Point and Click](#user-content-point-and-click)
   - [Others](#user-content-others)
 - [Native](#user-content-native)
   - [Arcade](#user-content-arcade-1)
@@ -225,6 +226,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Clicker
 
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
+
+## Point and Click
 
 ## Others
 
