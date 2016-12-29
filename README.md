@@ -229,6 +229,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Point and Click
 
+* [The House](https://github.com/arturkot/the-house-game) – You're in a strange house. Can you find the way out? Is there any? [Play it now!](https://the-house.arturkot.pl/)
+
 ## Others
 
 * [binb](https://github.com/lpinca/binb) - Competitive, multiplayer, realtime, guess the song game. [Play it now!](https://binb.co)
