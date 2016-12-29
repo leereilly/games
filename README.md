@@ -19,10 +19,10 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Clicker](#user-content-clicker)
   - [FPS](#user-content-fps)
   - [MMORPG](#user-content-mmorpg)
+  - [Point and Click](#user-content-point-and-click)
   - [Puzzle](#user-content-puzzle)
   - [Racing](#user-content-racing)
   - [RPG](#user-content-rpg)
-  - [Point and Click](#user-content-point-and-click)
   - [Sandbox](#user-content-sandbox)
   - [Strategy](#user-content-strategy)
   - [Others](#user-content-others)
@@ -173,6 +173,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
 
+## Point and Click
+
+* [The House](https://github.com/arturkot/the-house-game) – You're in a strange house. Can you find the way out? Is there any? [Play it now!](https://the-house.arturkot.pl/)
+
 ## Puzzle
 
 * [.buk](https://github.com/industrial-revolutioners/buk) - `.buk` is a cube rolling puzzle game. [Play it now!](https://industrial-revolutioners.github.io/buk)
@@ -229,10 +233,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [FGMK](https://github.com/ericoporto/fgmk) - Javascript engine for JRPG games written in JSON with a PyQt Ui to make it. [Play it now!](https://ericoporto.github.io/fgmkJsEngine/)
 * [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript. [Play it now!](http://roguish.rocks/)
 * [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. [Play it now!](http://www.sturdyhelmetgames.com/roomforchange_html)
-
-## Point and Click
-
-* [The House](https://github.com/arturkot/the-house-game) – You're in a strange house. Can you find the way out? Is there any? [Play it now!](https://the-house.arturkot.pl/)
 
 ## Sandbox
 
