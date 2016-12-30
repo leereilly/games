@@ -16,7 +16,6 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 - [Browser-Based](#user-content-browser-based)
   - [Arcade](#user-content-arcade)
   - [Boardgame](#user-content-boardgame)
-  - [Clicker](#user-content-clicker)
   - [FPS](#user-content-fps)
   - [MMORPG](#user-content-mmorpg)
   - [Point and Click](#user-content-point-and-click)
@@ -160,11 +159,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
 * [TicTacToe](https://github.com/rlazoti/tictactoe-scala-react) - Tic-tac-toe game written in Scala and ReactJS. [Play it now!](http://tictactoe-scala-react.herokuapp.com/)
 
-## Clicker
-
-* [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
-* [Swarm Simulator](https://github.com/swarmsim/swarm) - Starting with only a few larvae and a small pile of meat, build a merciless swarm of trillions of giant alien bugs. [Play it now!](https://swarmsim.github.io/)
-
 ## FPS
 
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
@@ -175,7 +169,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Point and Click
 
+* [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
+* [Swarm Simulator](https://github.com/swarmsim/swarm) - Starting with only a few larvae and a small pile of meat, build a merciless swarm of trillions of giant alien bugs. [Play it now!](https://swarmsim.github.io/)
 * [The House](https://github.com/arturkot/the-house-game) – You're in a strange house. Can you find the way out? Is there any? [Play it now!](https://the-house.arturkot.pl/)
+* [The Investigator Cases](https://github.com/constancecchen/Investigator) - The Investigator Cases are point-and-click who-dunnits about an alligator who investigates crime. [Play it now!](http://investi-gator.com/)
 
 ## Puzzle
 
