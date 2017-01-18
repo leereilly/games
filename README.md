@@ -41,6 +41,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 - [Mobile Games](#user-content-mobile-games)
   - [Android](#user-content-android)
   - [IOS](#user-content-ios)
+  - [PSP](#user-content-psp)
 - [Chat bots](#chat-bots)
 - [Just The Source](#user-content-just-the-source)
 - [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
@@ -485,6 +486,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
+
+## PSP
+
+
+* [BattleShip Arena](https://github.com/DesiRED74/PSV-BattleShipArena) -  Classic game "Sea battle/fight" for PS Vita.
+* [BlockOut II](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut_II_PSP is a Sony Playstation Portable port of BlockOut II game by Jean-Luc PONS.
+* [BreakVeetOut](https://github.com/InvalidExcepti0n/BreakVeetOut) -  BreakVeetOut is an arcade game made for PS Vita updated HENkaku.
+* [Eucliod](https://github.com/gnmmarechal/eucliod-vita) -  Port of the Eucliod bullet-hell homebrew to the PS-Vita..
+* [Wolfenstein 3D](https://github.com/Rinnegatamante/vitaWolfen) -  Wolfenstein 3D port for PSVITA.
 
 -------
 
