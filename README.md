@@ -4,7 +4,7 @@ Below is a list of open source games and game-related projects that can be found
 
 #### Contributing
 
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request.
+If you'd like to add a repository to the list, please [create an Issue](../../issues), or fork this repository and submit a pull request.
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
