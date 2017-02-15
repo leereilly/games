@@ -170,6 +170,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
 
+
 ## Point and Click
 
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
@@ -248,6 +249,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5. [Play it now!](http://play.freeciv.org/)
 * [Nine Men's Morris](https://github.com/yadav-rahul/Nine-Mens-Morris) - Online version of famous strategy board game for two players built with JS. [Play it now!](https://yadav-rahul.github.io/Nine-Mens-Morris/)
 * [OpenPanzer](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2. [Play it now!](http://openpanzer.net/)
+* [OpHog](https://github.com/Adam13531/OpHog) - HTML5/JavaScript game resembling Tower Defense. [Play it now!](http://ophog.oenx.net/game/)
 * [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5. [Play it now!](http://www.fellicht.nl/games/tower-defense/)
 
 ## Others
