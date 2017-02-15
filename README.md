@@ -153,6 +153,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Boardgame
 
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
+* [Android: Netrunner](https://github.com/mtgred/netrunner) - a two-player Living Card Game (LCG) set in a dystopian, cyberpunk future written in Clojure and Clojurescript. [Play it now!](http://www.jinteki.net/)
 * [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS. [Play it now!](https://kenrick95.github.io/c4/demo/)
 * [Couple-quest](https://github.com/Couple-quest/Couple-quest) - Open-source foreplay game for couples. [Play it now!](https://couple-quest.github.io/Couple-quest/)
 * [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
