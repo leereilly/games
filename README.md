@@ -461,6 +461,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Android
 
+* [Balance](https://github.com/fsvieira/balance) - A Logic Puzzle With Balls, can you find the defective ball? [Google Play](https://play.google.com/store/apps/details?id=com.fsvieira.balance)
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 * [ClonesOnline](https://github.com/lukedd3/ClonesOnline) - ClonesOnline is an online multiplayer Android board game.
 * [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
