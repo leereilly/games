@@ -42,6 +42,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Android](#user-content-android)
   - [IOS](#user-content-ios)
   - [PSP](#user-content-psp)
+  - [PSP Vita](#user-content-psp-vita)
 - [Chat bots](#chat-bots)
 - [Just The Source](#user-content-just-the-source)
 - [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
@@ -156,7 +157,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS.
 * [Android: Netrunner](https://github.com/mtgred/netrunner) - a two-player Living Card Game (LCG) set in a dystopian, cyberpunk future written in Clojure and Clojurescript. [Play it now!](http://www.jinteki.net/)
 * [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS. [Play it now!](https://kenrick95.github.io/c4/demo/)
-* [Couple-quest](https://github.com/Couple-quest/Couple-quest) - Open-source foreplay game for couples. [Play it now!](https://couple-quest.github.io/Couple-quest/)
+* [Couple-quest](https://github.com/Clonewayx/Couple-quest) - Open-source foreplay game for couples. [Play it now!](http://clonewayx.github.io/Couple-quest/)
 * [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 * [Four in a Row](https://github.com/inaka/fiar) - The first to connect four chips in a line wins. [Play it now!](http://fiar.inakalabs.com/)
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
@@ -171,7 +172,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## MMORPG
 
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
-
+* [The Tale](https://github.com/Tiendil/the-tale) (Russian: Сказка) - Russian multiplayer [ZPG](https://en.wikipedia.org/wiki/Zero-player_game)-sandbox. [Play it now!](http://the-tale.org/)
 
 ## Point and Click
 
@@ -280,8 +281,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Arcade
 
-* [hēXōn](https://github.com/LucKeyProductions/heXon) - A twin-stick-shooter with 3D graphics and a classic feel.
 * [Beerwanter](https://github.com/richelbilderbeek/BeerWanter) - Just click the beer!
+* [Bitfighter](https://github.com/bitfighter/bitfighter) -  Multi-player space fighting arcade game. [Play it now!](http://bitfighter.org)
 * [Boenken](https://github.com/richelbilderbeek/Boenken) - 2-player game that is a mix between soccer and billiards
 * [Bombermaaan](https://github.com/bjaraujo/Bombermaaan) -  Bombermaaan is a clone of the classic bomberman game.
 * [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
@@ -292,6 +293,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Duckmarines](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 * [Falling Time](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
+* [hēXōn](https://github.com/LucKeyProductions/heXon) - A twin-stick-shooter with 3D graphics and a classic feel.
 * [Kroniax](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
 * [Missile Command](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.
 * [Mystic Mine](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
@@ -499,11 +501,32 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## PSP
 
-
-* [BattleShip Arena](https://github.com/DesiRED74/PSV-BattleShipArena) -  Classic game "Sea battle/fight" for PS Vita.
 * [BlockOut II](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut_II_PSP is a Sony Playstation Portable port of BlockOut II game by Jean-Luc PONS.
+
+## PSP Vita
+
+* [Another World](https://github.com/enriquesomolinos/Another-World-Vita) - Another World port for Vita.
+* [BattleShip Arena](https://github.com/DesiRED74/PSV-BattleShipArena) -  Classic game "Sea battle/fight" for PS Vita.
 * [BreakVeetOut](https://github.com/InvalidExcepti0n/BreakVeetOut) -  BreakVeetOut is an arcade game made for PS Vita updated HENkaku.
+* [CATSFC-libretro-vita](https://github.com/skogaby/CATSFC-libretro/releases) -  A Super Nintendo emulator for PlayStation VITA based on SNES9x (Multiplayer support).
+* [Flood It!](https://github.com/notnotme/NotEngine_PSV/tree/master/floodit) - You have to flood the whole game board with one color in less than the allowed steps.
+* [FTPVita](https://github.com/xerpi/ftpvitalib/releases/latest) - FTP library for homebrew developers and sample server using it.
 * [Eucliod](https://github.com/gnmmarechal/eucliod-vita) -  Port of the Eucliod bullet-hell homebrew to the PS-Vita..
+* [GenesisPlusVITA](https://github.com/frangarcj/Genesis-Plus-GX/releases/latest) - It is an open-source Sega 8/16 bit emulator focused on accuracy and portability.
+* [HandyVITA](https://github.com/frangarcj/HandyVITA/releases/latest) - Atari Lynx emulator.
+* [HENkaku Offline Installer](https://github.com/frangarcj/Genesis-Plus-GX/releases/latest) - HENkaku Offline Installer
+* [mGBA](https://github.com/mgba-emu/mgba/releases) - mGBA Game Boy Advance Emulator.
+* [NeopopVITA](https://github.com/frangarcj/NeopopVITA/releases/latest) - Neogeo Pocket Color emulator.
+* [Numpty Physics for Vita](https://github.com/meetpatty/numpty-physics-for-vita/releases/latest) - Numpty Physics for Vita.
+* [realboy](https://github.com/xerpi/realboy-vita/releases/latest) - RealBoy is a Free, Fast and Accurate, Game Boy/Game Boy Color/Super Game Boy Emulator.
+* [Reminiscence](https://github.com/enriquesomolinos/REminiscence-Vita) -  REminiscence port for Vita.
+* [SMSplusVITA](https://github.com/frangarcj/SMSplusVITA/releases/latest) - Sega Master System / Game Gear emulator for PSVita.
+* [Snes9xVITA](https://github.com/frangarcj/Snes9xVITA/releases/latest) - Native SNES emulator for the PlayStation VITA.
+* [TextQuest](https://github.com/joshaxey/textquest/releases/latest/) -  A simple open source choose your own adventure text game (channeling some nostalgia).
+* [Vita Doom](https://github.com/xyzz/Vita_Doom/releases/latest) - A port of Doom to PS Vita, based on Doom-PSP.
+* [vitahelloworld](https://github.com/xerpi/vitahelloworld/releases/latest) - Sample application that tests the analog sticks and the touchscreen.
+* [VitaTester](https://github.com/SMOKE5/VitaTester/releases) -  Simple homebrew to test all buttons, both analog sticks, and both touchscreens
+* [VITA-8](https://github.com/xerpi/VITA-8/releases/latest) - CHIP-8 emulator.
 * [Wolfenstein 3D](https://github.com/Rinnegatamante/vitaWolfen) -  Wolfenstein 3D port for PSVITA.
 
 -------
