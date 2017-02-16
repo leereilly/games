@@ -274,11 +274,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Arcade
 
-* [hēXōn](https://github.com/LucKeyProductions/heXon) - A twin-stick-shooter with 3D graphics and a classic feel.
 * [Beerwanter](https://github.com/richelbilderbeek/BeerWanter) - Just click the beer!
+* [Bitfighter](https://github.com/bitfighter/bitfighter) -  Multi-player space fighting arcade game.
 * [Boenken](https://github.com/richelbilderbeek/Boenken) - 2-player game that is a mix between soccer and billiards
 * [Bombermaaan](https://github.com/bjaraujo/Bombermaaan) -  Bombermaaan is a clone of the classic bomberman game.
-* [Bitfighter](https://github.com/bitfighter/bitfighter) -  Multi-player space fighting arcade game.
 * [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
 * [Chaos Projectile](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 * [Clonepoint](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
@@ -287,6 +286,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Duckmarines](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 * [Falling Time](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
+* [hēXōn](https://github.com/LucKeyProductions/heXon) - A twin-stick-shooter with 3D graphics and a classic feel.
 * [Kroniax](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
 * [Missile Command](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.
 * [Mystic Mine](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
