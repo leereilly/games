@@ -42,6 +42,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Android](#user-content-android)
   - [IOS](#user-content-ios)
   - [PSP](#user-content-psp)
+  - [PSP Vita](#user-content-psp-vita)
 - [Chat bots](#chat-bots)
 - [Just The Source](#user-content-just-the-source)
 - [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
@@ -489,11 +490,32 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## PSP
 
-
-* [BattleShip Arena](https://github.com/DesiRED74/PSV-BattleShipArena) -  Classic game "Sea battle/fight" for PS Vita.
 * [BlockOut II](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut_II_PSP is a Sony Playstation Portable port of BlockOut II game by Jean-Luc PONS.
+
+## PSP Vita
+
+* [Another World](https://github.com/enriquesomolinos/Another-World-Vita) - Another World port for Vita.
+* [BattleShip Arena](https://github.com/DesiRED74/PSV-BattleShipArena) -  Classic game "Sea battle/fight" for PS Vita.
 * [BreakVeetOut](https://github.com/InvalidExcepti0n/BreakVeetOut) -  BreakVeetOut is an arcade game made for PS Vita updated HENkaku.
+* [CATSFC-libretro-vita](https://github.com/skogaby/CATSFC-libretro/releases) -  A Super Nintendo emulator for PlayStation VITA based on SNES9x (Multiplayer support).
+* [Flood It!](https://github.com/notnotme/NotEngine_PSV/tree/master/floodit) - You have to flood the whole game board with one color in less than the allowed steps.
+* [FTPVita](https://github.com/xerpi/ftpvitalib/releases/latest) - FTP library for homebrew developers and sample server using it.
 * [Eucliod](https://github.com/gnmmarechal/eucliod-vita) -  Port of the Eucliod bullet-hell homebrew to the PS-Vita..
+* [GenesisPlusVITA](https://github.com/frangarcj/Genesis-Plus-GX/releases/latest) - It is an open-source Sega 8/16 bit emulator focused on accuracy and portability.
+* [HandyVITA](https://github.com/frangarcj/HandyVITA/releases/latest) - Atari Lynx emulator.
+* [HENkaku Offline Installer](https://github.com/frangarcj/Genesis-Plus-GX/releases/latest) - HENkaku Offline Installer
+* [mGBA](https://github.com/mgba-emu/mgba/releases) - mGBA Game Boy Advance Emulator.
+* [NeopopVITA](https://github.com/frangarcj/NeopopVITA/releases/latest) - Neogeo Pocket Color emulator.
+* [Numpty Physics for Vita](https://github.com/meetpatty/numpty-physics-for-vita/releases/latest) - Numpty Physics for Vita.
+* [realboy](https://github.com/xerpi/realboy-vita/releases/latest) - RealBoy is a Free, Fast and Accurate, Game Boy/Game Boy Color/Super Game Boy Emulator.
+* [Reminiscence](https://github.com/enriquesomolinos/REminiscence-Vita) -  REminiscence port for Vita.
+* [SMSplusVITA](https://github.com/frangarcj/SMSplusVITA/releases/latest) - Sega Master System / Game Gear emulator for PSVita.
+* [Snes9xVITA](https://github.com/frangarcj/Snes9xVITA/releases/latest) - Native SNES emulator for the PlayStation VITA.
+* [TextQuest](https://github.com/joshaxey/textquest/releases/latest/) -  A simple open source choose your own adventure text game (channeling some nostalgia).
+* [Vita Doom](https://github.com/xyzz/Vita_Doom/releases/latest) - A port of Doom to PS Vita, based on Doom-PSP.
+* [vitahelloworld](https://github.com/xerpi/vitahelloworld/releases/latest) - Sample application that tests the analog sticks and the touchscreen.
+* [VitaTester](https://github.com/SMOKE5/VitaTester/releases) -  Simple homebrew to test all buttons, both analog sticks, and both touchscreens
+* [VITA-8](https://github.com/xerpi/VITA-8/releases/latest) - CHIP-8 emulator.
 * [Wolfenstein 3D](https://github.com/Rinnegatamante/vitaWolfen) -  Wolfenstein 3D port for PSVITA.
 
 -------
