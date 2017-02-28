@@ -327,6 +327,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Red Eclipse](https://github.com/red-eclipse) - Free, casual arena shooter featuring parkour.
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
+* [Unreal Tournament 4](https://github.com/EpicGames) - Unreal Tournament is being created in close collaboration between Epic and the Unreal Engine 4 developer community. (private repo)
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 * [vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
