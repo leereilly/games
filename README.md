@@ -336,9 +336,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## MMORPG
 
 * [Eternal Lands](https://github.com/raduprv/Eternal-Lands/) - Eternal Lands is a free, multiplayer, online role-playing game created by Radu Privantu in 2002.[Play it now!](http://www.eternal-lands.com/)
+* [TONDE IKO](https://github.com/greggman/hft-tonde-iko) - A 6 screen 50 player HappyFunTimes game.
 * [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
 * [The Mana World](https://github.com/themanaworld) - are a free 2D open source MMORPG, released in 2004.
 * [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel. [Play it now!](https://stendhalgame.org)
+* [Worldforge](https://github.com/worldforge/ember) - WorldForge is a community of free game developers, they created a virtual world system called Dural.
 
 
 ## Platform
@@ -385,7 +387,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## RPG
 
 * [Angband](https://github.com/angband/angband) - Single-player dungeon exploration game in the universe of JRR Tolkien.
-* [Arx Fatalis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
+* [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
 * [Cendric](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
 * [Crystal Picnic](https://github.com/Nooskewl/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
@@ -592,6 +594,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [Gladiator 3D](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
 * [Godot](https://github.com/okamstudio/godot) - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+* [HappyFunTimes](https://github.com/greggman/HappyFunTimes) - HappyFunTimes is a system for making 10-100+ local multiplayer games and installations.
 * [Hexameter](https://github.com/Hexworks/hexameter) - Hexagonal Grid library with MIT license. Provides a convenient API to create and manage Hexagonal grids while does not tie the user to any GUI library. Also provides commonly used operations for Hexagonal Grids like distance calculation and pixel-to-coordinate conversion.
 * [JiGS](https://github.com/Techbot/JiGS-PHP-RPG-engine) - Online RPG and Trading Game Engine built in PHP.
 * [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Cutting edge, cross-platform 3D game engine for adventurous Java developers.
