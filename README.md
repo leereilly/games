@@ -137,6 +137,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Save The Forest](https://github.com/softvar/save-the-forest) - Save the burning forest! [Play it now!](http://js13kgames.com/games/save-the-forest/index.html)
 * [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree. [Play it now!](http://basicallydan.github.com/skifree.js)
 * [Snake](https://github.com/jrgdiz/snake) - Clone of the classic Snake game. [Play it now!](http://diz.es/snake/)
+* [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web. [Play it now!](https://rabiroshan.github.io/snake_game/)
 * [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer. [Play it now!](http://couchfriends.com/games/5)
 * [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space. [Play it now!](http://mrrar.github.io/spashal/)
 * [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
