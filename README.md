@@ -494,6 +494,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs) - Arcade game about a bug-craving bat.
 * [Bridges](https://github.com/zgrossbart/bridges) - Puzzle game with bridges, houses, tolls, and subways for iOS.
 * [Canabalt](https://github.com/ericjohnson/canabalt-ios) - Release of Canabalt for iOS.
+* [Choose Figure](https://github.com/ISosnovik/chooseFigure) - Simple logic game. Choose the right figure. Train your attention.
 * [Doom](https://github.com/id-Software/DOOM-iOS) - Doom Classic for iOS.
 * [DrugsNRock](https://github.com/biou/DrugsNRock) - Simple multiplayer rhythm game designed during the 2013 Global Game Jam.
 * [FinalFighter](https://github.com/sebcode/FinalFighter-iphone) - Tank deathmatch battle game developed using Cocos2D.
@@ -504,7 +505,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
-* [Choose Figure](https://github.com/ISosnovik/chooseFigure) - Simple logic game. Choose the right figure. Train your attention.
 
 ## PSP
 
