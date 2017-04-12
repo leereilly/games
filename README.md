@@ -613,6 +613,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript.
 * [OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
+* [OpenXRay](https://github.com/OpenXRay/xray) - OpenGL X-Ray Engine for the legendary S.T.A.L.K.E.R series for compatibility to nearly all platforms.
 * [Oxygine](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
 * [panda.js](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -647,6 +648,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
 * [Capsule](https://github.com/itchio/capsule) - Cross-platform hotkey short video capture for games.
+* [CSGO external](https://github.com/thisgamesux/linux-csgo-external) - CSGO Hack for x64 Linux systems
 * [FlxCollisions](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
 * [Gamertag](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.
 * [Greenworks](https://github.com/greenheartgames/greenworks) - A node.js/nw.js addon allowing you to integrate HTML5 game with Steamworks.
