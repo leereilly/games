@@ -454,6 +454,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
 * [Race into Space](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
 * [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
+* [Spring 1944](https://github.com/springlobby/springlobby) - Spring:1944 is a WWII themed game based on the open source Spring Engine.
 * [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
@@ -461,6 +462,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
 * [Wargus](https://github.com/Wargus/wargus) - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
+* [Widelands](https://github.com/widelands/widelands) - Widelands is a free, open source and cross-platform real-time strategy game with singleplayer campaigns and a multiplayer mode.
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
 
