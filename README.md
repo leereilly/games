@@ -510,7 +510,20 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## PSP
 
+* [BlockHeadU](https://github.com/nsetobol/BlockHeadU) - A simple tetris game for Linux, Windows, nds, and the PSP coded in C.
 * [BlockOut II](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut_II_PSP is a Sony Playstation Portable port of BlockOut II game by Jean-Luc PONS.
+* [drops](https://github.com/alibabouin/drops) - Fast paced tiny game for linux/PSP.
+* [FinalBurn Alpha](https://github.com/tmaul/FBA4PSP) - Unreleased port of FBA to PSP (circa 2008), includes fancy asm 68000 cpu core.
+* [Lamecraft](https://github.com/egor200021/lamecraft) - Unofficial Fork of Lamecraft, a Minecraft clone for the PSP/PS Vita to GitHub.
+* [Memory-Game](https://github.com/dsixda/PSP-Memory-Game) - The first memory card game written for the PSP, originally released in 2005.
+* [Minecraft PSP](https://github.com/Translator5/Minecraft-PSP-LameCraft-Mod-woolio-Joel16) - Minecraft PSP is a new Lamecraft mod based on s4inexcraft 1.2.
+* [Old-Powder-Toy](https://github.com/jacksonmj/Old-Powder-Toy) - Old version of Powder Toy from a PSP port.
+* [Powder-Toy](https://github.com/bri3d/psp-powder-toy) - The Powder Toy for PSP
+* [PSP-Bot](https://github.com/libcg/PSP_Bot) - Reflexion/logic game for Playstation Portable.
+* [PSP-Maps](https://github.com/GameMaker2k/PSP-Maps) - Maps browser for the PSP by Antoine Jacquet.
+* [Quake](https://github.com/atphalix/PSPCube) - A port of id Software's Quake Quake 1 for PSP v 1.0 by Juraj Styk
+* [Rainbow Blaster](https://github.com/meyerd/rainbowblaster) - Rainbow Blaster Game for the PSP
+* [ToneMatrix](https://github.com/Babkock/ToneMatrix) - Drum machine for the PSP.
 
 ## PSP Vita
 
@@ -595,6 +608,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [GameJS](https://github.com/gamejs/gamejs) - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame.
 * [GamePlay](https://github.com/gameplay3d/GamePlay) - Cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
 * [GDevelop](https://github.com/4ian/GD) - Cross-platform Game development software, without needing any knowledge in a specific programming language.
+* [gearWorks](https://github.com/Nub/gearWorks) - C++ GameEngine (PC,PSP)
 * [GemRB](https://github.com/gemrb/gemrb) - Cross-platform implementation of Bioware's Infinity Engine.
 * [GenesisEngine](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [Gladiator 3D](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
@@ -607,12 +621,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [libGDX](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework.
 * [libRocket](https://github.com/librocket/librocket) - C++ user interface package based on the HTML and CSS standards. It is designed as a complete solution for any project's interface needs.
 * [libSDL2pp](https://github.com/libSDL2pp/libSDL2pp) - C++11 bindings for [SDL 2.0](http://libsdl.org/).
+* [Lte-Game-Engine](https://github.com/luca1897/Lte-Game-Engine) - The LTE Game Engine is a full-featured game engine that allows PSP users to program games or applications without having to fight any of the pspsdk calls.
 * [lycheeJS](https://github.com/LazerUnicorns/lycheeJS) - Free HTML5 + native OpenGL Game Engine for Embedded, Console, Mobile, Server and Desktop.
 * [Matter.js](https://github.com/liabru/matter-js) - Matter.js is a JavaScript 2D rigid body physics engine for the web.
 * [melonJS](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript.
 * [OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
+* [OpenXRay](https://github.com/OpenXRay/xray) - OpenGL X-Ray Engine for the legendary S.T.A.L.K.E.R series for compatibility to nearly all platforms.
 * [Oxygine](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
 * [panda.js](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -620,6 +636,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Plasma](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
 * [PlayCanvas](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
+* [PSPConstructor](https://github.com/cbarox/PSPConstructor) - A game maker for PSP homebrew games.
+* [ProStore](https://github.com/devnoname120/prostore) - Homebrew Store right on the PSP.
 * [PuzzleScript](https://github.com/increpare/PuzzleScript) - Puzzle game engine.
 * [QICI Engine](https://github.com/qiciengine/qiciengine) - free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
@@ -647,6 +665,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
 * [Capsule](https://github.com/itchio/capsule) - Cross-platform hotkey short video capture for games.
+* [CSGO external](https://github.com/thisgamesux/linux-csgo-external) - CSGO Hack for x64 Linux systems
 * [FlxCollisions](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
 * [Gamertag](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.
 * [Greenworks](https://github.com/greenheartgames/greenworks) - A node.js/nw.js addon allowing you to integrate HTML5 game with Steamworks.
@@ -654,6 +673,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [IodineGBA](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 * [itch](https://github.com/itchio/itch) - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
 * [JavaScript Breakouts](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).
+* [Language Patcher](https://github.com/LemonBoy/langPatch) - A plugin for Sony PSP to fake the language of your system to use it in games.
 * [Leaderboard(Java)](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis (in Java).
 * [Leaderboard(PHP)](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis (in PHP).
 * [Leaderboard(Python)](https://github.com/agoragames/leaderboard-python) - Leaderboards backed by Redis (in Python).
@@ -664,6 +684,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Lutris](https://github.com/lutris/lutris) - Lutris is an open source gaming platform for GNU/Linux. It makes gaming on Linux easier by taking care of managing, installing and providing optimal settings for games.
 * [OBS](https://github.com/jp9000/obs-studio) - Free and open source software for live streaming and screen recording. [Homepage](https://obsproject.com/mantis/)
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
+* [PSPUDB](https://github.com/georgemoralis/pspudb) - Organize your psp games collection and use your favourite psp emulator to run it [Homepage](http://www.pspudb.com).
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
 * [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
