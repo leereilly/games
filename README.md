@@ -394,6 +394,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
 * [Cendric](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
 * [Crystal Picnic](https://github.com/Nooskewl/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
+* [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of The Elder Scrolls II: Daggerfall in the Unity engine [Homepage](http://www.dfworkshop.net/).
 * [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) - Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes.
 * [Dungeon Monkey Eternal](https://github.com/jwvhewitt/dmeternal) - Party-based fantasy roguelike role-playing game.
 * [Egoboo](https://github.com/egoboo/egoboo) - Cool 3D dungeon crawling game in the spirit of NetHack.
@@ -401,6 +402,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine.
 * [Monster RPG 2](https://github.com/Nooskewl/monster-rpg-2) - Turn-based J-RPG in a fantasy universe.
 * [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
+* [REGoth](https://github.com/REGoth-project/REGoth) -  OpenSource-Reimplementation of the zEngine, used by the game "Gothic" cross-platform.
 * [Open MW](https://github.com/OpenMW/openmw) - Reimplementation of the game The Elder Scrolls: Morrowind.
 * [Open TES Arena](https://github.com/afritz1/OpenTESArena) - Reimplementation of the game The Elder Scrolls: Arena.
 * [Space Station 13](https://github.com/tgstation/tgstation) Multi-player round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station.
@@ -656,7 +658,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Urho3D](https://github.com/urho3d/Urho3D) - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
 * [Vinage](https://github.com/KordonBleu/vinage) - Javascript 2D collision library, especially useful for dealing with wrapped universes.
 * [Wurfel Engine](https://github.com/BSVogler/WurfelEngineSDK) An isometric game engine for games with an open world made of blocks or voxels.
+* [xeros](https://github.com/xoreos/xoreos) -  A cross-platform reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P [Homepage](https://xoreos.org/)
 * [XLE](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
+* [XL-Engine](https://github.com/luciusDXL/XL-Engine) - The XL-Engine provides support for first person DOS-era games running on modern operating systems such as Windows 10.
 
 -------
 
