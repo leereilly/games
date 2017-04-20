@@ -511,6 +511,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## PSP
 
 * [BlockOut II](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut_II_PSP is a Sony Playstation Portable port of BlockOut II game by Jean-Luc PONS.
+* [Lamecraft](https://github.com/egor200021/lamecraft) - Unofficial Fork of Lamecraft, a Minecraft clone for the PSP/PS Vita to GitHub.
+* [Minecraft PSP](https://github.com/Translator5/Minecraft-PSP-LameCraft-Mod-woolio-Joel16) - Minecraft PSP is a new Lamecraft mod based on s4inexcraft 1.2.
 
 ## PSP Vita
 
