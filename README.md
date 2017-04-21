@@ -360,6 +360,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
 * [HFT Mario Party] (https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
+* [Sky Engine](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
 * [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 * [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
 * [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
