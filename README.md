@@ -120,7 +120,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
 * [JumpSuit](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe. [Play it now!](http://jumpsuit.space/)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
-* [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play it now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
 * [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
 * [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser. [Play it now!](http://gamedolph.in/sample-page/masonry-tetris-clone/)
 * [Mode](https://github.com/AdamAtomic/Mode) - Small(but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
