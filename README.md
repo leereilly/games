@@ -185,7 +185,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [The House](https://github.com/arturkot/the-house-game) – You're in a strange house. Can you find the way out? Is there any? [Play it now!](https://the-house.arturkot.pl/)
 * [The Investigator Cases](https://github.com/constancecchen/Investigator) - The Investigator Cases are point-and-click who-dunnits about an alligator who investigates crime. [Play it now!](http://investi-gator.com/)
 
-
 ## Puzzle
 
 * [.buk](https://github.com/industrial-revolutioners/buk) - `.buk` is a cube rolling puzzle game. [Play it now!](https://industrial-revolutioners.github.io/buk)
@@ -255,6 +254,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Basketball GM](https://github.com/dumbmatter/basketball-gm) - Single-player basketball management simulation game. [Play it now!](https://basketball-gm.com/)
 * [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
 * [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5. [Play it now!](http://play.freeciv.org/)
+* [Hexa Battle](https://github.com/itajaja/hb) - A turn based dungeon crawler written with Typescript, using React and SVG. [Play it now!](http://giacomotag.io/hb/)
 * [Nine Men's Morris](https://github.com/yadav-rahul/Nine-Mens-Morris) - Online version of famous strategy board game for two players built with JS. [Play it now!](https://yadav-rahul.github.io/Nine-Mens-Morris/)
 * [OpenPanzer](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2. [Play it now!](http://openpanzer.net/)
 * [OpHog](https://github.com/Adam13531/OpHog) - HTML5/JavaScript game resembling Tower Defense. [Play it now!](http://ophog.oenx.net/game/)
