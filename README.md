@@ -11,6 +11,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 # Table of Contents.
 - [Major Companies](#major-companies)
 - [Browser-Based](#user-content-browser-based)
+  - [Action](#user-content-action)
   - [Arcade](#user-content-arcade)
   - [Boardgame](#user-content-boardgame)
   - [FPS](#user-content-fps)
@@ -28,8 +29,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [FPS](#user-content-fps-1)
   - [MMORPG](#user-content-mmorpg-1)
   - [Platform](#user-content-platform)
-  - [Programming](#user-content-programming)
-  - [Puzzle/card/board](#user-content-puzzlecardboard)
+  - [Puzzle/Card/Board](#user-content-puzzlecardboard)
   - [Racing](#user-content-racing-1)
   - [RPG](#user-content-rpg-1)
   - [Sandbox](#user-content-sandbox-1)
@@ -64,6 +64,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 -------
 
 # Browser-Based
+## Action
+* [OpenLara](https://github.com/XProger/OpenLara) -  Classic Tomb Raider open-source engine.
+
 ## Arcade
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
@@ -319,9 +322,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## MMORPG
 * [Eternal Lands](https://github.com/raduprv/Eternal-Lands/) - Eternal Lands is a free, multiplayer, online role-playing game created by Radu Privantu in 2002.[Play it now!](http://www.eternal-lands.com/)
 * [FreeSO](https://github.com/RHY3756547/FreeSO) - Re-implementation of The Sims Online. [Play it now!](http://freeso.org/)
-* [TONDE IKO](https://github.com/greggman/hft-tonde-iko) - A 6 screen 50 player HappyFunTimes game.
+* [GTA Co-Op](https://github.com/multitheftauto/mtasa-blue) -  An online co-op modification for Grand Theft Auto V.
 * [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
+* [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is an open-source game engine that adds full multiplayer network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. [Homepage](https://www.multitheftauto.com/)
 * [The Mana World](https://github.com/themanaworld) - are a free 2D open source MMORPG, released in 2004.
+* [TONDE IKO](https://github.com/greggman/hft-tonde-iko) - A 6 screen 50 player HappyFunTimes game.
 * [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel. [Play it now!](https://stendhalgame.org)
 * [Worldforge](https://github.com/worldforge/ember) - WorldForge is a community of free game developers, they created a virtual world system called Dural.
 
@@ -332,15 +337,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
 * [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 * [Gish](https://github.com/blinry/gish) - Award-winning physics platformer.
+* [HFT Mario Party] (https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
-* [HFT Mario Party] (https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
+* [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
 * [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 * [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
-* [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
-
-## Programming
-* [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
 
 ## Puzzle/card/board
 * [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
@@ -353,10 +355,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
+* [Sliding Puzzle](https://franzose.github.io/sliding-puzzle/) - Sliding Puzzle game written in JavaScript (ES6).
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [THBattle](https://github.com/feisuzhu/thbattle) - Online Touhou X Sanguosha(Chinese variation of Bang!) game implemented in pure python. [Forum](http://www.thbattle.net)
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
-* [Sliding Puzzle](https://franzose.github.io/sliding-puzzle/) - Sliding Puzzle game written in JavaScript (ES6).
 
 ## Racing
 * [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
@@ -440,9 +442,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Others
 * [Das Wahre Schlagerfest](https://github.com/richelbilderbeek/DasWahreSchlagerfest) - Truly fun Columns game with an Oktoberfest theme
+* [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
 * [City Of Thieves](https://github.com/richelbilderbeek/CityOfThieves) - Text adventure game, after the book 'City of Thieves' by Ian Livingstone
-* [GTA Co-Op](https://github.com/multitheftauto/mtasa-blue) -  An online co-op modification for Grand Theft Auto V.
-* [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is an open-source game engine that adds full multiplayer network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. [Homepage](https://www.multitheftauto.com/)
 * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
 * [Postal 1](https://github.com/iammeat/POSTAL-1-Open-Source) - Isometric top-down shooter video game developed by Running With Scissors and published by Ripcord Games in 1997.
 * [Zork](https://github.com/richelbilderbeek/Zork) - Text adventure `Zork: The Great Underground Empire - Part I`
