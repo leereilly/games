@@ -427,6 +427,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
+* [Choose Figure](https://github.com/ISosnovik/chooseFigure) - Simple logic game. Choose the right figure. Train your attention.
 
 -------
 
