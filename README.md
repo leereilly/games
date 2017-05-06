@@ -358,6 +358,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
+* [Sliding Puzzle](https://franzose.github.io/sliding-puzzle/) - Sliding Puzzle game written in JavaScript (ES6).
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [THBattle](https://github.com/feisuzhu/thbattle) - Online Touhou X Sanguosha(Chinese variation of Bang!) game implemented in pure python. [Forum](http://www.thbattle.net)
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
