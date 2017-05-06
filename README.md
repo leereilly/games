@@ -176,7 +176,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [The Investigator Cases](https://github.com/constancecchen/Investigator) - The Investigator Cases are point-and-click who-dunnits about an alligator who investigates crime. [Play it now!](http://investi-gator.com/)
 
 ## Puzzle
-* [.buk](https://github.com/industrial-revolutioners/buk) - `.buk` is a cube rolling puzzle game. [Play it now!](https://industrial-revolutioners.github.io/buk)
+* [.buk](https://github.com/industrial-revolutioners/buk) - .buk is a cube rolling puzzle game. [Play it now!](https://industrial-revolutioners.github.io/buk)
 * [0hh0](https://github.com/Q42/0hn0) - Companion game to 0hh1 by Q42. [Play it now!](http://0hh0.com)
 * [0hh1](https://github.com/Q42/0hh1) - Lovely little logic game by Q42. [Play it now!](http://0hh1.com)
 * [2048](https://github.com/gabrielecirulli/2048) - Sliding addition game [Play it now!](http://gabrielecirulli.github.io/2048/)
