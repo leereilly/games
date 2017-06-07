@@ -637,6 +637,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 # Maps/Hacks/Plugins/Utilities/All of the Things™
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
+* [BOSS](https://github.com/boss-developers/boss) - A load order optimisation tool for Oblivion, Nehrim, Skyrim, Fallout 3, Fallout: New Vegas. [Homepage](http://boss-developers.github.io/)
 * [Capsule](https://github.com/itchio/capsule) - Cross-platform hotkey short video capture for games.
 * [CSGO external](https://github.com/thisgamesux/linux-csgo-external) - CSGO Hack for x64 Linux systems
 * [FlxCollisions](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
@@ -655,6 +656,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
 * [LOOT](https://github.com/loot/loot) - A load order optimisation tool for Oblivion, Skyrim, Skyrim SE, Fallout 3, Fallout: New Vegas and Fallout 4. [Homepage](https://loot.github.io/)
 * [Lutris](https://github.com/lutris/lutris) - Lutris is an open source gaming platform for GNU/Linux. It makes gaming on Linux easier by taking care of managing, installing and providing optimal settings for games.
+* [mlox](https://github.com/mlox/mlox) - Mlox is a tool for sorting and analyzing Morrowind plugin load order.
 * [OBS](https://github.com/jp9000/obs-studio) - Free and open source software for live streaming and screen recording. [Homepage](https://obsproject.com/mantis/)
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
 * [PSPUDB](https://github.com/georgemoralis/pspudb) - Organize your psp games collection and use your favourite psp emulator to run it [Homepage](http://www.pspudb.com).
