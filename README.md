@@ -667,6 +667,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OBS](https://github.com/jp9000/obs-studio) - Free and open source software for live streaming and screen recording. [Homepage](https://obsproject.com/mantis/)
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
 * [PSPUDB](https://github.com/georgemoralis/pspudb) - Organize your psp games collection and use your favourite psp emulator to run it [Homepage](http://www.pspudb.com).
+* [PPSSPP](https://github.com/hrydgard/ppsspp/) - A PSP emulator for Android, Windows, Mac and Linux, written in C++ [Homepage](https://www.ppsspp.org).
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
 * [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
