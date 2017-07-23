@@ -126,6 +126,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
 * [Periodic Snake](https://github.com/ranginuitrot/periodic-snake.js) - It's a wave! [Play it now!](http://periodic-snake.herokuapp.com/)
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
+* [Platform](https://github.com/vuanhhaogk/Platform-Game) - A small game was made with Phaser Game Engine. [Play it now!](https://vuanhhaogk.github.io/apps/platform/index.html)
 * [Platforms](https://github.com/matthias-schuetz/webgl-platforms-game/) - 3D platform hopping. Made with ThreeJS (WebGL) [Play now!](http://matthiasschuetz.com/
 * [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
 * [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change. [Play it now!](http://josegallegos.info/game-off-2013/Protocol390/index.html)
@@ -156,12 +157,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 * [Four in a Row](https://github.com/inaka/fiar) - The first to connect four chips in a line wins. [Play it now!](http://fiar.inakalabs.com/)
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
+* [JCloisterZone](https://github.com/farin/JCloisterZone) - Java implementation of Carcassonne board game 
 * [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant. [Play it now!](http://krgspl.com/)
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
 * [TicTacToe](https://github.com/rlazoti/tictactoe-scala-react) - Tic-tac-toe game written in Scala and ReactJS. [Play it now!](http://tictactoe-scala-react.herokuapp.com/)
 
 ## FPS
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
+* [QuakeJS](https://github.com/inolen/quakejs) - QuakeJS is a port of ioquake3 to JavaScript with the help of Emscripten. [Play it now!](http://www.quakejs.com/)
 
 ## MMORPG
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
@@ -254,6 +257,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [CyberPong](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit. [Play it now!](http://cyber-pong.bitballoon.com/)
 * [Dental Defender: Saga of the Candy Horde](https://github.com/cshepp/candyjam/) - HTML5 shooter/tower defense game for the #CandyJam. [Play it now!](http://cas002.itch.io/dental-defenders-saga-of-the-candy-horde)
 * [Descensus 2](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game. [Play it now!](http://booleanoperations.com/descensus2/)
+* [Emojemon](https://github.com/zakrowling/emojemon) - Emojemon - Battle Emojis like Pokemon!. [Play it now!](http://www.emojemon.com/)
 * [Game of GitHub](https://github.com/bahmutov/game-of-github) - plays Game of Life in any GitHub profile contributions chart.
 * [Hauberk](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
@@ -295,6 +299,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [SDL-Ball](https://github.com/DusteDdk/SDL-Ball) - Pretty looking breakout clone available in most distributions.
 * [Taisei](https://github.com/laochailan/taisei) - Fan-made, open Source clone of the Touhou series.
 * [Teeworlds](https://github.com/teeworlds/teeworlds/) - Online multi-player platform 2D shooter.
+* [Trackballs](https://github.com/trackballs/trackballs) - Marble steering game [Play it now!](https://trackballs.github.io)
 * [The City Drone Escape](https://github.com/bfarley88/The-City-Drone-Escape) - Fast paced 2D top-down drone shooter.
 * [Wannabe Tempest](https://github.com/awlzac/wbt) - Tempest(80's arcade game) clone in Java, and a small project for playing with git.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawl shooter similar to The Binding of Isaac.
@@ -305,10 +310,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [BZFlag](https://github.com/BZFlag-Dev/bzflag) - Cross platform, 3D tank FPS in C++. Shoot, dodge, and capture the flag. 
 * [Castle](https://github.com/castle-engine/castle-game) - FPS in a dark fantasy setting. Includes as a bonus DOOM E1M1 level done in modern technology.
 * [Doom the Roguelike](https://github.com/ChaosForge/doomrl) - DRL (D**m, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
+* [dhewm 3](https://github.com/dhewm/dhewm3) - dhewm 3 is a Doom 3 GPL source port, know to work on at least Windows, Linux, Mac OS X and FreeBSD.
 * [ET Legacy](https://github.com/etlegacy/etlegacy) - A second breath of life for Wolfenstein: Enemy Territory.
 * [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 * [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 * [Hexen II: Hammer of Thyrion](https://github.com/svn2github/uhexen2) - Hammer of Thyrion (uHexen2) is a cross-platform port of Raven Software's Hexen II source.
+* [iortcw](https://github.com/iortcw/iortcw) - Iortcw is a port of Return To Castle Wolfenstein engine.
 * [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 * [LWJake2](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
 * [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
@@ -327,6 +334,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [GTACoop](https://github.com/GTACoop/GTACoop) -  An online co-op modification for Grand Theft Auto V. [Play it now!](https://www.gta5-mods.com/scripts/multiplayer-co-op-mod)
 * [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
 * [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is an open-source game engine that adds full multiplayer network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. [Homepage](https://www.multitheftauto.com/)
+* [Ryzom](https://github.com/ryzom) - Sci-Fi & Fantasy-MMORPG. [Play it now!](http://ryzom.com/)
 * [The Mana World](https://github.com/themanaworld) - are a free 2D open source MMORPG, released in 2004.
 * [TONDE IKO](https://github.com/greggman/hft-tonde-iko) - A 6 screen 50 player HappyFunTimes game.
 * [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel. [Play it now!](https://stendhalgame.org)
@@ -359,6 +367,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
 * [Sliding Puzzle](https://franzose.github.io/sliding-puzzle/) - Sliding Puzzle game written in JavaScript (ES6).
+* [Sliding Puzzle](https://github.com/rjopek/games/tree/master/sliding%20puzzle) - Multi platform game for Harbour programming language.
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [THBattle](https://github.com/feisuzhu/thbattle) - Online Touhou X Sanguosha(Chinese variation of Bang!) game implemented in pure python. [Forum](http://www.thbattle.net)
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
@@ -387,6 +396,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Space Station 13](https://github.com/tgstation/tgstation) Multi-player round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station.
 * [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
+* [WorldGrower](https://github.com/WorldGrower/WorldGrower) - WorldGrower is a top-down rpg simulator focused on creating a detailed world, in which actions have consequences.
 
 ## Sandbox
 * [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
@@ -470,6 +480,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
 
 ## IOS
+* [4X](https://github.com/shankqr/4xMobileGame) - The one and only open source 4X MMO mid-core strategy game for iOS.
 * [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs) - Arcade game about a bug-craving bat.
 * [Bridges](https://github.com/zgrossbart/bridges) - Puzzle game with bridges, houses, tolls, and subways for iOS.
 * [Canabalt](https://github.com/ericjohnson/canabalt-ios) - Release of Canabalt for iOS.
@@ -636,6 +647,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 # Maps/Hacks/Plugins/Utilities/All of the Things™
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
+* [BOSS](https://github.com/boss-developers/boss) - A load order optimisation tool for Oblivion, Nehrim, Skyrim, Fallout 3, Fallout: New Vegas. [Homepage](http://boss-developers.github.io/)
 * [Capsule](https://github.com/itchio/capsule) - Cross-platform hotkey short video capture for games.
 * [CSGO external](https://github.com/thisgamesux/linux-csgo-external) - CSGO Hack for x64 Linux systems
 * [FlxCollisions](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
@@ -654,9 +666,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
 * [LOOT](https://github.com/loot/loot) - A load order optimisation tool for Oblivion, Skyrim, Skyrim SE, Fallout 3, Fallout: New Vegas and Fallout 4. [Homepage](https://loot.github.io/)
 * [Lutris](https://github.com/lutris/lutris) - Lutris is an open source gaming platform for GNU/Linux. It makes gaming on Linux easier by taking care of managing, installing and providing optimal settings for games.
+* [microemu](https://github.com/barteo/microemu) - MicroEmu is a pure Java implementation of Java ME.
+* [mlox](https://github.com/mlox/mlox) - Mlox is a tool for sorting and analyzing Morrowind plugin load order.
 * [OBS](https://github.com/jp9000/obs-studio) - Free and open source software for live streaming and screen recording. [Homepage](https://obsproject.com/mantis/)
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
 * [PSPUDB](https://github.com/georgemoralis/pspudb) - Organize your psp games collection and use your favourite psp emulator to run it [Homepage](http://www.pspudb.com).
+* [PPSSPP](https://github.com/hrydgard/ppsspp/) - A PSP emulator for Android, Windows, Mac and Linux, written in C++ [Homepage](https://www.ppsspp.org).
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
 * [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
