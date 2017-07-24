@@ -561,6 +561,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Leaderboard(Ruby)](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in Ruby).
 * [Leaderboard(Scala)](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in Scala).
 * [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
+* [Octane](https://github.com/tfausak/octane) - Parse Rocket League replays
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
 * [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
