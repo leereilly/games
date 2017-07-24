@@ -114,8 +114,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play it now!](http://anirudhjoshi.github.com/fluid_table_tennis)
 * [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - Very simple Flixel game inspired by the Taito classic. [Play it now!](http://flixel.org/flxinvaders/)
 * [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - Very simple Flixel game inspired by the classic arcade shooter. [Play it now!](http://www.flixel.org/flxteroids/)
-* [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defense. [Play it now!](http://adamatomic.com/graverobbers)
-* [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. [Play it now!](http://games.myviews.pl/heal-em-all/)
+* [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defence. [Play it now!](http://adamatomic.com/graverobbers)
+* [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stopped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. [Play it now!](http://games.myviews.pl/heal-em-all/)
 * [HotFix](https://github.com/sdrdis/hotfix) - Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. [Play it now!](http://sdrdis.github.com/hotfix/)
 * [hurry!](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter. [Play it now!](http://hughsk.io/ludum-dare-27/)
 * [Hyperspace Garbage Collector](https://github.com/razh/game-off-2013) - General Hyperspace Waste Management Solutions. [Play it now!](http://razh.github.io/game-off-2013/)
@@ -126,14 +126,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. [Play it now!](http://rawrbitrary.com/arcade/infinite-mario-bros-in-html5/)
 * [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
 * [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser. [Play it now!](http://gamedolph.in/sample-page/masonry-tetris-clone/)
-* [Mode](https://github.com/AdamAtomic/Mode) - Small(but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
+* [Mode](https://github.com/AdamAtomic/Mode) - Small (but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
 * [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Simple HTML5 game created with Phaser 2.0.7. [Play it now!](http://candy-demo.enclavegames.com/)
 * [Newton Adventure](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction! [Play it now!](http://play.bci.im/newton_adventure/)
 * [Octocat Jump](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://ogoshen.github.io/game-off-2012/)
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play it now!](http://arcade.lostdecadegames.com/onslaught_arena/)
 * [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
 * [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
-* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
+* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demonstrates the power of the Entity game engine.
 * [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
 * [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change. [Play it now!](http://josegallegos.info/game-off-2013/Protocol390/index.html)
 * [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often. [Play it now!](http://petarov.github.io/game-off-2012/)
@@ -146,7 +146,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space. [Play it now!](http://mrrar.github.io/spashal/)
 * [Square Off!](https://github.com/ScriptaGames/SquareOff/) - multiplayer 1v1 air-hockey style game, place squares to deflect the ball. [Play it now!](http://sqoff.com/)
 * [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - Scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play it now!](http://maettig.com/code/canvas/starship-sorades-13k/)
-* [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJS Framework. [Play it now!](http://games.loopeex.com/space-crusade)
+* [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developed with PhaserJS Framework. [Play it now!](http://games.loopeex.com/space-crusade)
 * [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders) - Remake of Space Invaders in require.js. [Play it now!](http://strykerkkd.github.io/SpaceInvaders/)
 * [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine. [Play it now!](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html)
 * [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play it now!](http://www.schillmania.com/survivor/)
@@ -332,7 +332,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
 * [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 * [Gish](https://github.com/blinry/gish) - Award-winning physics platformer.
-* [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
+* [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episode built using the LÖVE game engine.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
 * [HFT Mario Party](https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
 * [Sky Engine](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
@@ -493,7 +493,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 * [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 * [EaselJS](https://github.com/CreateJS/EaselJS/) - Library to make working with the Canvas element easier.
-* [EntityJS](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
+* [EntityJS](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utilizing the entity-component design.
 * [Evennia MUD/MU* Creation System](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 * [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
@@ -560,7 +560,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Leaderboard(Python)](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in Python).
 * [Leaderboard(Ruby)](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in Ruby).
 * [Leaderboard(Scala)](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in Scala).
-* [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
+* [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on Windows, Linux, and OS X.
 * [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
 * [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
