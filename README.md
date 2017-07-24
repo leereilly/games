@@ -468,6 +468,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [MaNGOS](https://github.com/mangos/mangos) - Full featured World of Warcraft server.
 * [Miner Wars 2081](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) - For modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
+* [Penumbra Overture](https://github.com/FrictionalGames/PenumbraOverture) - Open source code of a horror game written by Frictional Games
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
 
