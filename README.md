@@ -423,6 +423,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Android
 
+* [Blastar Reborn](https://github.com/TheNamesDyl/blastar) - Recreation of Elon Musk's childhood space game "Blastar" for Android.
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 * [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
