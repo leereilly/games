@@ -339,6 +339,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 * [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
 * [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
+* [Red Runner](https://github.com/BayatGames/RedRunner) - Awesome Platformer Game with Fantasy Graphics.
 
 ## Puzzle/card/board
 
