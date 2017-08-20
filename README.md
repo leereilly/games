@@ -142,6 +142,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree. [Play it now!](http://basicallydan.github.com/skifree.js)
 * [Snake](https://github.com/jrgdiz/snake) - Clone of the classic Snake game. [Play it now!](http://diz.es/snake/)
 * [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web. [Play it now!](https://rabiroshan.github.io/snake_game/)
+* [Snake](https://github.com/rjopek/games/tree/master/snake) - Snake original ASCII game.
 * [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer. [Play it now!](http://couchfriends.com/games/5)
 * [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space. [Play it now!](http://mrrar.github.io/spashal/)
 * [Square Off!](https://github.com/ScriptaGames/SquareOff/) - multiplayer 1v1 air-hockey style game, place squares to deflect the ball. [Play it now!](http://sqoff.com/)
