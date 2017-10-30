@@ -16,6 +16,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Boardgame](#user-content-boardgame)
   - [FPS](#user-content-fps)
   - [MMORPG](#user-content-mmorpg)
+  - [Platformer](#user-content-platformer)
   - [Point and Click](#user-content-point-and-click)
   - [Puzzle](#user-content-puzzle)
   - [Racing](#user-content-racing)
@@ -65,7 +66,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 # Browser-Based
 ## Action
-* [OpenLara](https://github.com/XProger/OpenLara) -  Classic Tomb Raider open-source engine.
 
 ## Arcade
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
@@ -81,7 +81,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
 * [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game. [Play it now!](http://ceros-snake.hasba.ch/)
 * [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
-* [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
 * [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser. [Play it now!](http://eugenioclrc.github.io/circushtml5)
 * [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
 * [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
@@ -97,13 +96,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library. [Play it now!](http://dreamshowadventures.github.io/LudumDare29/)
 * [DuckHunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator. [Play it now!](http://mattsurabian.com/duckhunt/)
 * [EKG Runner](https://github.com/Myztiq/ekgrunner) - Game made in 48 hours for the 2013 Global Game Jam.
-* [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play it now!](http://operasoftware.github.com/Emberwind/)
 * [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) - JavaScript MegaMan clone. [Play it now!](http://executive-man.com/)
 * [Flappy Bird](https://github.com/hyspace/flappy) - flappy bird in html5. [Play it now!](http://hyspace.io/flappy/)
 * [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play it now!](http://anirudhjoshi.github.com/fluid_table_tennis)
 * [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - Very simple Flixel game inspired by the Taito classic. [Play it now!](http://flixel.org/flxinvaders/)
 * [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - Very simple Flixel game inspired by the classic arcade shooter. [Play it now!](http://www.flixel.org/flxteroids/)
-* [FullScreenMario](https://github.com/FullScreenShenanigans/FullScreenMario/) – a free HTML 5 remake of Super Mario Bros with additional features.
 * [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defense. [Play it now!](http://adamatomic.com/graverobbers)
 * [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. [Play it now!](http://games.myviews.pl/heal-em-all/)
 * [HotFix](https://github.com/sdrdis/hotfix) - Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. [Play it now!](http://sdrdis.github.com/hotfix/)
@@ -125,9 +122,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
 * [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
 * [Periodic Snake](https://github.com/ranginuitrot/periodic-snake.js) - It's a wave! [Play it now!](http://periodic-snake.herokuapp.com/)
-* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
-* [Platform](https://github.com/vuanhhaogk/Platform-Game) - A small game was made with Phaser Game Engine. [Play it now!](https://vuanhhaogk.github.io/apps/platform/index.html)
-* [Platforms](https://github.com/matthias-schuetz/webgl-platforms-game/) - 3D platform hopping. Made with ThreeJS (WebGL) [Play now!](http://matthiasschuetz.com/
 * [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
 * [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change. [Play it now!](http://josegallegos.info/game-off-2013/Protocol390/index.html)
 * [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often. [Play it now!](http://petarov.github.io/game-off-2012/)
@@ -171,7 +165,16 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 * [The Tale](https://github.com/Tiendil/the-tale) (Russian: Сказка) - Russian multiplayer [ZPG](https://en.wikipedia.org/wiki/Zero-player_game)-sandbox. [Play it now!](http://the-tale.org/)
 
+## Platformer
+* [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
+* [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play it now!](http://operasoftware.github.com/Emberwind/)
+* [OpenLara](https://github.com/XProger/OpenLara) -  Classic Tomb Raider open-source engine.
+* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
+* [Platform](https://github.com/vuanhhaogk/Platform-Game) - A small game was made with Phaser Game Engine. [Play it now!](https://vuanhhaogk.github.io/apps/platform/index.html)
+* [Platforms](https://github.com/matthias-schuetz/webgl-platforms-game/) - 3D platform hopping. Made with ThreeJS (WebGL) [Play now!](http://matthiasschuetz.com/)
+
 ## Point and Click
+* [Conspiracy Clicker](https://github.com/Lukenickerson/Conspiracy-Clicker) - Conspiracy Clicker by Deathray Games
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
 * [Swarm Simulator](https://github.com/swarmsim/swarm) - Starting with only a few larvae and a small pile of meat, build a merciless swarm of trillions of giant alien bugs. [Play it now!](https://swarmsim.github.io/)
 * [Tap Tap Adventure](https://github.com/Tach-Yon/Tap-Tap-Adventure) - Expansion of BrowserQuest. [Play it now!](http://taptapadventure.com/play)
@@ -296,6 +299,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenLieroX](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
 * [OSGG](https://github.com/DusteDdk/Osgg) - Oldskool Gravity Game, very difficult lander game in glorious vector graphics.
 * [osu!](https://github.com/ppy/osu) - osu! is a rhythm game that is very community driven.
+* [Ruby Hop](https://github.com/blowmage/rubyhop) - Flappy Bird clone in Ruby with Gosu.
 * [Savage Wheels](https://github.com/petarov/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
 * [Serpents](https://github.com/inaka/serpents) - Classic snakes game where each player controls a serpent that moves around a board and eats fruit to be longer.
 * [Space Shooter](https://github.com/prodicus/spaceShooter) - Cross platform, 2D space shooting game made using pygame.
@@ -372,6 +376,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
 * [Rjopek Minigames](https://github.com/rjopek/games) - Multi platform games for Harbour programming language.
+* [szsol](https://github.com/usrshare/szsol) - CLI clone of Shenzhen Solitaire card game.
 * [Tetris](https://github.com/berk76/tetris) - Tetris for Win32, Linux console, DOS and ZX Spectrum
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [THBattle](https://github.com/feisuzhu/thbattle) - Online Touhou X Sanguosha(Chinese variation of Bang!) game implemented in pure python. [Forum](http://www.thbattle.net)
@@ -487,6 +492,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 * [Rocket Kite](https://github.com/oOo0oOo/RocketKite) - Fly around planets in this colorful space simulator.
+* [Splitter](https://github.com/harshit211997/Splitter) - Vertical scrolling casual game, where you have to avoid obstacles by splitting the player.
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
 
 ## IOS
@@ -585,6 +591,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Cocos2d for HTML5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
 * [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.
 * [Crafty](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
+* [Cry Engine](https://github.com/CRYTEK/CRYENGINE) - Powerful real-time game development platform / game engine
 * [CutJS](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 * [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 * [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
