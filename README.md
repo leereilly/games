@@ -272,9 +272,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 # Native
 ## Action
+* [Oolite](https://github.com/OoliteProject/oolite) - Oolite is an open world space opera based on Elite
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
 
 ## Arcade
+* [Alieanum](https://github.com/Kaev/Alieanum) - My Ludum Dare 33 entry. A kinda bullet hell shooter.
 * [Beerwanter](https://github.com/richelbilderbeek/BeerWanter) - Just click the beer!
 * [Bitfighter](https://github.com/bitfighter/bitfighter) -  Multi-player space fighting arcade game. [Play it now!](http://bitfighter.org)
 * [Boenken](https://github.com/richelbilderbeek/Boenken) - 2-player game that is a mix between soccer and billiards
@@ -293,6 +295,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Mystic Mine](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
 * [OpenLieroX](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
 * [OSGG](https://github.com/DusteDdk/Osgg) - Oldskool Gravity Game, very difficult lander game in glorious vector graphics.
+* [osu!](https://github.com/ppy/osu) - osu! is a rhythm game that is very community driven.
 * [Savage Wheels](https://github.com/petarov/savagewheels) - 2D car crashing game similar to the old classic Destruction Derby.
 * [Serpents](https://github.com/inaka/serpents) - Classic snakes game where each player controls a serpent that moves around a board and eats fruit to be longer.
 * [Space Shooter](https://github.com/prodicus/spaceShooter) - Cross platform, 2D space shooting game made using pygame.
@@ -350,11 +353,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [HFT Mario Party](https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
+* [Red Runner](https://github.com/BayatGames/RedRunner) - Red Runner, Awesome Platformer Game.
 * [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
 * [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 * [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
 
-## Puzzle/card/board
+## Puzzle/Card/Board
 * [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
 * [Anonymine](https://github.com/oskar-skog/anonymine) - Terminal minesweeper without guessing that has a few unique features.
@@ -362,12 +366,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
 * [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 * [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
+* [Gomoku](https://github.com/berk76/piskworks) - Piskworks is a simple desk game known as gomoku.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
-* [Sliding Puzzle](https://franzose.github.io/sliding-puzzle/) - Sliding Puzzle game written in JavaScript (ES6).
-* [Sliding Puzzle](https://github.com/rjopek/games/tree/master/sliding%20puzzle) - Multi platform game for Harbour programming language.
+* [Rjopek Minigames](https://github.com/rjopek/games) - Multi platform games for Harbour programming language.
+* [Tetris](https://github.com/berk76/tetris) - Tetris for Win32, Linux console, DOS and ZX Spectrum
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [THBattle](https://github.com/feisuzhu/thbattle) - Online Touhou X Sanguosha(Chinese variation of Bang!) game implemented in pure python. [Forum](http://www.thbattle.net)
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
@@ -426,6 +431,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
 * [KeeperRL](https://github.com/miki151/keeperrl) - KeeperRL - Roguelike game with dungeon building, inspired by Dungeon Keeper, Dwarf Fortress and other classic roguelikes.
 * [Last Colony](https://github.com/adityaravishankar/last-colony) - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript. [Play it now!](http://www.adityaravishankar.com/projects/games/lastcolony/)
+* [Linux Tycoon](https://github.com/BryanLunduke/Linux-Tycoon) - Linux Tycoon modern desktop version (Linux, Windows, Mac)
+* [Linux Tycoon for DOS](https://github.com/BryanLunduke/Linux-Tycoon-DOS) - Linux Tycoon for DOS
 * [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d).
 * [Micropolis](https://github.com/SimHacker/micropolis) - City-building game based on the original code for SimCity.
 * [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
@@ -476,6 +483,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Green Wall](https://github.com/awlzac/greenwall) - Weirdly addictive arcade-style android game, where you fling fruit at a wall. Project developed using Android Studio 1.0.
 * [Hitball](https://github.com/harshit211997/Hitball) - Keep the ball in the air.
 * [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids.
+* [Nodulus](https://github.com/hyperparticle/nodulus) - Nodulus is a puzzle game with a clever twist - IOS, android and HTML5
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 * [Rocket Kite](https://github.com/oOo0oOo/RocketKite) - Fly around planets in this colorful space simulator.
