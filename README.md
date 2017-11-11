@@ -296,6 +296,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Red Eclipse](https://github.com/red-eclipse) - Free, casual arena shooter featuring parkour.
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
+* [Uebergame](https://github.com/Duion/Uebergame) - Next gen universal shooter. [Play it now!](http://uebergame.com)
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
 
