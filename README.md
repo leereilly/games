@@ -692,6 +692,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [libfreenect](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
 * [LOOT](https://github.com/loot/loot) - A load order optimisation tool for Oblivion, Skyrim, Skyrim SE, Fallout 3, Fallout: New Vegas and Fallout 4. [Homepage](https://loot.github.io/)
 * [Lutris](https://github.com/lutris/lutris) - Lutris is an open source gaming platform for GNU/Linux. It makes gaming on Linux easier by taking care of managing, installing and providing optimal settings for games.
+* [Massgate](https://github.com/ubisoftinc/massgate) - Online backend server for the Massive Entertainment game World in Conflict.
 * [microemu](https://github.com/barteo/microemu) - MicroEmu is a pure Java implementation of Java ME.
 * [mlox](https://github.com/mlox/mlox) - Mlox is a tool for sorting and analyzing Morrowind plugin load order.
 * [OBS](https://github.com/jp9000/obs-studio) - Free and open source software for live streaming and screen recording. [Homepage](https://obsproject.com/mantis/)
