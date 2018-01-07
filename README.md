@@ -173,6 +173,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
 * [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
 * [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5. [Play it now!](http://play.freeciv.org/)
+* [Galaxy of Drones Online](https://github.com/koodilab/galaxyofdrones-online) - An open source multiplayer space strategy game. [Play it now!](https://galaxyofdrones.com/)
 * [Hexa Battle](https://github.com/itajaja/hb) - A turn based dungeon crawler written with Typescript, using React and SVG. [Play it now!](http://giacomotag.io/hb/)
 * [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5. [Play it now!](http://www.fellicht.nl/games/tower-defense/)
 
