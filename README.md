@@ -320,6 +320,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [AssaultCube Reloaded](https://github.com/acreloaded/acr) - AssaultCube Reloaded.
 * [BZFlag](https://github.com/BZFlag-Dev/bzflag) - Cross platform, 3D tank FPS in C++. Shoot, dodge, and capture the flag. 
 * [Castle](https://github.com/castle-engine/castle-game) - FPS in a dark fantasy setting. Includes as a bonus DOOM E1M1 level done in modern technology.
+* [DECEIVER](https://github.com/etodd/deceiver) -  Launch your spider drone at walls, ceilings, and enemy heads in this philosophical shooter set at the end of the world. [Play it now!](http://deceivergame.com)
 * [Doom the Roguelike](https://github.com/ChaosForge/doomrl) - DRL (D**m, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
 * [dhewm 3](https://github.com/dhewm/dhewm3) - dhewm 3 is a Doom 3 GPL source port, know to work on at least Windows, Linux, Mac OS X and FreeBSD.
 * [ET Legacy](https://github.com/etlegacy/etlegacy) - A second breath of life for Wolfenstein: Enemy Territory.
