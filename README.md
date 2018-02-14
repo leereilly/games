@@ -175,6 +175,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5. [Play it now!](http://play.freeciv.org/)
 * [Hexa Battle](https://github.com/itajaja/hb) - A turn based dungeon crawler written with Typescript, using React and SVG. [Play it now!](http://giacomotag.io/hb/)
 * [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5. [Play it now!](http://www.fellicht.nl/games/tower-defense/)
+* [Zetawar](https://github.com/Zetawar/zetawar) - tactical strategy game similar to Weewar and Elite Command, implemented in ClojureScript. [Play it now!](http://www.zetawar.com/)
 
 ## Racing
 
