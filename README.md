@@ -263,7 +263,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Taisei](https://github.com/laochailan/taisei) - Fan-made, open Source clone of the Touhou series.
 * [Teeworlds](https://github.com/teeworlds/teeworlds/) - Online multi-player platform 2D shooter.
 * [Wannabe Tempest](https://github.com/awlzac/wbt) - Tempest(80's arcade game) clone in Java, and a small project for playing with git.
-* [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawl shooter similar to The Binding of Isaac.
+* [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelike dungeon crawl shooter similar to The Binding of Isaac.
 
 ## FPS
 
@@ -440,6 +440,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
+* [Tron LightCycles](https://github.com/Tensounder54/Retro_Tron_Remake) - Native vertion of the 1982 arcade game of the same name. Will only run on systems running VB.Net 
 
 -------
 
