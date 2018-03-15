@@ -395,6 +395,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Racing
 * [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
 * [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
+* [Yorg](https://github.com/cflavio/yorg) - Yorg's an Open Racing Game, free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [Homepage](http://www.ya2.it/)
 
 ## RPG
 * [Angband](https://github.com/angband/angband) - Single-player dungeon exploration game in the universe of JRR Tolkien.
