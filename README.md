@@ -2,8 +2,7 @@
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
 #### Contributing
-If you'd like to add a repository to the list, please [create an Issue](../../issues), or fork this repository and submit a pull request.
-
+If you'd like to add a repository to the list, please [create an Issue](https://github.com/Translator5/games/issues), or fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/Translator5/games)).
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -------
@@ -212,6 +211,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Maze 3D](https://github.com/demonixis/Maze3D) - A 3D maze game. [Play it now!](http://demonixis.github.io/Maze3D/)
 * [Monkey Rally](https://github.com/antila/ludum-dare-28) - JavaScript game created for the Ludum Dare #28 jam. [Play it now!](http://antila.github.io/ludum-dare-28/)
 * [Ned Et Les Maki](https://github.com/devnewton/nedetlesmaki) - Puzzle game with isometric 3D graphics inspired by Sokoban. [Play it now!](http://play.bci.im/nedetlesmaki/)
+* [Opposite Reaction](https://github.com/sveinn-steinarsson/opposite-reaction) - A rather difficult sliding puzzle for some people. [Play it now!](https://sveinn-steinarsson.github.io/opposite-reaction/)
 * [Orbium](https://github.com/bni/orbium) - Modern version of the 90's game Log!cal. [Play it now!](http://bni.github.io/orbium/)
 * [Parity](https://github.com/abejfehr/parity) - A numbers puzzle game. [Play it now!](http://abefehr.com/parity/)
 * [Pond](https://github.com/Zolmeister/pond) - A narrow fellow in the Pond. [Play it now!](http://thepond.zolmeister.com/)
@@ -256,7 +256,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Nine Men's Morris](https://github.com/yadav-rahul/Nine-Mens-Morris) - Online version of famous strategy board game for two players built with JS. [Play it now!](https://yadav-rahul.github.io/Nine-Mens-Morris/)
 * [OpenPanzer](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2. [Play it now!](http://openpanzer.net/)
 * [OpHog](https://github.com/Adam13531/OpHog) - HTML5/JavaScript game resembling Tower Defense. [Play it now!](http://ophog.oenx.net/game/)
+* [Space Conquerors Online](https://github.com/itajaja/space-conquerors) - An online turn-based browser game set in space, built with typescript, apollo, and mongo. [Play it now!](https://sco-front-end.herokuapp.com/)
 * [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5. [Play it now!](http://www.fellicht.nl/games/tower-defense/)
+* [Zetawar](https://github.com/Zetawar/zetawar) - tactical strategy game similar to Weewar and Elite Command, implemented in ClojureScript. [Play it now!](http://www.zetawar.com/)
 
 ## Others
 * [Beast](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
@@ -272,6 +274,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
 * [KVH Tabu](https://github.com/Kovah/Tabu) - Browser-based Tabu-like game. [Play it now!](https://tabu.kovah.de/)
 * [Massive Decks](https://github.com/Lattyware/massivedecks) - Massive Decks is a web game based on the excellent Cards against Humanity - a party game where you play white cards to try and produce the most amusing outcome when combined with the given black card. [Play it now!](https://massivedecks.herokuapp.com/)
+* [Much Assembly Required](https://github.com/simon987/Much-Assembly-Required) - Program the 8086-like microprocessor of a robot in a grid-based multiplayer world. [Play it now!](https://muchassemblyrequired.com/)
 * [Ogar](https://github.com/OgarProject/Ogar) - An open source implementation of the Agar.io server written in NodeJS.
 * [Psiral](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 game, GitHub Game Off 2 winner. [Play it now!](http://psiral.herokuapp.com/)
 * [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript. [Play it now!](http://is.gd/squirts)
@@ -316,7 +319,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Trackballs](https://github.com/trackballs/trackballs) - Marble steering game [Play it now!](https://trackballs.github.io)
 * [The City Drone Escape](https://github.com/bfarley88/The-City-Drone-Escape) - Fast paced 2D top-down drone shooter.
 * [Wannabe Tempest](https://github.com/awlzac/wbt) - Tempest(80's arcade game) clone in Java, and a small project for playing with git.
-* [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelite dungeon crawl shooter similar to The Binding of Isaac.
+* [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelike dungeon crawl shooter similar to The Binding of Isaac.
 
 ## FPS
 * [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
@@ -593,6 +596,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
+* [Tron LightCycles](https://github.com/Tensounder54/Retro_Tron_Remake) - Native vertion of the 1982 arcade game of the same name. Will only run on systems running VB.Net
 * [World of Padman](https://github.com/PadWorld-Entertainment/wop-gamesource) - ioQuake3-based multiplayer FPS.
 * [ZorkZork](https://github.com/devshane/zork) - You are in an open field west of a big white house with a boarded front door. Zork's C-source circa 1991.
 -------
