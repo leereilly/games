@@ -685,6 +685,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [xeros](https://github.com/xoreos/xoreos) -  A cross-platform reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P [Homepage](https://xoreos.org/)
 * [XLE](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
 * [XL-Engine](https://github.com/luciusDXL/XL-Engine) - The XL-Engine provides support for first person DOS-era games running on modern operating systems such as Windows 10.
+* [X-Ray Oxygen](https://github.com/xrOxygen/xray-oxygen) - X-Ray project for the legendary S.T.A.L.K.E.R series.
 -------
 
 # Maps/Hacks/Plugins/Utilities/All of the Things™
