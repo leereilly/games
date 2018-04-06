@@ -340,6 +340,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 * [Red Eclipse](https://github.com/red-eclipse) - Free, casual arena shooter featuring parkour.
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
+* [System Shock](https://github.com/NightDiveStudios/shockmac) - System Shock (PowerMac version / Official GPL Release).
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Uebergame](https://github.com/Duion/Uebergame) - Next gen universal shooter. [Play it now!](http://uebergame.com)
 * [Unreal Tournament 4](https://github.com/EpicGames) - Unreal Tournament is being created in close collaboration between Epic and the Unreal Engine 4 developer community. (private repo)
