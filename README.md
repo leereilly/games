@@ -477,6 +477,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
 * [Spring 1944](https://github.com/springlobby/springlobby) - Spring:1944 is a WWII themed game based on the open source Spring Engine.
 * [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
+* [Surviving Mars](https://github.com/HaemimontGames/SurvivingMars) - A significant part of the Lua source code and data of Surviving Mars, made available to aid you in the creation of Surviving Mars mods.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
