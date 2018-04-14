@@ -468,6 +468,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenFodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder
 * [OpenRA](https://github.com/OpenRA/OpenRA) - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX.
 * [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
+* [Open Realm of Stars](https://github.com/tuomount/Open-Realms-of-Stars) - Open Realm of Stars is Open source 4X strategy game in stars.
 * [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM.
 * [Pax Britannica](https://github.com/henkboom/pax-britannica) - Underwater one-button real-time strategy game.
@@ -605,6 +606,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 -------
 
 # Frameworks/Engines/Libraries
+* [Advent3D](https://github.com/gabrielevierti/Advent3D) - A game engine written in C++.
 * [Akihabara](https://github.com/Akihabara/akihabara) - Set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript.
 * [Allegro 5](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(graphics, sound, etc.).
 * [ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
@@ -625,8 +627,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 * [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 * [EaselJS](https://github.com/CreateJS/EaselJS/) - Library to make working with the Canvas element easier.
+* [Engine](https://github.com/Shervanator/Engine) - A basic cross-platform (Mac, Windows, Linux, HTML5, Android) 3D game engine.
 * [EntityJS](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utilizing the entity-component design.
 * [Evennia MUD/MU* Creation System](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
+* [Falltergeist](https://github.com/falltergeist/falltergeist) - OpenSource crossplatform Fallout 2™ engine writen in C++ and SDL.
 * [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](https://github.com/AdamAtomic/flixel) - Game-making library written entirely in ActionScript 3.
@@ -655,6 +659,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [melonJS](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
 * [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript.
+* [OpenMF](https://github.com/OpenMafia/OpenMF) - Free and open-source Mafia game engine
 * [OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
 * [OpenXRay](https://github.com/OpenXRay/xray) - OpenGL X-Ray Engine for the legendary S.T.A.L.K.E.R series for compatibility to nearly all platforms.
 * [Oxygine](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
