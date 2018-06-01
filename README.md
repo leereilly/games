@@ -377,6 +377,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 * [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+* [XTREME Cube](https://github.com/DGCProductions/XTREME-Cube) - Sandbox game where you control a cube
 
 ## Strategy
 
