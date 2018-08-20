@@ -249,6 +249,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Hauberk](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 * [HeartLine](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
 * [Psiral](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 game, GitHub Game Off 2 winner. [Play it now!](http://psiral.herokuapp.com/)
+* [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code. [Play it now!](https://codecombat.com/play)
 * [CyberPong](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit. [Play it now!](http://cyber-pong.bitballoon.com/)
 * [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript. [Play it now!](http://is.gd/squirts)
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
@@ -294,6 +295,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenLara](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine [Play it now!](http://xproger.info/projects/OpenLara/)
 * [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 * [Red Eclipse](https://github.com/red-eclipse) - Free, casual arena shooter featuring parkour.
+* [Rust Doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
@@ -313,6 +315,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
 * [Cendric](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
 * [Crystal Picnic](https://github.com/Nooskewl/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
+* [Devilution](https://github.com/diasurgical/devilution) - Diablo devolved. Magic behind the 1996 computer game.
 * [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) - Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes.
 * [Dungeon Monkey Eternal](https://github.com/jwvhewitt/dmeternal) - Party-based fantasy roguelike role-playing game.
 * [Egoboo](https://github.com/egoboo/egoboo) - Cool 3D dungeon crawling game in the spirit of NetHack.
@@ -370,6 +373,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
 * [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
 * [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
+* [GoCraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go.
 * [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 * [Manic Digger](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone.
 * [Minetest](https://github.com/minetest/minetest) - Infinite-world block sandbox game with survival and crafting.
@@ -407,9 +411,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Race into Space](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
 * [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
 * [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
+* [Star Ruler 2](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2's open source distribution. 
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
+* [VCMI](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
 * [Wargus](https://github.com/Wargus/wargus) - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
