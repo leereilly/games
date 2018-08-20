@@ -6,6 +6,8 @@ Below is a list of open source games and game-related projects that can be found
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request.
 
+**Would you like to help maintain and improve this repository?** [Click here for information on becoming a maintainer](https://github.com/leereilly/games/issues/483).
+
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -------
@@ -209,6 +211,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Follow me! A Simon Clone](https://github.com/gamedolphin/follow_me_javascript_simon_clone) - Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine.
 * [For King](https://github.com/AD1337/ForKingGame) - Puzzle platformer game about a king in search for his lost crown. [Play it now!](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0)
 * [Genetic Drift](https://github.com/DancingBanana/genetic-drift) - Victor, an annoyed janitor dealing with a lot of annoyed clones and the problems that inevitably arise from genetic duplication. Will he make it home to feed his faithful pet companion?.
+* [Hex 2048](https://github.com/jeffhou/hex-2048) - Hexgrid-based clone of 2048. [Play it now!](https://jeffhou.github.io/hex-2048/)
 * [Hexahedral](https://github.com/mminer/hexahedral) - Push down all the blocks in the minimum number of moves. [Play it now!](http://matthewminer.com/hexahedral)
 * [Hextris](https://github.com/Hextris/hextris) - Addictive puzzle game inspired by Tetris. [Play it now!](http://hextris.io/)
 * [Infectors](https://github.com/satanas/infectors) - Sokoban-like puzzle game developed with Phaser. [Play it now!](http://satanas.github.io/infectors/)
@@ -320,7 +323,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine.
 * [Monster RPG 2](https://github.com/Nooskewl/monster-rpg-2) - Turn-based J-RPG in a fantasy universe.
 * [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
-* [Open MW](https://github.com/OpenMW/openmw) - Reimplementation of the game Morrowind.
+* [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
 * [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
 
@@ -349,6 +352,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
+* [nudoku](https://github.com/jubalh/nudoku) - ncurses based CLI sudoku game
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
 * [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
