@@ -159,6 +159,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## FPS
 
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
+* [QuakeJS](https://github.com/inolen/quakejs) - Port of ioquake3 to JavaScript. FPS engine that can be used to play Quake 3 [Play it now!](http://www.quakejs.com)
 
 ## RPG
 
