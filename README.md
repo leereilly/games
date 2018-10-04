@@ -290,6 +290,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## FPS
 
 * [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
+* [AssaultCube Reloaded](http://acr.victorz.ca/) - The previous one with more features and weapons.
 * [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 * [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 * [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
