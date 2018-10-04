@@ -198,6 +198,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [A Dark Room](https://github.com/doublespeakgames/adarkroom) - Minimalist Text Adventure game written in JavaScript. [Play it now!](http://adarkroom.doublespeakgames.com/)
 * [Anagramica](https://github.com/binarymax/anagramica) - A word game and API for anagrams. [Play it now!](http://www.anagramica.com/)
 * [Astry](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb. [Play it now!](http://wwwtyro.github.io/Astray/)
+* [Balance](https://github.com/fsvieira/balance) - A Logic Puzzle With Balls, can you find the defective ball? [Play it now!](http://fsvieira.com/balance/)
 * [Beatrix](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm. [Play it now!](http://gamejolt.com/games/puzzle/beatrix/27454/)
 * [BitBot](https://github.com/recardona/BitBot) - HTML/JS game where you control a bot, which must sense, plan, and act.
 * [BlicblockJS](https://github.com/cheshire137/blicblock-js) - JavaScript game based on Blicblock in The Sims 4. Match tetrominoes to clear the board.
@@ -427,6 +428,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Android
 
+* [Balance](https://github.com/fsvieira/balance) - A Logic Puzzle With Balls, can you find the defective ball? [Google Play](https://play.google.com/store/apps/details?id=com.fsvieira.balance)
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 * [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
