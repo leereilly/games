@@ -402,6 +402,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
+* [Hitball](https://github.com/harshit211997/Hitball) - Keep the ball in the air.
 
 ## IOS
 
