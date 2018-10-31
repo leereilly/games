@@ -421,6 +421,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Others
 
+ * [VimGameCodeBreaki](https://github.com/johngrib/vim-game-code-break) - Block-breaking game written in VIMscript.
  * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
 
 # Mobile Games
