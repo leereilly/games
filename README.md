@@ -82,6 +82,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Arcade
 
+* [Achtung, die Kurve!](https://github.com/maechler/kurve) - HTML5 and JavaScript remake of the famous game also known as Curve Fever, Zatacka or simply Kurve. [Play it now!](https://achtungkurve.com/)
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
 * [Arashi](https://github.com/stephank/arashi-js) - Arashi is a clone of the Arcade game Tempest. [Play it now!](http://stephank.github.io/arashi-js/)
