@@ -234,7 +234,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Matching Pairs](https://github.com/gamedolphin/matching-pairs) - Made in HTML5 using Phaser as the framework, original assets and generated music.
 * [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play it now!](http://lulea.github.io/game-off-2012/)
 * [Zop](https://github.com/Zolmeister/zop) - Connect like colors. [Play it now!](https://zop.zolmeister.com/)
-* [Lightsout](https://github.com/sepandhaghighi/lightsout) - Lights out game Written in JavaScript/HTML/CSS [Play it now!](https://www.lightsout.ir/)
+* [Lightsout](https://github.com/sepandhaghighi/lightsout) - Lights out game Written in JavaScript/HTML/CSS. [Play it now!](https://www.lightsout.ir/)
 
 ## Clicker
 
