@@ -238,6 +238,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Clicker
 
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
+* [Feed The Flames](https://github.com/matronator/feed-the-flames) - Don't let your boxes run out of mass. Simple game concept made with CraftyJS. [Play it now!](https://matronator.github.io/feed-the-flames/)
 
 ## Point and Click
 
