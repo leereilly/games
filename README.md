@@ -687,6 +687,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [QICI Engine](https://github.com/qiciengine/qiciengine) - free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
 * [Quasi-Engine](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
 * [Ren'py](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
+* [RetroSpySDK](https://github.com/GameProgressive/RetroSpySDK) - Updated and Cleaned GameSpy SDK
+* [RimworldConflictChecker](https://github.com/biship/RimworldConflictChecker) - Tool to check for Mod conflicts and errors for Rimworld.
 * [Screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps.
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
 * [Sky Engine](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
