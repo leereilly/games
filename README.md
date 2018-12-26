@@ -503,6 +503,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
 * [City Of Thieves](https://github.com/richelbilderbeek/CityOfThieves) - Text adventure game, after the book 'City of Thieves' by Ian Livingstone
 * [Dead Ascend](https://github.com/Larpon/DeadAscend) -  A 2D point'n'click-like adventure game written in Qt/QML and Javascript [Play it now!](http://blackgrain.dk/games/deadascend/)
+* [EmptyEpsilon](https://github.com/daid/EmptyEpsilon) - Cross-Platform, Open-Source "clone" of Artemis Spaceship Bridge Simulator. Bridge simulator using SeriousProton engine. [Play it now!](https://daid.github.io/EmptyEpsilon/)
 * [MousePong](https://github.com/migdyn/mouse-pong) - Pong with more complex controls.
 * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
 * [Postal 1](https://github.com/iammeat/POSTAL-1-Open-Source) - Isometric top-down shooter video game developed by Running With Scissors and published by Ripcord Games in 1997.
