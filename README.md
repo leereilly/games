@@ -751,6 +751,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API.
 * [RPCS3](https://github.com/RPCS3/rpcs3) - An Open-source PlayStation 3 Emulator / Debugger [Homepage](https://rpcs3.net).
 * [stats.js](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
+* [Steam Integration for Linux](https://github.com/clearlinux/linux-steam-integration) - Helper for enabling better Steam integration on Linux.
 * [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
 * [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
