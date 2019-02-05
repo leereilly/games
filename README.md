@@ -170,6 +170,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
 * [Tap Tap Adventure](https://github.com/Tach-Yon/Tap-Tap-Adventure) - Expansion of BrowserQuest. [Play it now!](http://taptapadventure.com/play)
+* [Raining Chain](https://github.com/rainingchain/rainingchain) - Free Browser MMORPG with NodeJS. [Play it now!](https://rainingchain.com/)
 
 ## Strategy
 * [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
