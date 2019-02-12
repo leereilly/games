@@ -110,6 +110,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library. [Play it now!](http://dreamshowadventures.github.io/LudumDare29/)
 * [DuckHunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator. [Play it now!](http://mattsurabian.com/duckhunt/)
 * [EKG Runner](https://github.com/Myztiq/ekgrunner) - Game made in 48 hours for the 2013 Global Game Jam.
+* [Ella - The Game](https://github.com/Crazy-Marvin/EllaTheGame) - Endless runner for Android, Linux, Windows, macOS & WebGL featuring my dog [Play it now!](https://poopjournal.rocks/EllaTheGame/play/)
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind.
 * [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) - JavaScript MegaMan clone.
 * [Flappy Bird](https://github.com/hyspace/flappy) - flappy bird in html5.
@@ -429,6 +430,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 * [Colorphun](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
+* [Ella - The Game](https://github.com/Crazy-Marvin/EllaTheGame) - Endless runner for Android, Linux, Windows, macOS & WebGL featuring my dog [Play it now!](https://poopjournal.rocks/EllaTheGame/play/)
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
 * [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
