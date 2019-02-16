@@ -300,6 +300,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
+* [Xonotic](https://www.xonotic.org/) - The Free and Fast Arena Shooter
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
 
 
