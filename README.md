@@ -384,7 +384,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Puzzle/Card/Board
 * [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
-* [Anonymine](https://github.com/oskar-skog/anonymine) - Terminal minesweeper without guessing that has a few unique features.
+* [Anonymine](https://gitlab.com/oskog97/anonymine) - Terminal minesweeper without guessing that has a few unique features.
 * [ASCIIrinth](https://github.com/Phoenix1747/asciirinth) - Find your way through a labyrinth of ASCII characters.
 * [Beam Olympics](https://github.com/inaka/beam_olympics) - Erlang app to help you check your Erlang-Fu. You can also play with friends in a local network. 
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
