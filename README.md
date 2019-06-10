@@ -111,6 +111,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller. [Play it now!](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html)
 * [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
 * [JumpSuit](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe. [Play it now!](http://jumpsuit.space/)
+* [Little JS World](https://github.com/diguifi/littlejsworld) - Simple game made in JavaScript. [Play it now!](https://diguifi.github.io/littlejsworld/)
+
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements.
 * [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
@@ -149,7 +151,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Android: Netrunner](https://github.com/mtgred/netrunner) - a two-player Living Card Game (LCG) set in a dystopian, cyberpunk future written in Clojure and Clojurescript. [Play it now!](http://www.jinteki.net/)
 * [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS. [Play it now!](https://kenrick95.github.io/c4/demo/)
 * [Couple-quest](https://github.com/Clonewayx/Couple-quest) - Open-source foreplay game for couples. [Play it now!](http://clonewayx.github.io/Couple-quest/)
-* [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 * [Four in a Row](https://github.com/inaka/fiar) - The first to connect four chips in a line wins. [Play it now!](http://fiar.inakalabs.com/)
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
 * [Hex-2048](https://github.com/jeffhou/hex-2048) - Hexgrid-based clone of 2048 [Play it now!](https://jeffhou.github.io/hex-2048)
@@ -157,6 +158,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant. [Play it now!](http://krgspl.com/)
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
 * [TicTacToe](https://github.com/rlazoti/tictactoe-scala-react) - Tic-tac-toe game written in Scala and ReactJS. [Play it now!](http://tictactoe-scala-react.herokuapp.com/)
+* [RiskBudur](https://github.com/alaattinyilmaz/risk-game) - RISKBudur is a turn based strategy game and board browser game that allows to play 2 to 6 people.
 
 ## FPS
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
@@ -170,6 +172,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Platformer
 * [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play it now!](http://operasoftware.github.com/Emberwind/)
+* [Mario Maker](https://github.com/pratishshr/mario-maker) - Classic Mario Game with Level-Editor. [Play it now!](http://pratishshr.github.io/mario-maker/)
 * [OpenLara](https://github.com/XProger/OpenLara) -  Classic Tomb Raider open-source engine.
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demonstrates the power of the Entity game engine.
 * [Platform](https://github.com/vuanhhaogk/Platform-Game) - A small game was made with Phaser Game Engine. [Play it now!](https://vuanhhaogk.github.io/apps/platform/index.html)
@@ -286,8 +289,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Action
 * [Oolite](https://github.com/OoliteProject/oolite) - Oolite is an open world space opera based on Elite
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
+* [Relic Hunters Zero](https://github.com/mventurelli/relichunterszero) - Relic Hunters Zero is a FREE game about shooting evil space ducks.
 
 ## Arcade
+* [Adventures of Dude in the Top-Down World](https://github.com/diguifi/Dude-TopDown) - PyGame-Developed Game, which purpose is to test out a genetic algorithm and compare it to a finite state machine.
 * [Alieanum](https://github.com/Kaev/Alieanum) - My Ludum Dare 33 entry. A kinda bullet hell shooter.
 * [Beerwanter](https://github.com/richelbilderbeek/BeerWanter) - Just click the beer!
 * [Bitfighter](https://github.com/bitfighter/bitfighter) -  Multi-player space fighting arcade game. [Play it now!](http://bitfighter.org)
@@ -297,8 +302,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Chaos Projectile](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 * [Clonepoint](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
 * [DDraceNetwork](https://github.com/ddnet/ddnet) - Cooperative Teeworlds racing modification
-* [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
+* [Duck Hunt](https://github.com/karkipy/duck-hunt-nes) - Vanilla JS Duck Hunt.
 * [Duckmarines](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
+* [Dude in the Side-Scrolling Land](https://github.com/diguifi/Dude-SideScroll) - Simple side-scroller made with Phaser 2 using Typescript.
+* [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 * [Falling Time](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 * [hēXōn](https://github.com/LucKeyProductions/heXon) - A twin-stick-shooter with 3D graphics and a classic feel.
@@ -363,7 +370,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Worldforge](https://github.com/worldforge/ember) - WorldForge is a community of free game developers, they created a virtual world system called Dural.
 
 ## Platform
-* [Project-AL](https://github.com/ObsidianBlk/Project-AL) - Platformer for the Linux Game Jam 2018.
 * [Captain Holetooth](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
 * [Crazy Battle](https://github.com/happyplace/crazy-battle) - owlboy inspired fight game - Linux Game Jam 2018 submission.
@@ -376,7 +382,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Juan's Saga](https://github.com/pigdevstudio/juan_saga) - A game about the saga of Godot's core developer trying to code new features and fix bugs.
 * [l'Abbaye des Morts](https://github.com/nevat/abbayedesmorts-gpl) - l'Abbaye des Morts - ported to Linux, Pandora, GCW0, Wii and PSP .
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
+* [Project-AL](https://github.com/ObsidianBlk/Project-AL) - Platformer for the Linux Game Jam 2018.
 * [Red Runner](https://github.com/BayatGames/RedRunner) - Red Runner, Awesome Platformer Game.
+* [Solitary](https://github.com/PopeSpaceous/Solitary) - A sci-fi side scrolling puzzle platformer.
 * [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
 * [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 * [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
@@ -389,22 +397,26 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [ASCIIrinth](https://github.com/Phoenix1747/asciirinth) - Find your way through a labyrinth of ASCII characters.
 * [Beam Olympics](https://github.com/inaka/beam_olympics) - Erlang app to help you check your Erlang-Fu. You can also play with friends in a local network. 
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
+* [Desperate Gods](https://github.com/David20321/FTJ) - Free board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.
 * [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 * [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
 * [Gomoku](https://github.com/berk76/piskworks) - Piskworks is a simple desk game known as gomoku.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Laser Temple](https://github.com/alesegdia/linux-game-jam-2018) - Small puzzle game with CGA graphics.
 * [Lix](https://github.com/SimonN/LixD) - Lix: Lemmings-like game with puzzles, editor, multiplayer [Play it now!](http://www.lixgame.com)
+* [Magarena](https://github.com/magarena/magarena) - Magarena is a single-player fantasy card game played against a computer opponent.
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [Pentobi](https://github.com/enz/pentobi) - Computer opponent for the board game Blokus. [Play it now!](https://pentobi.sourceforge.io)
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net)
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
 * [Quatter](https://github.com/LucKeyProductions/Quatter) - A board game for two players, based on [Quarto](https://en.wikipedia.org/wiki/Quarto_%28board_game%29) by Blaise Müller.
 * [Rjopek Minigames](https://github.com/rjopek/games) - Multi platform games for Harbour programming language.
+* [Stacks](https://github.com/stackshub/stacks) - A simple puzzle game in mobile and desktop browser.
 * [szsol](https://github.com/usrshare/szsol) - CLI clone of Shenzhen Solitaire card game.
 * [Tetris](https://github.com/berk76/tetris) - Tetris for Win32, Linux console, DOS and ZX Spectrum
-* [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [THBattle](https://github.com/feisuzhu/thbattle) - Online Touhou X Sanguosha(Chinese variation of Bang!) game implemented in pure python. [Forum](http://www.thbattle.net)
+* [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
+* [Trigger Time](https://github.com/Sheph/TriggerTime) - Trigger Time is a story-driven, top-down shoot'em up with a gravity gun and physics puzzles.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 
 ## Racing
@@ -426,15 +438,18 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Egoboo](https://github.com/egoboo/egoboo) - Cool 3D dungeon crawling game in the spirit of NetHack.
 * [Flare RPG](https://github.com/clintbellanger/flare-game) - Fantasy action RPG game with its own engine.
 * [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine.
+* [Goblin Camp](https://github.com/y2s82/goblin_camp) - A Dwarf Fortress Clone.
 * [Monster RPG 2](https://github.com/Nooskewl/monster-rpg-2) - Turn-based J-RPG in a fantasy universe.
 * [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
 * [REGoth](https://github.com/REGoth-project/REGoth) -  OpenSource-Reimplementation of the zEngine, used by the game "Gothic" cross-platform.
 * [Open MW](https://github.com/OpenMW/openmw) - Reimplementation of the game The Elder Scrolls: Morrowind.
 * [Open TES Arena](https://github.com/afritz1/OpenTESArena) - Reimplementation of the game The Elder Scrolls: Arena.
+* [Planeshift](https://sourceforge.net/p/planeshift) - PlaneShift is a Role Playing Game immersed into a 3D virtual fantasy world.
 * [Space Station 13](https://github.com/tgstation/tgstation) Multi-player round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station.
 * [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) - sequel to The Legend of Zelda: A Link to the Past released on the SNES, written in lua and created with the [Solarus](https://github.com/christopho/solarus) engine
 * [UnityStation](https://github.com/unitystation/unitystation) - The Unity clone of SS13 using the /tg/station branch [Homepage](http://www.tgstation13.org).
 * [Valyria Tear](https://github.com/Bertram25/ValyriaTear) - Single-player medieval-fantasy 2D J-RPG.
+* [VirtueOS](http://github.com/IanWONeill/VirtueOS) - Private Old School RuneScape Server & Client.
 * [WorldGrower](https://github.com/WorldGrower/WorldGrower) - WorldGrower is a top-down rpg simulator focused on creating a detailed world, in which actions have consequences.
 
 ## Sandbox
@@ -452,6 +467,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Terasology](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 * [The Powder Toy](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
 * [Voxels](https://github.com/programmerjake/voxels-0.7) - 3D sandbox game designed to be Minecraft compatible (functionality-wise)
+* [XTREME](https://github.com/DGCProductions/XTREME-Cube) - 3D sandbox game with GUI controls | Singleplayer
 
 ## Strategy
 * [0 A.D.](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II
@@ -533,6 +549,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Rocket Kite](https://github.com/oOo0oOo/RocketKite) - Fly around planets in this colorful space simulator.
 * [SuperTux Android](https://github.com/pelya/supertux) - Classic 2D jump'n'run sidescroller with Tux Mobile for Android.
 * [Splitter](https://github.com/harshit211997/Splitter) - Vertical scrolling casual game, where you have to avoid obstacles by splitting the player.
+* [Turn-Right-AR](https://github.com/nikhilagrawal2000/turn-right-ar) - Android game built using Unity3D.
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
 
 ## Game Boy Color
@@ -614,6 +631,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
+* [Star Ruler 2](https://github.com/BlindMindStudios/StarRuler2-Source) - 4X Space Strategy game Star Ruler 2.
 * [Tron LightCycles](https://github.com/Tensounder54/Retro_Tron_Remake) - Native vertion of the 1982 arcade game of the same name. Will only run on systems running VB.Net
 * [World of Padman](https://github.com/PadWorld-Entertainment/wop-gamesource) - ioQuake3-based multiplayer FPS.
 * [ZorkZork](https://github.com/devshane/zork) - You are in an open field west of a big white house with a boarded front door. Zork's C-source circa 1991.
@@ -678,6 +696,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
 * [OpenXRay](https://github.com/OpenXRay/xray) - OpenGL X-Ray Engine for the legendary S.T.A.L.K.E.R series for compatibility to nearly all platforms.
 * [Oxygine](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
+* [Panda3D](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++.
 * [panda.js](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 * [Phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS) - Modular, extendable, and easy-to-use physics engine for JavaScript.
