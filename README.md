@@ -225,6 +225,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart. [Play it now!](http://dart-lang.github.io/sample-pop_pop_win/)
 * [Prism](https://github.com/Zolmeister/prism) - Match all the colors.
 * [Push and Fork](https://github.com/Octocarina/game-off-2012) - Puzzle game in which you carry a fork, push blocks, and go back in time.. [Play it now!](http://gelisam.com/octocarina/)
+* [Rabbit Escape](https://www.artificialworlds.net/rabbit-escape/) - A game of rescuing rabbits, inspired by Lemmings and Pingus, for Android and PC.
 * [Shape Experiment](https://github.com/binarymax/shape) - The shape recognition reflex game. [Play it now!](http://shapex.org/)
 * [Sliding Puzzle](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game.
 * [Sudoku JS](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind. [Play it now](http://baruchel.insomnia247.nl/sudoku-js/sudoku.html)
