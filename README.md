@@ -374,6 +374,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Captain Holetooth](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
 * [Crazy Battle](https://github.com/happyplace/crazy-battle) - owlboy inspired fight game - Linux Game Jam 2018 submission.
+* [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - A game by Jan Marcano and James T. Uses Godot 2.1. [Play it now!](https://aldiansolkai.itch.io/dolphin-island-2)
 * [Elemental One](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework. [Play it now!](http://skepsi.me/elemental-one/)
 * [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
 * [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
