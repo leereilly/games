@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "874605183283",
+    "firebase_url": "https://mathwiz-df521.firebaseio.com",
+    "project_id": "mathwiz-df521",
+    "storage_bucket": "mathwiz-df521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874605183283:android:4cb6c4ac067a56dd",
+        "android_client_info": {
+          "package_name": "com.raksh.MathWiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874605183283-201rekohce408l91ihm8heg78rhc157o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQtGoHF4JvkZ5wGMLS7rMXTUeP3X472Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
