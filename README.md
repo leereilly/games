@@ -257,12 +257,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [NetHack](https://github.com/NetHack/NetHack) - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
 * [Relic Hunters Zero](https://github.com/mventurelli/relichunterszero) - Relic Hunters Zero is a FREE game about shooting evil space ducks.
 
-## RGP
-### Action RPG
-### MMORPG / MMO
-### Open World RPG / Sandbox RPG
-### RPG / CRPG / Classic Role Play Game
-### Tactical RPG
+## RPG
 * [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Cendric](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
 * [Crystal Picnic](https://github.com/Cloudxtreme/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs. [Homepage](https://nooskewl.ca/crystal-picnic)
@@ -293,6 +288,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [VirtueOS](http://github.com/IanWONeill/VirtueOS) - Private Old School RuneScape Server & Client.
 * [WorldGrower](https://github.com/WorldGrower/WorldGrower) - WorldGrower is a top-down rpg simulator focused on creating a detailed world, in which actions have consequences.
 * [Worldforge](https://github.com/worldforge/ember) - WorldForge is a community of free game developers, they created a virtual world system called Dural.
+### Action RPG
+### MMORPG / MMO
+### Open World RPG / Sandbox RPG
+### RPG / CRPG / Classic Role Play Game
+### Tactical RPG
 
 ## Sandbox / Construction and management simulation (CMS) / Construction
 * [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
@@ -314,9 +314,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Stealth
 
 ## Strategy
-### Strategy / 4X Game / Grand Strategy Wargame / God Game
-### Real-Time Strategy (RTS) / Real-Time Tactics (RTT)
-### Turn-based strategy (TBS) / Turn-based tactics (TBT)
 * [0 A.D.](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II
 * [Caesaria](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
 * [Colobot](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
@@ -360,6 +357,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Widelands](https://github.com/widelands/widelands) - Widelands is a free, open source and cross-platform real-time strategy game with singleplayer campaigns and a multiplayer mode.
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
+### Strategy / 4X Game / Grand Strategy Wargame / God Game
+### Real-Time Strategy (RTS) / Real-Time Tactics (RTT)
+### Turn-based strategy (TBS) / Turn-based tactics (TBT)
 
 ## Survival
 * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
@@ -492,9 +492,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Platformer / Metroidvania / 2D Platformer
 * [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play it now!](http://operasoftware.github.com/Emberwind/)
+* [For King](https://github.com/AD1337/ForKingGame) - Puzzle platformer game about a king in search for his lost crown. [Play it now!](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0)
 * [Mario Maker](https://github.com/pratishshr/mario-maker) - Classic Mario Game with Level-Editor. [Play it now!](http://pratishshr.github.io/mario-maker/)
 * [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demonstrates the power of the Entity game engine.
 * [Platform](https://github.com/vuanhhaogk/Platform-Game) - A small game was made with Phaser Game Engine. [Play it now!](https://vuanhhaogk.github.io/apps/platform/index.html)
+* [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jerev.be/ggo13-transcube/)
 
 ## Point and Click / Idle Clicker
 * [Conspiracy Clicker](https://github.com/Lukenickerson/Conspiracy-Clicker) - Conspiracy Clicker by Deathray Games
@@ -522,7 +524,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Drunken Viking](https://github.com/cxong/DrunkenViking) - Retrace your drunken rampage in reverse time. [Play it now!](http://congusbongus.itch.io/drunken-viking)
 * [Ending](http://robotacid.com/flash/ending) - Roguelike puzzle game. [Play it now!](http://robotacid.com/flash/ending/)
 * [Follow me! A Simon Clone](https://github.com/gamedolphin/follow_me_javascript_simon_clone) - Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine.
-* [For King](https://github.com/AD1337/ForKingGame) - Puzzle platformer game about a king in search for his lost crown. [Play it now!](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0)
 * [Genetic Drift](https://github.com/DancingBanana/genetic-drift) - Victor, an annoyed janitor dealing with a lot of annoyed clones and the problems that inevitably arise from genetic duplication. Will he make it home to feed his faithful pet companion?. [Play it now!](http://www.genetic-drift.com/)
 * [Hexahedral](https://github.com/mminer/hexahedral) - Push down all the blocks in the minimum number of moves. [Play it now!](http://matthewminer.com/hexahedral)
 * [Hextris](https://github.com/Hextris/hextris) - Addictive puzzle game inspired by Tetris. [Play it now!](http://hextris.io/)
@@ -545,7 +546,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Sudoku JS](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind. [Play it now](http://baruchel.insomnia247.nl/sudoku-js/sudoku.html)
 * [Spook](https://github.com/adriancooney/spook) - Traverse a pattern gates that rotate with every move. [Play it now!](http://adriancooney.ie/spook)
 * [Swap](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. [Play it now!](http://nmoroze.github.io/swap/)
-* [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations. [Play it now!](http://code.jerev.be/ggo13-transcube/)
 * [untrusted](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. [Play it now!](http://alex.nisnevich.com/untrusted/)
 * [Matching Pairs](https://github.com/gamedolphin/matching-pairs) - Made in HTML5 using Phaser as the framework, original assets and generated music. [Play it now!](http://gamedolph.in/sample-page/matching-pairs/)
 * [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play it now!](http://lulea.github.io/game-off-2012/)
@@ -560,12 +560,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Roguelikes / Dungeon Crawler
 
-## RGP
-### Action RPG
-### MMORPG / MMO
-### Open World RPG / Sandbox RPG
-### RPG / CRPG / Classic Role Play Game
-### Tactical RPG
+## RPG
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
 * [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.  [Play it now!](http://mitallast.github.io/diablo-js/)
 * [FGMK](https://github.com/ericoporto/fgmk) - Javascript engine for JRPG games written in JSON with a PyQt Ui to make it. [Play it now!](https://ericoporto.github.io/fgmkJsEngine/)
@@ -573,6 +568,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript. [Play it now!](http://roguish.rocks/)
 * [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. [Play it now!](http://www.sturdyhelmetgames.com/roomforchange_html)
 * [The Tale](https://github.com/Tiendil/the-tale) (Russian: Сказка) - Russian multiplayer [ZPG](https://en.wikipedia.org/wiki/Zero-player_game)-sandbox. [Play it now!](http://the-tale.org/)
+### Action RPG
+### MMORPG / MMO
+### Open World RPG / Sandbox RPG
+### RPG / CRPG / Classic Role Play Game
+### Tactical RPG
 
 ## Sandbox / Construction and management simulation (CMS) / Construction
 * [3d.city](https://github.com/lo-th/3d.city) - 3d city builder game. [Play it now!](http://lo-th.github.io/3d.city/index.html)
@@ -583,9 +583,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Stealth
 
 ## Strategy
-### Strategy / 4X Game / Grand Strategy Wargame / God Game
-### Real-Time Strategy (RTS) / Real-Time Tactics (RTT)
-### Turn-based strategy (TBS) / Turn-based tactics (TBT)
 * [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
 * [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
 * [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5. [Play it now!](http://play.freeciv.org/)
@@ -597,6 +594,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Space Conquerors Online](https://github.com/itajaja/space-conquerors) - An online turn-based browser game set in space, built with typescript, apollo, and mongo. [Play it now!](https://sco-front-end.herokuapp.com/)
 * [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5. [Play it now!](http://www.fellicht.nl/games/tower-defense/)
 * [Zetawar](https://github.com/Zetawar/zetawar) - tactical strategy game similar to Weewar and Elite Command, implemented in ClojureScript. [Play it now!](http://www.zetawar.com/)
+### Strategy / 4X Game / Grand Strategy Wargame / God Game
+### Real-Time Strategy (RTS) / Real-Time Tactics (RTT)
+### Turn-based strategy (TBS) / Turn-based tactics (TBT)
 
 ## Survival
 
