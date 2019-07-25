@@ -430,6 +430,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller. [Play it now!](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html)
 * [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
 * [JumpSuit](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe. [Play it now!](http://jumpsuit.space/)
+* [Lights Out](https://github.com/jmdagenais/lights-off) - A simple game made with React. [Play it now!](http://lightsout.jeanmicheldn.com)
 * [Little JS World](https://github.com/diguifi/littlejsworld) - Simple game made in JavaScript. [Play it now!](https://diguifi.github.io/littlejsworld/)
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements.
