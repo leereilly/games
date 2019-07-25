@@ -9,66 +9,82 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 # Table of Contents.
 - [Major Companies](#major-companies)
-
 - [Native](#user-content-native)
-  - [Action / 3D Platformer](#user-content-Action--3D-Platformer)
-  - [Adventure / Story Telling / Novels / Interactive Movies](#user-content-Adventure--Story-Telling--Novels--Interactive-Movies)
+  - [Action / 3D Platformer](#user-content-action--3d-platformer)
+  - [Adventure / Story Telling / Novels / Interactive Movies](#user-content-adventure--story-telling--novels--interactive-movies)
   - [Arcade / Retro](#user-content-fps)
-  - [Boardgame / Tabletop / Card game](#user-content-Boardgame--Tabletop--Card game)
-  - [Casual](#user-content-Casual)
-  - [Fighting / Beat 'em up](#user-content-Fighting--Beat-'em-up)
-  - [First Person Shooter (FPS)](#user-content-First-Person-Shooter-(FPS))
-  - [Horror](#user-content-Horror)
-  - [Multiplayer Online Battle Arena (MOBA)](#user-content-Multiplayer-Online-Battle-Arena-(MOBA))
-  - [Platformer / Metroidvania / 2D Platformer](#user-content-Platformer--Metroidvania--2D-Platformer)
-  - [Point and Click / Idle Clicker](#user-content-Point-and-Click--Idle-Clicker)
-  - [Puzzle / Programming / Logic / Labirinth / Educational](#user-content-Puzzle--Programming--Logic--Labirinth--Educational)
-  - [Racing / Vehicle Simulation / Sports / Flight](#user-content-Racing--Vehicle-Simulation--Sports--Flight)
-  - [Rhythm / Music](#user-content-Rhythm--Music)
-  - [Roguelikes / Dungeon Crawler](#user-content-Roguelikes--Dungeon-Crawler)
-  - [RPG](#user-content-RPG)
-    - [Action RPG](#user-content-Action-RPG)
-    - [MMORPG / MMO](#user-content-MMORPG--MMO)
-    - [Open World RPG / Sandbox RPG](#user-content-Open-World-RPG--Sandbox-RPG)
-    - [RPG / CRPG / Classic Role Play Game](#user-content-RPG--CRPG--Classic-Role-Play-Game)
-    - [Tactical RPG](#user-content-Tactical-RPG)
-  - [Sandbox / Construction and management simulation (CMS) / Construction](#user-content-Sandbox--Construction-and-management-simulation-(CMS)--Construction)
-  - [Stealth](#user-content-Stealth)
-  - [Strategy](#user-content-strategy)
-    - [Strategy / 4X Game / Grand Strategy Wargame / God Game](#user-content-Strategy--4X-Game--Grand-Strategy-Wargame--God-Game)
-    - [Real-Time Strategy (RTS) / Real-Time Tactics (RTT)](#user-content-Real-Time-Strategy-(RTS)--Real-Time-Tactics-(RTT))
-    - [Turn-based strategy (TBS) / Turn-based tactics (TBT)](#user-content-Turn-based-strategy-(TBS)-Turn-based-tactics-(TBT))
-  - [Survival](#user-content-Survival)
-  - [Simulation / Social / Sim / Life / Dating](#user-content-Simulation--Social--Sim--Life--Dating)
-  - [Tower defense (TD)](#user-content-Tower-defense-(TD))
-  - [Trivia / Quiz](#user-content-Trivia--Quiz)
-  - [Others](#user-content-others)
-
-- [Browser-Based](#user-content-browser-based)
-  - [Action](#user-content-action)
-  - [Arcade](#user-content-arcade)
-  - [Boardgame](#user-content-boardgame)
-  - [FPS](#user-content-fps)
-  - [MMORPG](#user-content-mmorpg)
-  - [Platformer](#user-content-platformer)
-  - [Point and Click](#user-content-point-and-click)
-  - [Puzzle](#user-content-puzzle)
-  - [Racing](#user-content-racing)
+  - [Boardgame / Tabletop / Card game](#user-content-boardgame--tabletop--card-game)
+  - [Casual](#user-content-casual)
+  - [Fighting / Beat 'em up](#user-content-fighting--beat-em-up)
+  - [First Person Shooter (FPS)](#user-content-first-person-shooter-fps)
+  - [Horror](#user-content-horror)
+  - [Multiplayer Online Battle Arena (MOBA)](#user-content-multiplayer-online-battle-arena-moba)
+  - [Platformer / Metroidvania / 2D Platformer](#user-content-platformer--metroidvania--2d-platformer)
+  - [Point and Click / Idle Clicker](#user-content-point-and-click--idle-clicker)
+  - [Puzzle / Programming / Logic / Labirinth / Educational](#user-content-puzzle--programming--logic--labirinth--educational)
+  - [Racing / Vehicle Simulation / Sports / Flight](#user-content-racing--vehicle-simulation--sports--flight)
+  - [Rhythm / Music](#user-content-rhythm--music)
+  - [Roguelikes / Dungeon Crawler](#user-content-roguelikes--dungeon-crawler)
   - [RPG](#user-content-rpg)
-  - [Sandbox](#user-content-sandbox)
+    - [Action RPG](#user-content-action-rpg)
+    - [MMORPG / MMO](#user-content-mmorpg--mmo)
+    - [Open World RPG / Sandbox RPG](#user-content-open-world-rpg--sandbox-rpg)
+    - [RPG / CRPG / Classic Role Play Game](#user-content-rpg--crpg--classic-role-play-game)
+    - [Tactical RPG](#user-content-tactical-rpg)
+  - [Sandbox / Construction and management simulation (CMS) / Construction](#user-content-sandbox--construction-and-management-simulation-cms--construction)
+  - [Stealth](#user-content-stealth)
   - [Strategy](#user-content-strategy)
+    - [Strategy / 4X Game / Grand Strategy Wargame / God Game](#user-content-strategy--4x-game--grand-strategy-wargame--god-game)
+    - [Real-Time Strategy (RTS) / Real-Time Tactics (RTT)](#user-content-real-time-strategy-rts--real-time-tactics-rtt)
+    - [Turn-based strategy (TBS) / Turn-based tactics (TBT)](#user-content-turn-based-strategy-tbs-turn-based-tactics-tbt)
+  - [Survival](#user-content-survival)
+  - [Simulation / Social / Sim / Life / Dating](#user-content-simulation--social--sim--life--dating)
+  - [Tower defense (TD)](#user-content-tower-defense-td)
+  - [Trivia / Quiz](#user-content-trivia--quiz)
   - [Others](#user-content-others)
-
-- [Mobile Games](#user-content-mobile-games)
-  - [Android](#user-content-android)
-  - [Game Boy Color](#user-content-game-boy-color)
-  - [IOS](#user-content-ios)
-  - [PSP](#user-content-psp)
-  - [PSP Vita](#user-content-psp-vita)
-- [Chat bots](#chat-bots)
-- [Just The Source](#user-content-just-the-source)
-- [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
-- [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
+- [Browser-Based](#user-content-browser-based)
+  - [Action / 3D Platformer](#user-content-action--3d-platformer-1)
+  - [Adventure / Story Telling / Novels / Interactive Movies](#user-content-adventure--story-telling--novels--interactive-movies-1)
+  - [Arcade / Retro](#user-content-fps-1)
+  - [Boardgame / Tabletop / Card game](#user-content-boardgame--tabletop--card-game-1)
+  - [Casual](#user-content-casual-1)
+  - [Fighting / Beat 'em up](#user-content-fighting--beat-em-up-1)
+  - [First Person Shooter (FPS)](#user-content-first-person-shooter-fps-1)
+  - [Horror](#user-content-horror-1)
+  - [Multiplayer Online Battle Arena (MOBA)](#user-content-multiplayer-online-battle-arena-moba-1)
+  - [Platformer / Metroidvania / 2D Platformer](#user-content-platformer--metroidvania--2d-platformer-1)
+  - [Point and Click / Idle Clicker](#user-content-point-and-click--idle-clicker-1)
+  - [Puzzle / Programming / Logic / Labirinth / Educational](#user-content-puzzle--programming--logic--labirinth--educational-1)
+  - [Racing / Vehicle Simulation / Sports / Flight](#user-content-racing--vehicle-simulation--sports--flight-1)
+  - [Rhythm / Music](#user-content-rhythm--music-1)
+  - [Roguelikes / Dungeon Crawler](#user-content-roguelikes--dungeon-crawler-1)
+  - [RPG](#user-content-rpg-1)
+    - [Action RPG](#user-content-action-rpg-1)
+    - [MMORPG / MMO](#user-content-mmorpg--mmo-1)
+    - [Open World RPG / Sandbox RPG](#user-content-open-world-rpg--sandbox-rpg-1)
+    - [RPG / CRPG / Classic Role Play Game](#user-content-rpg--crpg--classic-role-play-game-1)
+    - [Tactical RPG](#user-content-tactical-rpg-1)
+  - [Sandbox / Construction and management simulation (CMS) / Construction](#user-content-sandbox--construction-and-management-simulation-cms--construction-1)
+  - [Stealth](#user-content-stealth-1)
+  - [Strategy](#user-content-strategy-1)
+    - [Strategy / 4X Game / Grand Strategy Wargame / God Game](#user-content-strategy--4x-game--grand-strategy-wargame--god-game-1)
+    - [Real-Time Strategy (RTS) / Real-Time Tactics (RTT)](#user-content-real-time-strategy-rts--real-time-tactics-rtt-1)
+    - [Turn-based strategy (TBS) / Turn-based tactics (TBT)](#user-content-turn-based-strategy-tbs-turn-based-tactics-tbt-1)
+  - [Survival](#user-content-survival-1)
+  - [Simulation / Social / Sim / Life / Dating](#user-content-simulation--social--sim--life--dating-1)
+  - [Tower defense (TD)](#user-content-tower-defense-td-1)
+  - [Trivia / Quiz](#user-content-trivia--quiz-1)
+  - [Others](#user-content-others-1)
+- [Android](#user-content-android)
+- [Game Boy Color](#user-content-game-boy-color)
+- [IOS](#user-content-ios)
+- [PSP](#user-content-psp)
+- [PSP Vita](#user-content-psp-vita)
+- [PlayStation Series](#user-content-playstation-series)
+- [XBox Series](#user-content-xbox-series)
+- [Source Only](#user-content-source-only)
+- [Engine / Framework / Library](#user-content-engine--framework--library)
+- [Add-ons / Hacks / Maps / Plugins / Tool / Utilities](#user-content-add-ons--hacks--maps--plugins--tool--utilities)
 -------
 
 # Major Companies
@@ -90,45 +106,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 # Native
 ## Action / 3D Platformer
-## Adventure / Story Telling / Novels / Interactive Movies
-## Arcade / Retro
-## Boardgame / Tabletop / Card game
-## Casual
-## Fighting / Beat 'em up
-## First Person Shooter (FPS)
-## Horror
-## Multiplayer Online Battle Arena (MOBA)
-## Platformer / Metroidvania / 2D Platformer
-## Point and Click / Idle Clicker
-## Puzzle / Programming / Logic / Labirinth / Educational
-## Racing / Vehicle Simulation / Sports / Flight
-## Rhythm / Music
-## Roguelikes / Dungeon Crawler
-## RGP
-### Action RPG
-### MMORPG / MMO
-### Open World RPG / Sandbox RPG
-### RPG / CRPG / Classic Role Play Game
-### Tactical RPG
-## Sandbox / Construction and management simulation (CMS) / Construction
-## Stealth (maybe merge with Action, FPS or Horror)
-## Strategy
-### Strategy / 4X Game / Grand Strategy Wargame / God Game
-### Real-Time Strategy (RTS) / Real-Time Tactics (RTT)
-### Turn-based strategy (TBS) / Turn-based tactics (TBT)
-## Survival
-## Simulation / Social / Sim / Life / Dating
-## Tower defense (TD)
-## Trivia / Quiz
-## Others
-
-## Action
 * [Oolite](https://github.com/OoliteProject/oolite) - Oolite is an open world space opera based on Elite
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
 * [pac-person-freespace](https://github.com/miheslkivi/pac-person-freespace) - Driving and shooting game that gets some inspiration from Pac-man.
 * [Relic Hunters Zero](https://github.com/mventurelli/relichunterszero) - Relic Hunters Zero is a FREE game about shooting evil space ducks.
 
-## Arcade
+## Adventure / Story Telling / Novels / Interactive Movies
+## Arcade / Retro
 * [Adventures of Dude in the Top-Down World](https://github.com/diguifi/Dude-TopDown) - PyGame-Developed Game, which purpose is to test out a genetic algorithm and compare it to a finite state machine.
 * [Alieanum](https://github.com/Kaev/Alieanum) - My Ludum Dare 33 entry. A kinda bullet hell shooter.
 * [Beerwanter](https://github.com/richelbilderbeek/BeerWanter) - Just click the beer!
@@ -165,7 +149,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wannabe Tempest](https://github.com/awlzac/wbt) - Tempest(80's arcade game) clone in Java, and a small project for playing with git.
 * [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelike dungeon crawl shooter similar to The Binding of Isaac.
 
-## FPS
+## Boardgame / Tabletop / Card game
+## Casual
+## Fighting / Beat 'em up
+## First Person Shooter (FPS)
 * [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
 * [AssaultCube Reloaded](https://github.com/acreloaded/acr) - AssaultCube Reloaded.
 * [BZFlag](https://github.com/BZFlag-Dev/bzflag) - Cross platform, 3D tank FPS in C++. Shoot, dodge, and capture the flag. 
@@ -194,19 +181,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
 * [Xonotic](https://github.com/xonotic/xonotic) - Xonotic is a free (GPL) fast-paced first-person shooter which runs on Windows, OS X and Linux.
 
-## MMORPG
-* [Eternal Lands](https://github.com/raduprv/Eternal-Lands/) - Eternal Lands is a free, multiplayer, online role-playing game created by Radu Privantu in 2002.[Play it now!](http://www.eternal-lands.com/)
-* [FreeSO](https://github.com/RHY3756547/FreeSO) - Re-implementation of The Sims Online. [Play it now!](http://freeso.org/)
-* [GTACoop](https://github.com/GTACoop/GTACoop) -  An online co-op modification for Grand Theft Auto V. [Play it now!](https://www.gta5-mods.com/scripts/multiplayer-co-op-mod)
-* [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
-* [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is an open-source game engine that adds full multiplayer network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. [Homepage](https://www.multitheftauto.com/)
-* [Ryzom](https://github.com/ryzom) - Sci-Fi & Fantasy-MMORPG. [Play it now!](http://ryzom.com/)
-* [The Mana World](https://github.com/themanaworld) - are a free 2D open source MMORPG, released in 2004.
-* [TONDE IKO](https://github.com/greggman/hft-tonde-iko) - A 6 screen 50 player HappyFunTimes game.
-* [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel. [Play it now!](https://stendhalgame.org)
-* [Worldforge](https://github.com/worldforge/ember) - WorldForge is a community of free game developers, they created a virtual world system called Dural.
-
-## Platform
+## Horror
+## Multiplayer Online Battle Arena (MOBA)
+## Platformer / Metroidvania / 2D Platformer
 * [Captain Holetooth](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
 * [Crazy Battle](https://github.com/happyplace/crazy-battle) - owlboy inspired fight game - Linux Game Jam 2018 submission.
@@ -228,7 +205,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
 * [Wereshift](https://github.com/Member1221/wereshift) - You're a werewolf, awoo!
 
-## Puzzle/Card/Board
+## Point and Click / Idle Clicker
+## Puzzle / Programming / Logic / Labirinth / Educational
 * [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
 * [Anonymine](https://github.com/oskar-skog/anonymine) - Terminal minesweeper without guessing that has a few unique features.
@@ -257,12 +235,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Trigger Time](https://github.com/Sheph/TriggerTime) - Trigger Time is a story-driven, top-down shoot'em up with a gravity gun and physics puzzles.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 
-## Racing
+## Racing / Vehicle Simulation / Sports / Flight
 * [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
 * [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
 * [Yorg](https://github.com/cflavio/yorg) - Yorg's an Open Racing Game, free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [Homepage](http://www.ya2.it/)
 
-## RPG
+## Rhythm / Music
+## Roguelikes / Dungeon Crawler
+## RGP
 * [Angband](https://github.com/angband/angband) - Single-player dungeon exploration game in the universe of JRR Tolkien.
 * [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
@@ -289,7 +269,23 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [VirtueOS](http://github.com/IanWONeill/VirtueOS) - Private Old School RuneScape Server & Client.
 * [WorldGrower](https://github.com/WorldGrower/WorldGrower) - WorldGrower is a top-down rpg simulator focused on creating a detailed world, in which actions have consequences.
 
-## Sandbox
+### Action RPG
+### MMORPG / MMO
+* [Eternal Lands](https://github.com/raduprv/Eternal-Lands/) - Eternal Lands is a free, multiplayer, online role-playing game created by Radu Privantu in 2002.[Play it now!](http://www.eternal-lands.com/)
+* [FreeSO](https://github.com/RHY3756547/FreeSO) - Re-implementation of The Sims Online. [Play it now!](http://freeso.org/)
+* [GTACoop](https://github.com/GTACoop/GTACoop) -  An online co-op modification for Grand Theft Auto V. [Play it now!](https://www.gta5-mods.com/scripts/multiplayer-co-op-mod)
+* [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
+* [Multi Theft Auto](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is an open-source game engine that adds full multiplayer network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. [Homepage](https://www.multitheftauto.com/)
+* [Ryzom](https://github.com/ryzom) - Sci-Fi & Fantasy-MMORPG. [Play it now!](http://ryzom.com/)
+* [The Mana World](https://github.com/themanaworld) - are a free 2D open source MMORPG, released in 2004.
+* [TONDE IKO](https://github.com/greggman/hft-tonde-iko) - A 6 screen 50 player HappyFunTimes game.
+* [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel. [Play it now!](https://stendhalgame.org)
+* [Worldforge](https://github.com/worldforge/ember) - WorldForge is a community of free game developers, they created a virtual world system called Dural.
+
+### Open World RPG / Sandbox RPG
+### RPG / CRPG / Classic Role Play Game
+### Tactical RPG
+## Sandbox / Construction and management simulation (CMS) / Construction
 * [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
 * [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
 * [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
@@ -306,6 +302,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Voxels](https://github.com/programmerjake/voxels-0.7) - 3D sandbox game designed to be Minecraft compatible (functionality-wise)
 * [XTREME](https://github.com/DGCProductions/XTREME-Cube) - 3D sandbox game with GUI controls | Singleplayer
 
+## Stealth (maybe merge with Action, FPS or Horror)
 ## Strategy
 * [0 A.D.](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II
 * [Caesaria](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
@@ -352,6 +349,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
 
+### Strategy / 4X Game / Grand Strategy Wargame / God Game
+### Real-Time Strategy (RTS) / Real-Time Tactics (RTT)
+### Turn-based strategy (TBS) / Turn-based tactics (TBT)
+## Survival
+## Simulation / Social / Sim / Life / Dating
+## Tower defense (TD)
+## Trivia / Quiz
 ## Others
 * [Das Wahre Schlagerfest](https://github.com/richelbilderbeek/DasWahreSchlagerfest) - Truly fun Columns game with an Oktoberfest theme
 * [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
@@ -367,9 +371,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 -------
 
 # Browser-Based
-## Action
-
-## Arcade
+## Action / 3D Platformer
+## Adventure / Story Telling / Novels / Interactive Movies
+## Arcade / Retro
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
 * [Arashi](https://github.com/stephank/arashi-js) - Arashi is a clone of the Arcade game Tempest. [Play it now!](http://stephank.github.io/arashi-js/)
@@ -414,7 +418,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
 * [JumpSuit](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe. [Play it now!](http://jumpsuit.space/)
 * [Little JS World](https://github.com/diguifi/littlejsworld) - Simple game made in JavaScript. [Play it now!](https://diguifi.github.io/littlejsworld/)
-
 * [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
 * [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements.
 * [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
@@ -448,7 +451,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [WPilot](https://github.com/jfd/wpilot) - A browser-based remake of the famous XPilot game, built with NodeJS and HTML5
 * [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". [Play it now!](http://zedfumetto.it/zedinvaders/game.html)
 
-## Boardgame
+## Boardgame / Tabletop / Card game
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS. [Play it now!](http://codepen.io/juliangarnier/full/BsIih)
 * [Android: Netrunner](https://github.com/mtgred/netrunner) - a two-player Living Card Game (LCG) set in a dystopian, cyberpunk future written in Clojure and Clojurescript. [Play it now!](http://www.jinteki.net/)
 * [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS. [Play it now!](https://kenrick95.github.io/c4/demo/)
@@ -462,16 +465,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [TicTacToe](https://github.com/rlazoti/tictactoe-scala-react) - Tic-tac-toe game written in Scala and ReactJS. [Play it now!](http://tictactoe-scala-react.herokuapp.com/)
 * [RiskBudur](https://github.com/alaattinyilmaz/risk-game) - RISKBudur is a turn based strategy game and board browser game that allows to play 2 to 6 people.
 
-## FPS
+## Casual
+## Fighting / Beat 'em up
+## First Person Shooter (FPS)
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
 * [QuakeJS](https://github.com/inolen/quakejs) - QuakeJS is a port of ioquake3 to JavaScript with the help of Emscripten. [Play it now!](http://www.quakejs.com/)
 
-## MMORPG
-* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
-* [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
-* [The Tale](https://github.com/Tiendil/the-tale) (Russian: Сказка) - Russian multiplayer [ZPG](https://en.wikipedia.org/wiki/Zero-player_game)-sandbox. [Play it now!](http://the-tale.org/)
-
-## Platformer
+## Horror
+## Multiplayer Online Battle Arena (MOBA)
+## Platformer / Metroidvania / 2D Platformer
 * [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
 * [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind. [Play it now!](http://operasoftware.github.com/Emberwind/)
 * [Mario Maker](https://github.com/pratishshr/mario-maker) - Classic Mario Game with Level-Editor. [Play it now!](http://pratishshr.github.io/mario-maker/)
@@ -480,7 +482,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Platform](https://github.com/vuanhhaogk/Platform-Game) - A small game was made with Phaser Game Engine. [Play it now!](https://vuanhhaogk.github.io/apps/platform/index.html)
 * [Platforms](https://github.com/matthias-schuetz/webgl-platforms-game/) - 3D platform hopping. Made with ThreeJS (WebGL) [Play now!](http://matthiasschuetz.com/)
 
-## Point and Click
+## Point and Click / Idle Clicker
 * [Conspiracy Clicker](https://github.com/Lukenickerson/Conspiracy-Clicker) - Conspiracy Clicker by Deathray Games
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
 * [Swarm Simulator](https://github.com/swarmsim/swarm) - Starting with only a few larvae and a small pile of meat, build a merciless swarm of trillions of giant alien bugs. [Play it now!](https://swarmsim.github.io/)
@@ -488,7 +490,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [The House](https://github.com/arturkot/the-house-game) – You're in a strange house. Can you find the way out? Is there any? [Play it now!](https://the-house.arturkot.pl/)
 * [The Investigator Cases](https://github.com/constancecchen/Investigator) - The Investigator Cases are point-and-click who-dunnits about an alligator who investigates crime. [Play it now!](http://investi-gator.com/)
 
-## Puzzle
+## Puzzle / Programming / Logic / Labirinth / Educational
 * [.buk](https://github.com/industrial-revolutioners/buk) - .buk is a cube rolling puzzle game. [Play it now!](https://industrial-revolutioners.github.io/buk)
 * [0hh0](https://github.com/Techdojo/0hn0) - Companion game to 0hh1 by Q42. [Play it now!](http://0hh0.com)
 * [0hh1](https://github.com/florisluiten/0hh1) - Lovely little logic game by Q42. [Play it now!](http://0hh1.com)
@@ -535,22 +537,34 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban. [Play it now!](http://lulea.github.io/game-off-2012/)
 * [Zop](https://github.com/Zolmeister/zop) - Connect like colors. [Play it now!](https://zop.zolmeister.com/)
 
-## Racing
+## Racing / Vehicle Simulation / Sports / Flight
 * [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
 * [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing. [Play it now!](https://triggerrally.com/)
 
-## RPG
+## Rhythm / Music
+## Roguelikes / Dungeon Crawler
+## RGP
 * [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.  [Play it now!](http://mitallast.github.io/diablo-js/)
 * [FGMK](https://github.com/ericoporto/fgmk) - Javascript engine for JRPG games written in JSON with a PyQt Ui to make it. [Play it now!](https://ericoporto.github.io/fgmkJsEngine/)
 * [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript. [Play it now!](http://roguish.rocks/)
 * [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. [Play it now!](http://www.sturdyhelmetgames.com/roomforchange_html)
 
-## Sandbox
+### Action RPG
+### MMORPG / MMO
+* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
+* [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
+* [The Tale](https://github.com/Tiendil/the-tale) (Russian: Сказка) - Russian multiplayer [ZPG](https://en.wikipedia.org/wiki/Zero-player_game)-sandbox. [Play it now!](http://the-tale.org/)
+
+### Open World RPG / Sandbox RPG
+### RPG / CRPG / Classic Role Play Game
+### Tactical RPG
+## Sandbox / Construction and management simulation (CMS) / Construction
 * [3d.city](https://github.com/lo-th/3d.city) - 3d city builder game. [Play it now!](http://lo-th.github.io/3d.city/index.html)
 * [Blk Game](https://github.com/morozd/blk-game) - Multiplayer Javascript/WebGL voxel world game demo. [Play it now!](http://benvanik.github.io/blk-game/)
 * [Cube Engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL. [Play it now!](http://nurgak.github.io/Cube-engine/)
 * [Project Cube](https://github.com/B-Train04/Project-Cube) - Voxel game based on Minecraft made with HTML5. [Play it now!](https://b-train04.github.io/Project-Cube/projectCube/index.html)
 
+## Stealth (maybe merge with Action, FPS or Horror)
 ## Strategy
 * [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
 * [Basketball GM](https://github.com/dumbmatter/basketball-gm) - Single-player basketball management simulation game. [Play it now!](https://basketball-gm.com/)
@@ -565,6 +579,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5. [Play it now!](http://www.fellicht.nl/games/tower-defense/)
 * [Zetawar](https://github.com/Zetawar/zetawar) - tactical strategy game similar to Weewar and Elite Command, implemented in ClojureScript. [Play it now!](http://www.zetawar.com/)
 
+### Strategy / 4X Game / Grand Strategy Wargame / God Game
+### Real-Time Strategy (RTS) / Real-Time Tactics (RTT)
+### Turn-based strategy (TBS) / Turn-based tactics (TBT)
+## Survival
+## Simulation / Social / Sim / Life / Dating
+## Tower defense (TD)
+## Trivia / Quiz
 ## Others
 * [Beast](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
 * [binb](https://github.com/lpinca/binb) - Competitive, multiplayer, realtime, guess the song game. [Play it now!](https://binb.co)
@@ -587,8 +608,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. [Play it now!](http://fernjager.github.io/game-off-2013/index.html)
 -------
 
-# Mobile Games
-## Android
+# Android
 * [Balance](https://github.com/fsvieira/balance) - A Logic Puzzle With Balls, can you find the defective ball? [Google Play](https://play.google.com/store/apps/details?id=com.fsvieira.balance)
 * [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 * [ClonesOnline](https://github.com/lukedd3/ClonesOnline) - ClonesOnline is an online multiplayer Android board game.
@@ -609,11 +629,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Splitter](https://github.com/harshit211997/Splitter) - Vertical scrolling casual game, where you have to avoid obstacles by splitting the player.
 * [Turn-Right-AR](https://github.com/nikhilagrawal2000/turn-right-ar) - Android game built using Unity3D.
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
+-------
 
-## Game Boy Color
+# Game Boy Color
 * [µCity](https://github.com/AntonioND/ucity) -  The open-source city-building game for Game Boy Color.
+-------
 
-## IOS
+# IOS
 * [4X](https://github.com/shankqr/4xMobileGame) - The one and only open source 4X MMO mid-core strategy game for iOS.
 * [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs) - Arcade game about a bug-craving bat.
 * [Bridges](https://github.com/zgrossbart/bridges) - Puzzle game with bridges, houses, tolls, and subways for iOS.
@@ -629,8 +651,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
+-------
 
-## PSP
+# PSP
 * [BlockHeadU](https://github.com/nsetobol/BlockHeadU) - A simple tetris game for Linux, Windows, nds, and the PSP coded in C.
 * [BlockOut II](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut_II_PSP is a Sony Playstation Portable port of BlockOut II game by Jean-Luc PONS.
 * [drops](https://github.com/alibabouin/drops) - Fast paced tiny game for linux/PSP.
@@ -645,8 +668,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Quake](https://github.com/atphalix/PSPCube) - A port of id Software's Quake Quake 1 for PSP v 1.0 by Juraj Styk
 * [Rainbow Blaster](https://github.com/meyerd/rainbowblaster) - Rainbow Blaster Game for the PSP
 * [ToneMatrix](https://github.com/Babkock/ToneMatrix) - Drum machine for the PSP.
+-------
 
-## PSP Vita
+# PSP Vita
 * [Another World](https://github.com/enriquesomolinos/Another-World-Vita) - Another World port for Vita.
 * [BattleShip Arena](https://github.com/DesiRED74/PSV-BattleShipArena) -  Classic game "Sea battle/fight" for PS Vita.
 * [BreakVeetOut](https://github.com/InvalidExcepti0n/BreakVeetOut) -  BreakVeetOut is an arcade game made for PS Vita updated HENkaku.
@@ -672,11 +696,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wolfenstein 3D](https://github.com/Rinnegatamante/vitaWolfen) -  Wolfenstein 3D port for PSVITA.
 -------
 
-# Chat bots
-* [c4bot](https://github.com/kenrick95/c4bot) - Chat bot that plays Connect Four with you, works in web chat, Facebook Messenger, Skype, and Telegram. [Play it now!](https://bots.botframework.com/bot?id=c4bot)
--------
-
-# Just The Source
+# PlayStation Series
+# XBox Series
+# Source Only
 * [Aquaria](https://github.com/AquariaOSE/Aquaria) - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
 * [Doom 3](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source code release.
 * [ID Software](https://github.com/id-Software) - Includes Doom, Quake, Wolfenstein and more.
@@ -695,7 +717,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [ZorkZork](https://github.com/devshane/zork) - You are in an open field west of a big white house with a boarded front door. Zork's C-source circa 1991.
 -------
 
-# Frameworks/Engines/Libraries
+# Engine / Framework / Library
 * [Advent3D](https://github.com/gabrielevierti/Advent3D) - A game engine written in C++.
 * [Akihabara](https://github.com/Akihabara/akihabara) - Set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript.
 * [Allegro 5](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(graphics, sound, etc.).
@@ -792,10 +814,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [X-Ray Oxygen](https://github.com/xrOxygen/xray-oxygen) - X-Ray project for the legendary S.T.A.L.K.E.R series.
 -------
 
-# Maps/Hacks/Plugins/Utilities/All of the Things™
+# Add-ons / Hacks / Maps / Plugins / Tool / Utilities
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
 * [BOSS](https://github.com/boss-developers/boss) - A load order optimisation tool for Oblivion, Nehrim, Skyrim, Fallout 3, Fallout: New Vegas. [Homepage](http://boss-developers.github.io/)
+* [c4bot](https://github.com/kenrick95/c4bot) - Chat bot that plays Connect Four with you, works in web chat, Facebook Messenger, Skype, and Telegram. [Play it now!](https://bots.botframework.com/bot?id=c4bot)
 * [Capsule](https://github.com/itchio/capsule) - Cross-platform hotkey short video capture for games.
 * [CSGO external](https://github.com/thisgamesux/linux-csgo-external) - CSGO Hack for x64 Linux systems
 * [FlxCollisions](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
