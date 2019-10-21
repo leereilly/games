@@ -351,6 +351,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 * [TripleA](https://github.com/triplea-game/triplea) -  TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk. [Play it now!][https://triplea-game.org/)
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
+* [Unknown Horizons GoDot](https://github.com/unknown-horizons/godot-port) - Unknown-Horizons Godot Engine Port.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
 * [Wargus](https://github.com/Wargus/wargus) - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
