@@ -298,6 +298,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 * [Red Eclipse](https://github.com/red-eclipse) - Free, casual arena shooter featuring parkour.
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - Semi-realistic simulation of the "Old West's" great atmosphere.
+* [TrueCraft](https://github.com/ddevault/TrueCraft) - A completely clean-room implementation of Minecraft beta 1.7.3.
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
