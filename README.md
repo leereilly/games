@@ -66,6 +66,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/playgameservices.png" title="Google Play Game Services" height="50">](https://github.com/playgameservices)&nbsp;
 [<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
 [<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
+[<img src="https://github.com/CRYTEK.png" title="Crytek" height="50">](https://github.com/CRYTEK)&nbsp;
 
 
 # Browser-Based
