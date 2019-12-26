@@ -111,6 +111,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Arcade / Retro / 2D Action
 * [Adventures of Dude in the Top-Down World](https://github.com/diguifi/Dude-TopDown) - PyGame-Developed Game, which purpose is to test out a genetic algorithm and compare it to a finite state machine.
 * [Alieanum](https://github.com/Kaev/Alieanum) - My Ludum Dare 33 entry. A kinda bullet hell shooter.
+* [Arkanoid](https://github.com/YoungNeer/Arkanoid) - The best ever (allegedly) arkanoid game written in Love2D.
 * [Beerwanter](https://github.com/richelbilderbeek/BeerWanter) - Just click the beer!
 * [Bitfighter](https://github.com/bitfighter/bitfighter) -  Multi-player space fighting arcade game. [Play it now!](http://bitfighter.org)
 * [Boenken](https://github.com/richelbilderbeek/Boenken) - 2-player game that is a mix between soccer and billiards
@@ -118,6 +119,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Overhead shoot-em-up port of the classic DOS game.
 * [Chaos Projectile](https://github.com/WinterLicht/Chaos-Projectile) - 2D run'n'gun action game with RPG elements.
 * [Clonepoint](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
+* [CoTerminalApps](https://github.com/fastrgv/CoTerminalApps) - Retro Games that run in a terminal on any platform.
 * [DDraceNetwork](https://github.com/ddnet/ddnet) - Cooperative Teeworlds racing modification
 * [Duck Hunt](https://github.com/karkipy/duck-hunt-nes) - Vanilla JS Duck Hunt.
 * [Duckmarines](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
@@ -127,6 +129,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Falling Time](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 * [hēXōn](https://github.com/LucKeyProductions/heXon) - A twin-stick-shooter with 3D graphics and a classic feel.
 * [Kroniax](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
+* [MiniPac](https://github.com/fastrgv/MiniPacman) - MiniPac is a kid friendly ascii character version of Pacman that plays in a commandline terminal.
 * [Missile Command](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.
 * [Mystic Mine](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
 * [OpenLieroX](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.
@@ -139,6 +142,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Space Shooter](https://github.com/prodicus/spaceShooter) - Cross platform, 2D space shooting game made using pygame.
 * [SDL-Ball](https://github.com/DusteDdk/SDL-Ball) - Pretty looking breakout clone available in most distributions.
 * [Taisei](https://github.com/laochailan/taisei) - Fan-made, open Source clone of the Touhou series.
+* [TermFrogger](https://github.com/fastrgv/TermFrogger) - Terminal frogger is a kid friendly ascii character version of Frogger that plays in a commandline terminal.
+* [TerminalApps](https://github.com/fastrgv/TerminalApps) - Fun puzzle games that run on any terminal on any OS.
 * [Teeworlds](https://github.com/teeworlds/teeworlds/) - Online multi-player platform 2D shooter.
 * [Trackballs](https://github.com/trackballs/trackballs) - Marble steering game [Play it now!](https://trackballs.github.io)
 * [The City Drone Escape](https://github.com/bfarley88/The-City-Drone-Escape) - Fast paced 2D top-down drone shooter.
@@ -213,11 +218,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wereshift](https://github.com/Member1221/wereshift) - You're a werewolf, awoo!
 
 ## Point and Click / Idle Clicker
-* [Dead Ascend](https://github.com/Larpon/DeadAscend) -  A 2D point'n'click-like adventure game written in Qt/QML and Javascript [Play it now!](http://blackgrain.dk/games/deadascend/)
+* [AdaVenture](https://github.com/fastrgv/AdaVenture) - AdaVenture is a kid-friendly retro point&click game with mazes, dragons, bats & snakes.
+* [Dead Ascend](https://github.com/Larpon/DeadAscend) - A 2D point'n'click-like adventure game written in Qt/QML and Javascript [Play it now!](http://blackgrain.dk/games/deadascend/)
 
 ## Puzzle / Programming / Logic / Labirinth / Educational
 * [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
+* [AdaGate](https://github.com/fastrgv/AdaGate) - AdaGate is a 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 * [Anonymine](https://github.com/oskar-skog/anonymine) - Terminal minesweeper without guessing that has a few unique features.
 * [ASCIIrinth](https://github.com/Phoenix1747/asciirinth) - Find your way through a labyrinth of ASCII characters.
 * [Beam Olympics](https://github.com/inaka/beam_olympics) - Erlang app to help you check your Erlang-Fu. You can also play with friends in a local network. 
@@ -229,7 +236,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net)
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
+* [Reliquarium](https://github.com/fastrgv/Reliquarium) - Reliquarium is a unique set of 3D slider puzzles with a Crystal Skull theme. It runs on Windows, Mac OS-X and GNU-Linux.
 * [Rjopek Minigames](https://github.com/rjopek/games) - Multi platform games for Harbour programming language.
+* [RufasCube](https://github.com/fastrgv/RufasCube) - RufasCube is a puzzle game for Windows, OS-X and GNU Linux... it looks like a rubic cube but it's a slider, not a twister.
+* [RufasSlider](https://github.com/fastrgv/RufasSlider) - Collection of classic 2D slider puzzles.
+* [RufasSwap](https://github.com/fastrgv/RufasSwap) - RufasSwap is a simple permuted picture puzzle for kids that runs on Windows, Mac OS-X and GNU Linux.
 * [Stacks](https://github.com/stackshub/stacks) - A simple puzzle game in mobile and desktop browser.
 * [Tetris](https://github.com/berk76/tetris) - Tetris for Win32, Linux console, DOS and ZX Spectrum
 * [THBattle](https://github.com/feisuzhu/thbattle) - Online Touhou X Sanguosha(Chinese variation of Bang!) game implemented in pure python. [Forum](http://www.thbattle.net)
