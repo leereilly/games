@@ -276,7 +276,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Open MW](https://github.com/OpenMW/openmw) - Reimplementation of the game The Elder Scrolls: Morrowind.
 * [Open TES Arena](https://github.com/afritz1/OpenTESArena) - Reimplementation of the game The Elder Scrolls: Arena.
 * [Planeshift](https://sourceforge.net/p/planeshift) - PlaneShift is a Role Playing Game immersed into a 3D virtual fantasy world.
-* [REGoth](https://github.com/REGoth-project/REGoth) -  OpenSource-Reimplementation of the zEngine, used by the game "Gothic" cross-platform.
+* [REGoth](https://github.com/REGoth-project/REGoth) -  OpenSource-Reimplementation of the zEngine, used by the game "Gothic" cross-platform. (Discontinued)
+* [REGoth](https://github.com/REGoth-project/REGoth-bs) -  Reimplementation of Gothic I and II using modern technologies. [Play it now!](https://regoth-project.github.io/REGoth-bs/index.html)
 * [Ryzom](https://github.com/ryzom) - Sci-Fi & Fantasy-MMORPG. [Play it now!](http://ryzom.com)
 * [Space Station 13](https://github.com/tgstation/tgstation) Multi-player round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station.
 * [Stendhal](https://github.com/arianne/stendhal) - a fun friendly and free 2D multiplayer online adventure game with an old school feel. [Play it now!](https://stendhalgame.org)
