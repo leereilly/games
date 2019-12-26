@@ -829,7 +829,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Urho3D](https://github.com/urho3d/Urho3D) - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
 * [Vinage](https://github.com/KordonBleu/vinage) - Javascript 2D collision library, especially useful for dealing with wrapped universes.
 * [Wurfel Engine](https://github.com/BSVogler/WurfelEngineSDK) An isometric game engine for games with an open world made of blocks or voxels.
-* [xoreos](https://github.com/xoreos/xoreos) -  A cross-platform reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P [Homepage](https://xoreos.org/)
+* [xoreos](https://github.com/xoreos/xoreos) -  A cross-platform reimplementation of BioWare's Aurora engine (and derivatives). The Witcher, Neverwinter, Dragon Age etc. engine. Pre-pre-alpha :P [Homepage](https://xoreos.org/)
 * [XLE](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
 * [XLEngine](https://github.com/Mindwerks/XLEngine) - XLEngine allows you to play Dark Forces, Daggerfall and soon Outlaws and Blood with modern technology.
 * [XL-Engine](https://github.com/luciusDXL/XL-Engine) - The XL-Engine provides support for first person DOS-era games running on modern operating systems such as Windows 10.
