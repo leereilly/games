@@ -263,6 +263,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Action
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
+* [TankistOnline](https://github.com/servusDei2018/TankistOnline) - A 2d multiplayer tank game written in Python 2/3.
 
 ## Arcade
 
