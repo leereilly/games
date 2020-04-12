@@ -777,7 +777,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [EntityJS](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utilizing the entity-component design.
 * [Evennia MUD/MU* Creation System](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 * [Falltergeist](https://github.com/falltergeist/falltergeist) - OpenSource crossplatform Fallout 2™ engine writen in C++ and SDL.
-* [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
+* [Flare](https://github.com/flareteam/flare-engine) - Free/Libre Action Roleplaying Engine.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](https://github.com/AdamAtomic/flixel) - Game-making library written entirely in ActionScript 3.
 * [Furnace Engine](https://github.com/adrianton3/furnace-engine) - Rule-based engine for crafting/exploration/puzzle games.
