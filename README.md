@@ -661,6 +661,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [SuperTux Android](https://github.com/pelya/supertux) - Classic 2D jump'n'run sidescroller with Tux Mobile for Android.
 * [Splitter](https://github.com/harshit211997/Splitter) - Vertical scrolling casual game, where you have to avoid obstacles by splitting the player.
 * [Turn-Right-AR](https://github.com/nikhilagrawal2000/turn-right-ar) - Android game built using Unity3D.
+* [Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
 * [Wannabe Tempest](https://github.com/awlzac/wbta) - Clone of 80's coin-op arcade game Tempest(80's arcade game).
 -------
 
