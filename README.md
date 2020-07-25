@@ -301,6 +301,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - Third-person action game using the Spearmint engine.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
+* [Mazerator](https://github.com/Awesome-Arcade/Mazerator-mirror) - A game where you go around a maze, fighting "monsters" and then trying to defeat the superhero Mazerator. Game in construction
 
 
 ## MMORPG
