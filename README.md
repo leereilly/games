@@ -12,7 +12,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-# Table of Contents.
+# Table of Contents!
 
 - [Major Companies](#major-companies)
 - [Browser-Based](#user-content-browser-based)
@@ -49,7 +49,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-# Major Companies
+# Major Companies of Games and Gaming.
 
 A selection of major game studios, publishers, etc. using GitHub:
 
@@ -68,7 +68,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
 
 
-# Browser-Based
+# Browser-Based Games
 
 ## Boardgame
 
@@ -80,7 +80,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
 
 
-## Arcade
+## Arcade Games
 
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
 * [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
@@ -578,3 +578,5 @@ A selection of major game studios, publishers, etc. using GitHub:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# New Games Coming Soon!
