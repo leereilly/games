@@ -441,6 +441,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL.
 * [Endless Sky](https://github.com/endless-sky/endless-sky) - Space trading and combat game similar to the classic Escape Velocity series.
 * [Freeminer](https://github.com/freeminer/freeminer) - Sandbox game inspired by Minecraft.
+* [Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game.
 * [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
 * [Manic Digger](https://github.com/manicdigger/manicdigger) - A multiplayer block-building voxel game, Minecraft clone.
 * [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) - I challenged myself to see if I could create Minecraft in just one week using C++ and OpenGL... So lets go!
