@@ -324,7 +324,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## FPS
 * [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
 * [AssaultCube Reloaded](https://github.com/acreloaded/acr) - AssaultCube Reloaded.
-* [BZFlag](https://github.com/BZFlag-Dev/bzflag) - Cross platform, 3D tank FPS in C++. Shoot, dodge, and capture the flag. 
+* [BZFlag](https://github.com/BZFlag-Dev/bzflag) - Cross platform, 3D tank FPS in C++. Shoot, dodge, and capture the flag.
 * [Castle](https://github.com/castle-engine/castle-game) - FPS in a dark fantasy setting. Includes as a bonus DOOM E1M1 level done in modern technology.
 * [DECEIVER](https://github.com/etodd/deceiver) - Launch your spider drone at walls, ceilings, and enemy heads in this philosophical shooter set at the end of the world. [Play it now!](http://deceivergame.com)
 * [Doom the Roguelike](https://github.com/ChaosForge/doomrl) - DRL (D**m, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.
@@ -386,7 +386,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
 * [Anonymine](https://gitlab.com/oskog97/anonymine) - Terminal minesweeper without guessing that has a few unique features.
 * [ASCIIrinth](https://github.com/Phoenix1747/asciirinth) - Find your way through a labyrinth of ASCII characters.
-* [Beam Olympics](https://github.com/inaka/beam_olympics) - Erlang app to help you check your Erlang-Fu. You can also play with friends in a local network. 
+* [Beam Olympics](https://github.com/inaka/beam_olympics) - Erlang app to help you check your Erlang-Fu. You can also play with friends in a local network.
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
 * [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 * [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
@@ -527,6 +527,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Hitball](https://github.com/harshit211997/Hitball) - Keep the ball in the air.
 * [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids.
 * [Nodulus](https://github.com/hyperparticle/nodulus) - Nodulus is a puzzle game with a clever twist - IOS, android and HTML5
+* [Ohi Ohi Dungeon](https://github.com/dyrdaio/ohi-ohi-dungeon) - Small click & collect mobile game developed in Unity.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
 * [PuzzleGame](https://github.com/chuvidi2003/PuzzleGame) - Slider puzzle game implementation created with Cocos2d for Android.
 * [Rocket Kite](https://github.com/oOo0oOo/RocketKite) - Fly around planets in this colorful space simulator.
