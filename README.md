@@ -389,6 +389,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Colobot](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
 * [Curse of War](https://github.com/a-nikolaev/curseofwar) - Fast-paced action strategy game with ncurses and SDL frontends.
+* [fheroes2](https://github.com/ihhub/fheroes2) - A game engine clone for Heroes of Might and Magic II.
 * [Harris](https://github.com/ec429/harris) - Strategy game based around the actions of RAF Bomber Command in the Second World War.
 * [Hedgewars](https://github.com/hedgewars/hw) - A turn based strategy, artillery, action and comedy game.
 * [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
