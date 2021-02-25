@@ -315,7 +315,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
 * [Cendric](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
-* [Crystal Picnic](https://github.com/Nooskewl/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
+* [Crystal Picnic](https://github.com/search?q=crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
 * [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) - Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes.
 * [Dungeon Monkey Eternal](https://github.com/jwvhewitt/dmeternal) - Party-based fantasy roguelike role-playing game.
 * [Egoboo](https://github.com/egoboo/egoboo) - Cool 3D dungeon crawling game in the spirit of NetHack.
