@@ -366,6 +366,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Programming
 
 * [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
+* [Robot Rumble](https://robotrumble.org/) - An arena-based AI battle platform with support for robot in Python or Javascript
 
 ## Sandbox
 
