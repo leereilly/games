@@ -256,7 +256,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
 * [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. [Play it now!](http://fernjager.github.io/game-off-2013/index.html)
-* [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) - Friday Night Funkin' is an insanely popular and addicting rhythm game that puts you in the shoes of the Boyfriend, who has to rap his way through enemies to be able to date her. It's also an omage to Newgrounds and it's history, with many major cameos from popular Newgrounds' series. [Play it on itch.io!](https://ninja-muffin24.itch.io/funkin) [Play it on Newgrounds!](https://www.newgrounds.com/portal/view/770371)
+* [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) - Friday Night Funkin' is an insanely popular and addicting rhythm game that puts you in the shoes of the Boyfriend, who has to rap his way through enemies to be able to date the Girlfriend. It's also an omage to Newgrounds and it's history, with many major cameos from popular Newgrounds' series. [Play it on itch.io!](https://ninja-muffin24.itch.io/funkin) [Play it on Newgrounds!](https://www.newgrounds.com/portal/view/770371)
 
 -------
 
