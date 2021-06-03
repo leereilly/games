@@ -422,6 +422,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Others
 
  * [OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Open source version of Notrium, a top-down survival game.
+ * [Battlesnake](https://github.com/BattlesnakeOfficial) - Multi-player programming game based on the classic game - snake!
 
 # Mobile Games
 
