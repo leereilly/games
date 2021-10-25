@@ -182,6 +182,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
 * [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing.
+* [AG-DRIFT](https://github.com/dasilvacontin/ag-drift) - Multiplayer online anti-gravity racing game, inspired by F-Zero and wipEout. [Play it now!](https://ag-drift.herokuapp.com/)
 
 ## Sandbox
 
