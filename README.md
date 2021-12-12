@@ -180,6 +180,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Racing
 
+* [Simple 2D HTML5 car racing game](https://github.com/game-xorozo/CarGame-2D) - HTML5&Javascript&Canvas Basic 2D Car Game.
 * [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
 * [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing.
 
