@@ -398,7 +398,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Source of Tales](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 * [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
-* [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
+* [Unknown Horizons](https://github.com/unknown-horizons) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) - Block-based game engine implementation developed with C#.
 * [Wargus](https://github.com/Wargus/wargus) - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
@@ -460,7 +460,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
-* [System Shock](https://github.com/NightDiveStudios/shockmac/) - Source code for original System Shock game (PowerMac version), more readable fork available [here](https://github.com/ToxicFrog/shockmac).
+* [System Shock](https://github.com/NightDiveStudios/shockmac) - Source code for original System Shock game (PowerMac version), more readable fork available [here](https://github.com/ToxicFrog/shockmac).
 
 -------
 
@@ -483,7 +483,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [CutJS](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 * [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 * [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
-* [EaselJS](https://github.com/CreateJS/EaselJS/) - Library to make working with the Canvas element easier.
+* [EaselJS](https://github.com/CreateJS/EaselJS) - Library to make working with the Canvas element easier.
 * [EntityJS](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
 * [Evennia MUD/MU* Creation System](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 * [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
@@ -526,7 +526,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Tesseract](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
 * [tiled](https://github.com/bjorn/tiled) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
-* [Torque 2D](https://github.com/GarageGames/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
+* [Torque 2D](https://github.com/TorqueGameEngines/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
 * [Urho3D](https://github.com/urho3d/Urho3D) - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
