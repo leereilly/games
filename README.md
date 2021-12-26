@@ -1,10 +1,12 @@
-# Awesome Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Awesome Games on GitHub">
+# Awesome Games on GitHub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of games that teach you a programming language.
 
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
 #### Contributing
 
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/michelpereira/games/issues), or fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/michelpereira/games/edit/master/README.md)).
+If you'd like to add a repository to the list, please [create an Issue](https://github.com/michelpereira/games/issues), or fork this repository and submit a pull request ([click here to edit this file from GitHub](https://github.com/michelpereira/games/edit/master/README.md)).
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -559,8 +561,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
 * [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
 
-# License
+## Contribute
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
