@@ -7,39 +7,36 @@ Below is a list of open source games and game-related projects that can be found
 ## Contents
 
 - [Major Companies](#major-companies)
-- [Browser-Based](#user-content-browser-based)
-  - [Boardgame](#user-content-boardgame)
-  - [Arcade](#user-content-arcade)
-  - [FPS](#user-content-fps)
-  - [RPG](#user-content-rpg)
-  - [MMORPG](#user-content-mmorpg)
-  - [Strategy](#user-content-strategy)
-  - [Racing](#user-content-racing)
-  - [Sandbox](#user-content-sandbox)
-  - [Puzzle](#user-content-puzzle)
-  - [Clicker](#user-content-clicker)
-  - [Point and Click](#user-content-point-and-click)
-  - [Others](#user-content-others)
-- [Native](#user-content-native)
-  - [Action](#user-content-action-1)
-  - [Arcade](#user-content-arcade-1)
-  - [FPS](#user-content-fps-1)
-  - [MMORPG](#user-content-mmorpg-1)
-  - [RPG](#user-content-rpg-1)
-  - [Platform](#user-content-platform)
-  - [Puzzle/card/board](#user-content-puzzlecardboard)
-  - [Programming](#user-content-programming)
-  - [Sandbox](#user-content-sandbox-1)
-  - [Strategy](#user-content-strategy-1)
-- [Mobile Games](#user-content-mobile-games)
-  - [Android](#user-content-android)
-  - [IOS](#user-content-ios)
+- [Boardgame](#user-content-boardgame)
+- [Arcade](#user-content-arcade)
+- [FPS](#user-content-fps)
+- [RPG](#user-content-rpg)
+- [MMORPG](#user-content-mmorpg)
+- [Strategy](#user-content-strategy)
+- [Racing](#user-content-racing)
+- [Sandbox](#user-content-sandbox)
+- [Puzzle](#user-content-puzzle)
+- [Clicker](#user-content-clicker)
+- [Point and Click](#user-content-point-and-click)
+- [Others](#user-content-others)
+- [Action](#user-content-action-1)
+- [Arcade](#user-content-arcade-1)
+- [FPS](#user-content-fps-1)
+- [MMORPG](#user-content-mmorpg-1)
+- [RPG](#user-content-rpg-1)
+- [Platform](#user-content-platform)
+- [Puzzle/card/board](#user-content-puzzlecardboard)
+- [Programming](#user-content-programming)
+- [Sandbox](#user-content-sandbox-1)
+- [Strategy](#user-content-strategy-1)
+- [Android](#user-content-android)
+- [IOS](#user-content-ios)
 - [Chat bots](#chat-bots)
 - [Just The Source](#user-content-just-the-source)
 - [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
 
-# Major Companies
+## Major Companies
 
 A selection of major game studios, publishers, etc. using GitHub:
 
@@ -57,8 +54,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
 [<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
 
-
-# Browser-Based
 
 ## Boardgame
 
@@ -241,8 +236,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
 * [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. [Play it now!](http://fernjager.github.io/game-off-2013/index.html)
-
-# Native
 
 ## Action
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
@@ -431,7 +424,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 * [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.
 
-# Chat bots
+## Chat bots
 * [c4bot](https://github.com/kenrick95/c4bot) - Chat bot that plays Connect Four with you, works in web chat, Facebook Messenger, Skype, and Telegram. [Play it now!](https://bots.botframework.com/bot?id=c4bot)
 
 # Just The Source
@@ -448,7 +441,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.
 * [System Shock](https://github.com/NightDiveStudios/shockmac) - Source code for original System Shock game (PowerMac version), more readable fork available [here](https://github.com/ToxicFrog/shockmac).
 
-# Frameworks/Engines/Libraries
+## Frameworks/Engines/Libraries
 
 * [Akihabara](https://github.com/Akihabara/akihabara) - Set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in Javascript.
 * [Allegro 5](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(graphics, sound, etc.).
@@ -517,7 +510,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wurfel Engine](https://github.com/BSVogler/WurfelEngineSDK) An isometric game engine for games with an open world made of blocks or voxels.
 * [XLE](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
 
-# Maps/Hacks/Plugins/Utilities/All of the Things™
+## Maps/Hacks/Plugins/Utilities/All of the Things™
 
 * [Bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
