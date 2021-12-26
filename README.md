@@ -322,7 +322,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 - [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 - [Nudoku](https://github.com/jubalh/nudoku) - ncurses based CLI sudoku game
-- [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
+- [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the Dash engine.
 - [Tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 - [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
 - [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
