@@ -4,15 +4,9 @@
 
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
-#### Contributing
-
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/michelpereira/games/issues), or fork this repository and submit a pull request ([click here to edit this file from GitHub](https://github.com/michelpereira/games/edit/master/README.md)).
-
-Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 -------
 
-# Table of Contents.
+## Contents
 
 - [Major Companies](#major-companies)
 - [Browser-Based](#user-content-browser-based)
