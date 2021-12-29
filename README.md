@@ -313,6 +313,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Angband](https://github.com/angband/angband) - Single-player dungeon exploration game in the universe of JRR Tolkien.
 * [Arx Fatalis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
+* [Cataclysm: Bright Nights](https://github.com/cataclysmbnteam/Cataclysm-BN) - Post-apocalyptic survival rogue-like that tests players to eke a supplies to survive against an onslaught of undead, eldritch abominations and more. Bright Nights emphasizes game balance and interesting combat with heavier sci-fi aspects. Initially started as a fork of Cataclysm-DDA.
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) - Roguelike set in a post-apocalyptic world.
 * [Cendric](https://github.com/tizian/Cendric2) - Platformer-RPG in a fantasy setting with puzzle elements.
 * [Crystal Picnic](https://github.com/Nooskewl/crystal-picnic) - Lighthearted and colourful tribute to the classic era of action RPGs.
