@@ -1,72 +1,60 @@
-# Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+# Open Source Games
 
-Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
+<img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Swimming Octocat"> 
 
-#### Contributing
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/leereilly/games/edit/master/README.md)).
+Below is a list of open source games and game-related projects - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
-**Would you like to help maintain and improve this repository?** [Click here for information on becoming a maintainer](https://github.com/leereilly/games/issues/483).
+## Contributing
+
+If you'd like to add a repository to the list, please [create an Issue](https://github.com/201flaviosilva/Open-Source-Games/issues), or fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/201flaviosilva/Open-Source-Games/edit/master/README.md)).
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -------
 
-# Table of Contents.
+# Table of Contents
 
-- [Major Companies](#major-companies)
-- [Browser-Based](#user-content-browser-based)
-  - [Boardgame](#user-content-boardgame)
-  - [Arcade](#user-content-arcade)
-  - [FPS](#user-content-fps)
-  - [RPG](#user-content-rpg)
-  - [MMORPG](#user-content-mmorpg)
-  - [Strategy](#user-content-strategy)
-  - [Racing](#user-content-racing)
-  - [Sandbox](#user-content-sandbox)
-  - [Puzzle](#user-content-puzzle)
-  - [Clicker](#user-content-clicker)
-  - [Point and Click](#user-content-point-and-click)
-  - [Others](#user-content-others)
-- [Native](#user-content-native)
-  - [Action](#user-content-action-1)
-  - [Arcade](#user-content-arcade-1)
-  - [FPS](#user-content-fps-1)
-  - [MMORPG](#user-content-mmorpg-1)
-  - [RPG](#user-content-rpg-1)
-  - [Platform](#user-content-platform)
-  - [Puzzle/card/board](#user-content-puzzlecardboard)
-  - [Programming](#user-content-programming)
-  - [Sandbox](#user-content-sandbox-1)
-  - [Strategy](#user-content-strategy-1)
-- [Mobile Games](#user-content-mobile-games)
-  - [Android](#user-content-android)
-  - [IOS](#user-content-ios)
+- [Open Source Games](#open-source-games)
+  - [Contributing](#contributing)
+- [Table of Contents](#table-of-contents)
+- [Browser-Based](#browser-based)
+  - [Boardgame](#boardgame)
+  - [Arcade](#arcade)
+  - [FPS](#fps)
+  - [RPG](#rpg)
+  - [MMORPG](#mmorpg)
+  - [Strategy](#strategy)
+  - [Racing](#racing)
+  - [Sandbox](#sandbox)
+  - [Puzzle](#puzzle)
+  - [Clicker](#clicker)
+  - [Point and Click](#point-and-click)
+  - [Others](#others)
+- [Native](#native)
+  - [Action](#action)
+  - [Arcade](#arcade-1)
+  - [FPS](#fps-1)
+  - [MMORPG](#mmorpg-1)
+  - [RPG](#rpg-1)
+  - [Platform](#platform)
+  - [Puzzle/card/board](#puzzlecardboard)
+  - [Racing](#racing-1)
+  - [Programming](#programming)
+  - [Sandbox](#sandbox-1)
+  - [Strategy](#strategy-1)
+  - [Others](#others-1)
+- [Mobile Games](#mobile-games)
+  - [Android](#android)
+  - [IOS](#ios)
 - [Chat bots](#chat-bots)
-- [Just The Source](#user-content-just-the-source)
-- [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
-- [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
+- [Just The Source](#just-the-source)
+- [Frameworks/Engines/Libraries](#frameworksengineslibraries)
+- [Maps/Hacks/Plugins/Utilities/All of the Things™](#mapshackspluginsutilitiesall-of-the-things)
+- [License](#license)
 
 -------
-
-# Major Companies
-
-A selection of major game studios, publishers, etc. using GitHub:
-
-[<img src="https://github.com/zynga.png" title="Zynga" height="50">](https://github.com/zynga)&nbsp;
-[<img src="https://github.com/mojang.png" title="Mojang" height="50">](https://github.com/mojang)&nbsp;
-[<img src="https://github.com/riotgames.png" title="Riot Games" height="50">](https://github.com/riotgames)&nbsp;
-[<img src="https://github.com/epicgames.png" title="Epic Games" height="50">](https://github.com/epicgames)&nbsp;
-[<img src="https://github.com/OculusVR.png" title="Oculus VR Inc" height="50">](https://github.com/OculusVR)&nbsp;
-[<img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">](https://github.com/unity-technologies)&nbsp;
-[<img src="https://github.com/electronicarts.png" title="Electronic Arts" height="50">](https://github.com/electronicarts)&nbsp;
-[<img src="https://github.com/valvesoftware.png" title="Valve" height="50">](https://github.com/valvesoftware)&nbsp;
-[<img src="https://github.com/gree.png" title="GREE" height="50">](https://github.com/gree)&nbsp;
-[<img src="https://github.com/dena.png" title="DeNA" height="50">](https://github.com/dena)&nbsp;
-[<img src="https://github.com/playgameservices.png" title="Google Play Game Services" height="50">](https://github.com/playgameservices)&nbsp;
-[<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
-[<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
-
 
 # Browser-Based
 
