@@ -32,7 +32,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [Clicker](#clicker)
   - [Point and Click](#point-and-click)
   - [Others](#others)
-- [Native](#native)
+- [Desktop](#desktop)
   - [Action](#action)
   - [Arcade](#arcade-1)
   - [FPS](#fps-1)
@@ -60,14 +60,15 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Boardgame
 
-| Name                  | Description                                                                                                                       | Source                                                          | Play                                               |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------- |
-| 3D Hartwing Chess Set | 3D chess game done in HTML/CSS/JS.                                                                                                | [GitHub](https://github.com/juliangarnier/3D-Hartwig-chess-set) | [Play](http://codepen.io/juliangarnier/full/BsIih) |
-| c4                    | Connect Four game, with AI, in HTML/CSS/JS.                                                                                       | [GitHub](https://github.com/kenrick95/c4)                       | [Play](https://kenrick95.github.io/c4/demo/)       |
-| Desperate Gods        | Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. | [GitHub](https://github.com/David20321/FTJ)                     | [Play](http://www.wolfire.com/desperate-gods)      |
-| Green Mahjong         | Solitaire mahjong game done in HTML/CSS/JS.                                                                                       | [GitHub](https://github.com/danbeck/green-mahjong)              | [Play](http://greenmahjong.daniel-beck.org/)       |
-| Kriegspiel            | The game of imperfect information, the Kriegspiel chess variant.                                                                  | [GitHub](https://github.com/binarymax/kriegspiel)               | [Play](http://krgspl.com/)                         |
-| Lichess               | Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch.                                  | [GitHub](https://github.com/ornicar/lila)                       | [Play](http://lichess.org/)                        |
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| 3D Hartwing Chess Set | 3D chess game done in HTML/CSS/JS. | [GitHub](https://github.com/juliangarnier/3D-Hartwig-chess-set) | [Play](http://codepen.io/juliangarnier/full/BsIih) |
+| c4 | Connect Four game, with AI, in HTML/CSS/JS. | [GitHub](https://github.com/kenrick95/c4) | [Play](https://kenrick95.github.io/c4/demo/) |
+| Desperate Gods        | Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. | [GitHub](https://github.com/David20321/FTJ) | [Play](http://www.wolfire.com/desperate-gods) |
+| Green Mahjong | Solitaire mahjong game done in HTML/CSS/JS. | [GitHub](https://github.com/danbeck/green-mahjong) | [Play](http://greenmahjong.daniel-beck.org/) |
+| Kriegspiel | The game of imperfect information, the Kriegspiel chess variant. | [GitHub](https://github.com/binarymax/kriegspiel) | [Play](http://krgspl.com/) |
+| Lichess | Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. | [GitHub](https://github.com/ornicar/lila) | [Play](http://lichess.org/) |
+
 ## Arcade
 
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
@@ -247,7 +248,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-# Native
+# Desktop
 
 ## Action
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake.
