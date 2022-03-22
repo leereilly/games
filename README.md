@@ -176,8 +176,10 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Racing
 
-* [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
-* [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - Fast arcade rally racing.
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| HexGL | Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. | [GitHub](https://github.com/BKcore/HexGL) | [Play](http://hexgl.bkcore.com/) |
+| Trigger Rally Online Edition | Fast arcade rally racing. | [GitHub](https://github.com/CodeArtemis/TriggerRally) | [Play](https://codeartemis.github.io/TriggerRally/server/public/) |
 
 ## Sandbox
 
