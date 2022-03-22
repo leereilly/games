@@ -165,11 +165,14 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Tap Tap Adventure | Expansion of BrowserQuest. | [GitHub](https://github.com/Tach-Yon/Tap-Tap-Adventure) | [Play](http://taptapadventure.com/play)
 
 ## Strategy
-* [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
-* [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
-* [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5.
-* [Hexa Battle](https://github.com/itajaja/hb) - A turn based dungeon crawler written with Typescript, using React and SVG. [Play it now!](http://giacomotag.io/hb/)
-* [Tower Defense](https://github.com/Casmo/tower-defense) - 3D Tower Defense build with Three.js in HTML5.
+
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| Ancient Beast | Materialize and control beasts in order to defeat your opponents | [GitHub](https://github.com/FreezingMoon/AncientBeast) | [Play](http://ancientbeast.com/play) |
+| Command & Conquer | Clone of the popular RTS. | [GitHub](https://github.com/adityaravishankar/command-and-conquer) | [Play](http://www.adityaravishankar.com/projects/games/command-and-conquer/) |
+| Freeciv-web | An turn-based strategy game implemented in HTML5. | [GitHub](https://github.com/freeciv/freeciv-web) | - |
+| Hexa Battle | A turn based dungeon crawler written with Typescript, using React and SVG. | [GitHub](https://github.com/itajaja/hb) | [Play](http://giacomotag.io/hb/) |
+| Tower Defense | 3D Tower Defense build with Three.js in HTML5. | [GitHub](https://github.com/Casmo/tower-defense) | - |
 
 ## Racing
 
