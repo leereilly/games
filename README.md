@@ -237,7 +237,9 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Clicker
 
-* [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play](http://cern.ch/particle-clicker)
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| Particle Clicker | Addictive incremental game that teaches players the history of high energy particle physics. | [GitHub](https://github.com/particle-clicker/particle-clicker) | [Play](http://cern.ch/particle-clicker) |
 
 ## Point and Click
 
