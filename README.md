@@ -153,14 +153,16 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 | Name | Description | Source | Play |
 | ---- | ----------- | ------ | ---- |
-| Diablo JS | Isometric minimal-code style game at html5 canvas and javascript. | [GitHub](https://github.com/mitallast/diablo-js) |  [Play it now!](http://mitallast.github.io/diablo-js/)
+| Diablo JS | Isometric minimal-code style game at html5 canvas and javascript. | [GitHub](https://github.com/mitallast/diablo-js) |  [Play](http://mitallast.github.io/diablo-js/)
 | Roguish | RPG/Rogue-like game created in JavaScript. | [GitHub](https://github.com/CamHenlin/Roguish) | - |
 | Room for Change | Randomly generated action RPG. | [GitHub](https://github.com/antionio/game-off-2013) | - |
 
 ## MMORPG
 
-* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
-* [Tap Tap Adventure](https://github.com/Tach-Yon/Tap-Tap-Adventure) - Expansion of BrowserQuest. [Play it now!](http://taptapadventure.com/play)
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| BrowserQuest | HTML5/JavaScript multiplayer game experiment. | [GitHub](https://github.com/mozilla/BrowserQuest) | [Play](http://browserquest.mozilla.org/)
+| Tap Tap Adventure | Expansion of BrowserQuest. | [GitHub](https://github.com/Tach-Yon/Tap-Tap-Adventure) | [Play](http://taptapadventure.com/play)
 
 ## Strategy
 * [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
