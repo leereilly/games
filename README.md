@@ -151,9 +151,11 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## RPG
 
-* [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.  [Play it now!](http://mitallast.github.io/diablo-js/)
-* [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
-* [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG.
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| Diablo JS | Isometric minimal-code style game at html5 canvas and javascript. | [GitHub](https://github.com/mitallast/diablo-js) |  [Play it now!](http://mitallast.github.io/diablo-js/)
+| Roguish | RPG/Rogue-like game created in JavaScript. | [GitHub](https://github.com/CamHenlin/Roguish) | - |
+| Room for Change | Randomly generated action RPG. | [GitHub](https://github.com/antionio/game-off-2013) | - |
 
 ## MMORPG
 
