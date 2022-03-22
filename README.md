@@ -116,13 +116,13 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Mega Girl | Megaman inspired game. | [GitHub](https://github.com/ddionisio/game-off-2013) | [Play](http://www.renegadeware.com/web_games/megagirl/) |
 | Masonry JavaScript Tetris Clone | Tetris clone created using HTML5/JavaScript/Phaser. | [GitHub](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) | - |
 | Mode | Small(but sadly not that simple) demo game built on the Flixel framework. | [GitHub](https://github.com/AdamAtomic/Mode) | [Play](http://www.adamatomic.com/mode/) |
-| Monster Wants Candy | Simple HTML5 game created with Phaser 2.0.7. | [GitHub](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) | [Play](http://candy-demo.enclavegames.com/)) |
+| Monster Wants Candy | Simple HTML5 game created with Phaser 2.0.7. | [GitHub](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) | [Play](http://candy-demo.enclavegames.com/) |
 | Newton Adventure | Play Newton, a very special hero who has the power to change gravity direction! | [GitHub](https://github.com/devnewton/newton_adventure) | [Play](http://play.bci.im/newton_adventure/) |
 | Octocat Jump | GitHub Game Off 2012 Entry. | [GitHub](https://github.com/ogoshen/game-off-2012) | [Play](http://ogoshen.github.io/game-off-2012/) |
 | Onslaught Arena | Fight off hordes of classic medieval monsters in this fast paced arcade shooter! | [GitHub](https://github.com/lostdecade/onslaught_arena) | [Play](http://arcade.lostdecadegames.com/onslaught_arena/) |
 | Pappu Pakia | Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. | [GitHub](https://github.com/mindd-it/pappu-pakia) | [Play](http://khele.in/pappu-pakia/) |
 | Phaser Snake | JavaScript version of the snake game, created using the Phaser Engine. | [GitHub](https://github.com/gamedolphin/javascript_snake) | - |
-| PixelPlatformer | Descrição | [GitHub](https://github.com/bendangelo/PixelPlatformer) | [Play](Simple platformer game that demostrates the power of the Entity game engine.) |
+| PixelPlatformer | Simple platformer game that demostrates the power of the Entity game engine. | [GitHub](https://github.com/bendangelo/PixelPlatformer) | - |
 | PolyBranch | Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? | [GitHub](https://github.com/gbatha/PolyBranch) | [Play](http://gregbatha.com/branches/) |
 | Protocol 390 | To survive in People's Park, you must supply the prophet with change. | [GitHub](https://github.com/josegallegos07/game-off-2013) | - |
 | Raging Gardens | Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often. | [GitHub](https://github.com/petarov/game-off-2012) | - |
@@ -145,7 +145,9 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## FPS
 
-* [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| BananaBread | Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. | [GitHub](https://github.com/kripken/BananaBread) | [Play](https://kripken.github.io/BananaBread/cube2/bb.html) |
 
 ## RPG
 
