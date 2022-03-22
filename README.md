@@ -10,14 +10,14 @@ Below is a list of open source games and game-related projects - old school text
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/201flaviosilva/Open-Source-Games/issues), or fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/201flaviosilva/Open-Source-Games/edit/master/README.md)).
 
+Any game is accepted as long as it is open source. No matter what platform the code is published on, [GitHub](https://github.com/), [GitLab](https://gitlab.com/), [Code Sandbox](https://codesandbox.io/), etc...
+
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -------
 
 # Table of Contents
 
-- [Open Source Games](#open-source-games)
-  - [Contributing](#contributing)
 - [Table of Contents](#table-of-contents)
 - [Browser-Based](#browser-based)
   - [Boardgame](#boardgame)
@@ -71,79 +71,81 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Arcade
 
-* [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
-* [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
-* [Arashi](https://github.com/stephank/arashi-js) - Arashi is a clone of the Arcade game Tempest. [Play it now!](http://stephank.github.io/arashi-js/)
-* [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
-* [Avabranch](https://github.com/Zolmeister/avabranch) - GitHub Game Off 2012 entry. [Play it now!](http://avabranch.zolmeister.com/)
-* [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
-* [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
-* [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
-* [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
-* [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game.
-* [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
-* [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
-* [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser.
-* [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
-* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
-* [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
-* [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in CoffeeScript. [Play it now!](http://dommmel.github.com/coffee-snake/)
-* [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
-* [Color Quest](https://github.com/redbluegames/game-off-2013) - Infinite runner following a black and white pixel's quest to change into a color pixel. [Play it now!](http://redbluegames.com/game-off-2013/)
-* [Core Commiter](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://committer.meteor.com/)
-* [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API.
-* [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
-* [d3shooter](https://github.com/nsmirn0v/d3shooter) - Asteroids style game in HTML5 as a demo of the d3 library. [Play it now!](http://d3shooter.herokuapp.com)
-* [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game.
-* [Drakonas](https://github.com/Casmo/Drakonas) - Classic shoot 'em up game build with the Three.js library.
-* [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Written in JavaScript and using the great Phaser library. [Play it now!](http://dreamshowadventures.github.io/LudumDare29/)
-* [DuckHunt JS](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JS and HTML5 with a level creator. [Play it now!](http://mattsurabian.com/duckhunt/)
-* [EKG Runner](https://github.com/Myztiq/ekgrunner) - Game made in 48 hours for the 2013 Global Game Jam.
-* [Emberwind](https://github.com/operasoftware/Emberwind) - HTML5 port of the indie platform game Emberwind.
-* [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) - JavaScript MegaMan clone.
-* [Flappy Bird](https://github.com/hyspace/flappy) - flappy bird in html5.
-* [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. [Play it now!](http://anirudhjoshi.github.com/fluid_table_tennis)
-* [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - Very simple Flixel game inspired by the Taito classic. [Play it now!](http://flixel.org/flxinvaders/)
-* [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - Very simple Flixel game inspired by the classic arcade shooter. [Play it now!](http://www.flixel.org/flxteroids/)
-* [Grave Robbers](https://github.com/AdamAtomic/GraveRobbers) - Sort of GIRP-inspired tower defense. [Play it now!](http://adamatomic.com/graverobbers)
-* [Heal 'em All](https://github.com/krzysu/game-off-2013) - Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. [Play it now!](http://games.myviews.pl/heal-em-all/)
-* [HotFix](https://github.com/sdrdis/hotfix) - Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. [Play it now!](http://sdrdis.github.com/hotfix/)
-* [hurry!](https://github.com/hughsk/ludum-dare-27) - Small but speedy arcade shooter. [Play it now!](http://hughsk.io/ludum-dare-27/)
-* [Hyperspace Garbage Collector](https://github.com/razh/game-off-2013) - General Hyperspace Waste Management Solutions. [Play it now!](http://razh.github.io/game-off-2013/)
-* [I Spy A Ghost](https://github.com/OmarShehata/I-Spy-A-Ghost) - an experimental p2p multiplayer game made in HTML5/Phaser using WebRTC. [Play it now!](http://omarshehata.me/html/ludum/)
-* [Jekyll & Hyde Collide](https://github.com/awesome-interactive/game-off-2013) - Multi-layered infinite side-scroller. [Play it now!](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html)
-* [JumpSuit](https://github.com/KordonBleu/jumpsuit) - a multiplayer space shooter set in a wrapped universe. [Play it now!](http://jumpsuit.space/)
-* [Marble Soccer](https://github.com/jeromeetienne/marbleSoccer) - Marble game for learning three.js.
-* [Mario 5 HTML](https://github.com/robertkleffner/mariohtml5) - Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements.
-* [Mega Girl](https://github.com/ddionisio/game-off-2013) - Megaman inspired game. [Play it now!](http://www.renegadeware.com/web_games/megagirl/)
-* [Masonry JavaScript Tetris Clone](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) - Tetris clone created using HTML5/JavaScript/Phaser.
-* [Mode](https://github.com/AdamAtomic/Mode) - Small(but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
-* [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Simple HTML5 game created with Phaser 2.0.7. [Play it now!](http://candy-demo.enclavegames.com/)
-* [Newton Adventure](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction! [Play it now!](http://play.bci.im/newton_adventure/)
-* [Octocat Jump](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://ogoshen.github.io/game-off-2012/)
-* [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play it now!](http://arcade.lostdecadegames.com/onslaught_arena/)
-* [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
-* [Phaser Snake](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
-* [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
-* [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? [Play it now!](http://gregbatha.com/branches/)
-* [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
-* [Raging Gardens](https://github.com/petarov/game-off-2012) - Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
-* [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
-* [Save The Forest](https://github.com/softvar/save-the-forest) - Save the burning forest! [Play it now!](http://js13kgames.com/games/save-the-forest/index.html)
-* [Ski Free](https://github.com/basicallydan/skifree.js) - JavaScript port of the classic PC Game, Skifree. [Play it now!](http://basicallydan.github.com/skifree.js)
-* [Snake](https://github.com/jrgdiz/snake) - Clone of the classic Snake game. [Play it now!](http://diz.es/snake/)
-* [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web. [Play it now!](https://rabiroshan.github.io/snake_game/)
-* [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - A classic shoot'em up space shooter build in HTML5 with multiplayer. [Play it now!](http://couchfriends.com/games/5)
-* [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space. [Play it now!](http://mrrar.github.io/spashal/)
-* [Square Off!](https://github.com/ScriptaGames/SquareOff/) - multiplayer 1v1 air-hockey style game, place squares to deflect the ball. [Play it now!](http://sqoff.com/)
-* [SORADES 13K](https://github.com/maettig/starship-sorades-13k) - Scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". [Play it now!](http://maettig.com/code/canvas/starship-sorades-13k/)
-* [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJS Framework.
-* [Space Invaders](https://github.com/StrykerKKD/SpaceInvaders) - Remake of Space Invaders in require.js. [Play it now!](http://strykerkkd.github.io/SpaceInvaders/)
-* [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - Super Mario Bros level one written with Backbone Game Engine. [Play it now!](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html)
-* [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. [Play it now!](http://www.schillmania.com/survivor/)
-* [WPilot](https://github.com/jfd/wpilot) - A browser-based remake of the famous XPilot game, built with NodeJS and HTML5
-* [zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
-* [FullScreenMario](https://github.com/FullScreenShenanigans/FullScreenMario/) – a free HTML 5 remake of Super Mario Bros with additional features.
+| Name | Description | Source | Play |
+| ---- | ----------- | ------ | ---- |
+| Alge's Escapade | HTML5, JavaScript, GameJs arcade game where you control an Algae. | [GitHub](https://github.com/Dave-and-Mike/game-off-2012) | [Play](http://dave-and-mike.github.io/game-off-2012/) |
+| Alien Invasion | Demo Game for Mobile HTML5 Game Development. | [GitHub](https://github.com/cykod/AlienInvasion) | [Play](http://cykod.github.io/AlienInvasion/) |
+| Arashi | Arashi is a clone of the Arcade game Tempest. | [GitHub](https://github.com/stephank/arashi-js) | [Play](http://stephank.github.io/arashi-js/) |
+| Asteroids | Pure JavaScript asteroids. | [GitHub](http://github.com/dmcinnes/HTML5-Asteroids) | [Play](http://dougmcinnes.com/html-5-asteroids/) |
+| Avabranch | GitHub Game Off 2012 entry. | [GitHub](https://github.com/Zolmeister/avabranch) | [Play](http://avabranch.zolmeister.com/) |
+| Ball And Wall | Pure JavaScript arkanoid style game. | [GitHub](https://github.com/budnix/ball-and-wall) | [Play](http://ballandwall.com/) |
+| Breakout | Breakout multiplayer with HTML5. | [GitHub](https://github.com/Couchfriends/breakout) | - |
+| Captain Rogers | Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. | [GitHub](https://github.com/EnclaveGames/Captain-Rogers) | [Play](http://enclavegames.com/games/captain-rogers/) |
+| Cell Mates | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/gamebytes/cellmates) | - |
+| Ceros Snake | A remake of the iconic 70's Snake game. | [GitHub](https://github.com/mjhasbach/ceros-snake) | -|
+| CHANG€ | Intense game about the extreme life of supermarket cashiers. | [GitHub](https://github.com/RothschildGames/change) | [Play](http://change-game.herokuapp.com/) |
+| Chromacore | 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay. | [GitHub](https://github.com/Murkantilism/game-off-2013) | [Play](https://incendiaryindustries.itch.io/chromacore) |
+| Circus Charlie | HTML5 tribute created in Phaser. | [GitHub](https://github.com/eugenioclrc/circushtml5) | [Play](http://gamegur-us.github.io/circushtml5/) |
+| Jolly Jumper | Made in Phaser. | [GitHub](https://github.com/shohan4556/jolly-jumper) | [Play](http://shohan4556.github.io/jolly-jumper/) |
+| Clumsy Bird | Flappy Bird clone in JavaScript using MelonJS. | [GitHub](https://github.com/ellisonleao/clumsy-bird) | [Play](http://www.varunpant.com/static/resources/CrappyBird/index.html) |
+| Codename Lumberjack | Simple flash game written using Actionscript 3.0 and Flixel. | [GitHub](https://github.com/arkeus/Codename-Lumberjack) | [Play](http://projects.iarke.us/codenamelumberjack/) |
+| Coffee Snake | HTML5 snake game written in CoffeeScript. | [GitHub](https://github.com/arkeus/Coffee-Snake) | [Play](http://dommmel.github.io/coffee-snake/) |
+| Coil | HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. | [GitHub](https://github.com/leereilly/Coil) | [Play](http://hakim.se/experiments/html5/coil/) |
+| Color Quest | Infinite runner following a black and white pixel's quest to change into a color pixel. | [GitHub](https://github.com/redbluegames/game-off-2013) | [Play](http://redbluegames.com/game-off-2013/) |
+| Core Commiter | GitHub Game Off 2012 entry. | [GitHub](https://github.com/vladikoff/game-off-2012) | [Play](http://committer.meteor.com/) |
+| Crappy Bird | Flappy Bird clone in JavaScript and Canvas2D API. | [GitHub](https://github.com/varunpant/CrappyBird) | - |
+| Custom Tetris | Play the classic Tetris game the way you like it. | [GitHub](https://github.com/ondras/custom-tetris) | [Play](http://ondras.github.io/custom-tetris/) |
+| D3 Shooter | Asteroids style game in HTML5 as a demo of the d3 library. | [GitHub](https://github.com/nsmirn0v/d3shooter) | [Play](http://d3shooter.herokuapp.com) |
+| Digger | HTML5 version of a Boulderdash game. | [GitHub](https://github.com/lutzroeder/digger) | - |
+| Drakonas | Classic shoot 'em up game build with the Three.js library. | [GitHub](https://github.com/Casmo/Drakonas) | - |
+| Drill Bunny | Written in JavaScript and using the great Phaser library. | [GitHub](https://github.com/DreamShowAdventures/LudumDare29) | [Play](http://dreamshowadventures.github.io/LudumDare29/) |
+| DuckHunt JS | DuckHunt ported to JS and HTML5 with a level creator. | [GitHub](https://github.com/MattSurabian/DuckHunt-JS) | [Play](http://mattsurabian.com/duckhunt/) |
+| EKG Runner | Game made in 48 hours for the 2013 Global Game Jam. | [GitHub](https://github.com/Myztiq/ekgrunner) | - |
+| Emberwind | HTML5 port of the indie platform game Emberwind. | [GitHub](https://github.com/operasoftware/Emberwind) | - |
+| ExecutiveMan | JavaScript MegaMen clone. | [GitHub](https://github.com/CamHenlin/ExecutiveMan) | - |
+| Flappy Bird | Flappy bird in html5. | [GitHub](https://github.com/hyspace/flappy) | - |
+| Fluid Table Tennis | Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS. | [GitHub](https://github.com/anirudhjoshi/fluid_table_tennis) | [Play](http://anirudhjoshi.github.com/fluid_table_tennis) |
+| FlxInvaders | Very simple Flixel game inspired by the Taito classic. | [GitHub](https://github.com/AdamAtomic/Flx-Invaders) | [Play](http://flixel.org/flxinvaders/) |
+| FlxTeroids | Very simple Flixel game inspired by the classic arcade shooter. | [GitHub](https://github.com/AdamAtomic/FlxTeroids) | [Play](http://www.flixel.org/flxteroids/) |
+| Grave Robbers | Sort of GIRP-inspired tower defense. | [GitHub](https://github.com/AdamAtomic/GraveRobbers) | [Play](http://adamatomic.com/graverobbers) |
+| Heal 'em All | Imagine, what if the cure exists? What if zombies plague can be stoped? Explore old, abandoned graveyard, heal as many zombies as you can, and find your way out. But be careful not to become one of them. | [GitHub](https://github.com/krzysu/game-off-2013) | [Play](http://games.myviews.pl/heal-em-all/) |
+| HotFix | Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features. | [GitHub](https://github.com/sdrdis/hotfix) | [Play](http://sdrdis.github.com/hotfix/) |
+| hurry! | Small but speedy arcade shooter. | [GitHub](https://github.com/hughsk/ludum-dare-27) | [Play](http://hughsk.io/ludum-dare-27/) |
+| Hyperspace Garbage Collector | General Hyperspace Waste Management Solutions. | [GitHub](https://github.com/razh/game-off-2013) | [Play](http://razh.github.io/game-off-2013/) |
+| I Spy A Ghost | An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC. | [GitHub](https://github.com/OmarShehata/I-Spy-A-Ghost) | [Play](http://omarshehata.me/html/ludum/) |
+| Jekyll & Hyde Collide | Multi-layered infinite side-scroller. | [GitHub](https://github.com/awesome-interactive/game-off-2013) | [Play](http://awesome-interactive.github.io/game-off-2013/ExportedGame.html) |
+| JumpSuit | A multiplayer space shooter set in a wrapped universe. | [GitHub](https://github.com/KordonBleu/jumpsuit) | [Play](http://jumpsuit.space/) |
+| Marble Soccer | Marble game for learning three.js. | [GitHub](https://github.com/jeromeetienne/marbleSoccer) | - |
+| Mario 5 HTML | Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements. | [GitHub](https://github.com/robertkleffner/mariohtml5) | - |
+| Mega Girl | Megaman inspired game. | [GitHub](https://github.com/ddionisio/game-off-2013) | [Play](http://www.renegadeware.com/web_games/megagirl/) |
+| Masonry JavaScript Tetris Clone | Tetris clone created using HTML5/JavaScript/Phaser. | [GitHub](https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone) | - |
+| Mode | Small(but sadly not that simple) demo game built on the Flixel framework. | [GitHub](https://github.com/AdamAtomic/Mode) | [Play](http://www.adamatomic.com/mode/) |
+| Monster Wants Candy | Simple HTML5 game created with Phaser 2.0.7. | [GitHub](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) | [Play](http://candy-demo.enclavegames.com/)) |
+| Newton Adventure | Play Newton, a very special hero who has the power to change gravity direction! | [GitHub](https://github.com/devnewton/newton_adventure) | [Play](http://play.bci.im/newton_adventure/) |
+| Octocat Jump | GitHub Game Off 2012 Entry. | [GitHub](https://github.com/ogoshen/game-off-2012) | [Play](http://ogoshen.github.io/game-off-2012/) |
+| Onslaught Arena | Fight off hordes of classic medieval monsters in this fast paced arcade shooter! | [GitHub](https://github.com/lostdecade/onslaught_arena) | [Play](http://arcade.lostdecadegames.com/onslaught_arena/) |
+| Pappu Pakia | Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. | [GitHub](https://github.com/mindd-it/pappu-pakia) | [Play](http://khele.in/pappu-pakia/) |
+| Phaser Snake | JavaScript version of the snake game, created using the Phaser Engine. | [GitHub](https://github.com/gamedolphin/javascript_snake) | - |
+| PixelPlatformer | Descrição | [GitHub](https://github.com/bendangelo/PixelPlatformer) | [Play](Simple platformer game that demostrates the power of the Entity game engine.) |
+| PolyBranch | Minimalist 3D game. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? | [GitHub](https://github.com/gbatha/PolyBranch) | [Play](http://gregbatha.com/branches/) |
+| Protocol 390 | To survive in People's Park, you must supply the prophet with change. | [GitHub](https://github.com/josegallegos07/game-off-2013) | - |
+| Raging Gardens | Javascript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often. | [GitHub](https://github.com/petarov/game-off-2012) | - |
+| Release Cycles | Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle. | [GitHub](https://github.com/RothschildGames/release-cycles) | - |
+| Save The Forest | Save the burning forest! | [GitHub](https://github.com/softvar/save-the-forest) | [Play](http://js13kgames.com/games/save-the-forest/index.html) |
+| Ski Free | JavaScript port of the classic PC Game, Skifree. | [GitHub](https://github.com/basicallydan/skifree.js) | [Play](http://basicallydan.github.com/skifree.js) |
+| Snake | Clone of the classic Snake game. | [GitHub](https://github.com/jrgdiz/snake) | [Play](http://diz.es/snake/) |
+| Snake_new | Classic nokia snake game using web. | [GitHub](https://github.com/RabiRoshan/snake_game) | [Play](https://rabiroshan.github.io/snake_game/) |
+| Space-Shooter | A classic shoot'em up space shooter build in HTML5 with multiplayer. | [GitHub](https://github.com/Couchfriends/Space-Shooter) | [Play](http://couchfriends.com/games/5) |
+| Spashal | Danger lurks around every corner in space. | [GitHub](https://github.com/MrRar/spashal) | [Play](http://mrrar.github.io/spashal/) |
+| Square Off! | Multiplayer 1v1 air-hockey style game, place squares to deflect the ball. | [GitHub](https://github.com/ScriptaGames/SquareOff/) | [Play](http://sqoff.com/) |
+| SORADES 13K | Scrolling shooter in the vein of "Raptor: Call of the Shadows" and "Warning Forever". | [GitHub](https://github.com/maettig/starship-sorades-13k) | [Play](http://maettig.com/code/canvas/starship-sorades-13k/) |
+| Space Crusade | HTML5 game developped with PhaserJS Framework. | [GitHub](https://github.com/Loopeex/space-crusade) | - |
+| Space Invaders | Remake of Space Invaders in require.js. | [GitHub](https://github.com/StrykerKKD/SpaceInvaders) | [Play](http://strykerkkd.github.io/SpaceInvaders/) |
+| Super Mario Bros | Super Mario Bros level one written with Backbone Game Engine. | [GitHub](https://github.com/martindrapeau/backbone-game-engine) | [Play](http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html) |
+| Survivor | Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool. | [GitHub](https://github.com/scottschiller/SURVIVOR) | [Play](http://www.schillmania.com/survivor/) |
+| WPilot | A browser-based remake of the famous XPilot game, built with NodeJS and HTML5 | [GitHub](https://github.com/jfd/wpilot) | - |
+| zedinvaders | Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over". | [GitHub](https://github.com/salvatorecapolupo/zedinvaders) | - |
+| FullScreenMario | A free HTML 5 remake of Super Mario Bros with additional features. | [GitHub](https://github.com/FullScreenShenanigans/FullScreenMario/) | - |
 
 ## FPS
 
