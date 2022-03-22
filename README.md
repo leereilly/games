@@ -455,3 +455,9 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 | Games (Original Fork) | 🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. | [Link](https://github.com/leereilly/games) |
 | Magic Tools | 🎮 📝 A list of Game Development resources to make magic happen. | [Link](https://github.com/ellisonleao/magictools) |
 | Open Source Game Clones | This site tries to gather open-source remakes of great old games in one place. | [Link](https://osgameclones.com/) |
+
+# License
+
+Based on the original work of the original author (Lee Reilly), I need to keep the original license.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
