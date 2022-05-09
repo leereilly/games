@@ -331,6 +331,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Colobot](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
 * [Curse of War](https://github.com/a-nikolaev/curseofwar) - Fast-paced action strategy game with ncurses and SDL frontends.
+* [FHeroes 2](https://github.com/ihhub/fheroes2/) - Free Heroes of Might and Magic II (fheroes2) is a recreation of HoMM2 game engine. 
 * [FHeroes 2 Enhanced](https://github.com/ciplogic/fheroes2enh) - Free Heroes 2 is an engine recreation of game Heroes 2 (of Might and Magic) with UI and coding enhancements.
 * [Gold Fever](https://github.com/inaka/gold_fever) - A Treasure Hunt for Erlangers.
 * [Harris](https://github.com/ec429/harris) - Strategy game based around the actions of RAF Bomber Command in the Second World War.
