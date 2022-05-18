@@ -417,7 +417,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Wargus](https://github.com/Wargus/wargus) - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Postnuclear realtime strategy.
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) - Strategy game based on history, mythology and fiction.
-* [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units
+* [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game with physical projectiles and smart units.
+* [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real time strategy based on the original Stronghold series.  
 
 ## Others
 
