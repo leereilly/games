@@ -485,6 +485,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
 * [Atomic Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - features 2D and 3D rendering, standards compliant JavaScript, full Player and Editor source on GitHub, Windows & Mac Editors, with deployment to Windows, Mac, WebGL, Android, and iOS from the editor.
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+* [Bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust.
 * [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform rendering library.
 * [Chilli Works](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - Simple, lightweight, fast and portable 2D rigid body physics library written in C.
