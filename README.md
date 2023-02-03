@@ -514,6 +514,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## First Person Shooter (FPS)
 * [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
 * [QuakeJS](https://github.com/inolen/quakejs) - QuakeJS is a port of ioquake3 to JavaScript with the help of Emscripten. [Play it now!](http://www.quakejs.com)
+* [SpaceShooter](https://github.com/mr-shitij/Simple-Space-Game) - A Simple Space Game Created In Python.
 
 ## Horror
 
@@ -660,6 +661,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Squirts](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 * [The Killer](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
 * [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013) - Apply your culinary expertise to impress your family. [Play it now!](http://fernjager.github.io/game-off-2013/index.html)
+* [webtonic](https://github.com/levaitamas/webtonic) - JavaScript/HTML implementation of Tonic: The Card & Dice Game for Musicians. [Play it now!](https://levaitamas.github.io/webtonic)
 -------
 
 # Android
