@@ -160,6 +160,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [szsol](https://github.com/usrshare/szsol) - CLI clone of Shenzhen Solitaire card game.
 
 ## Fighting / Beat 'em up
+* [Fish Folk: Punchy](https://github.com/fishfolk/punchy) - A 2.5D side-scroller beatemup, made in Bevy.
 
 ## First Person Shooter (FPS)
 * [AssaultCube](https://github.com/assaultcube/AC) - Total conversion of Wouter van Oortmerssen's FPS called Cube.
@@ -388,6 +389,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Das Wahre Schlagerfest](https://github.com/richelbilderbeek/DasWahreSchlagerfest) - Truly fun Columns game with an Oktoberfest theme
 * [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
 * [City Of Thieves](https://github.com/richelbilderbeek/CityOfThieves) - Text adventure game, after the book 'City of Thieves' by Ian Livingstone
+* [PongPlanting](https://github.com/Yakkhini/PongPlanting) - A brick out game base on Bevy engine/Rust language.
 * [Two-Button Knight](https://github.com/Vladar4/ng2tbk) - Two-Button Knight game prototype - The Linux Game Jam 2018 participant.
 * [WindowBreaker](https://github.com/Tux-Syndicate/WindowBreaker) - This game is a prototype similar to invaders.
 * [Zork](https://github.com/richelbilderbeek/Zork) - Text adventure Zork: The Great Underground Empire - Part I
@@ -600,6 +602,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Strategy
 * [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Materialize and control beasts in order to defeat your opponents! [Play it now!](http://ancientbeast.com/play)
 * [Command & Conquer](https://github.com/adityaravishankar/command-and-conquer) - Clone of the popular RTS. [Play it now!](http://www.adityaravishankar.com/projects/games/command-and-conquer/)
+* [Dominus](https://github.com/dan335/dominus) - Multiplayer Social Strategy Web Game. [Play it now!](https://dominusgame.net/)
 * [Freeciv-web](https://github.com/freeciv/freeciv-web) - An turn-based strategy game implemented in HTML5. [Play it now!](http://play.freeciv.org/)
 * [Galaxy of Drones Online](https://github.com/galaxyofdrones/galaxyofdrones) - An open source multiplayer space strategy game. [Play it now!](https://galaxyofdrones.com/)
 * [Hexa Battle](https://github.com/itajaja/hb) - A turn based dungeon crawler written with Typescript, using React and SVG. [Play it now!](http://giacomotag.io/hb/)
@@ -759,6 +762,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
 * [Anura Engine](https://github.com/anura-engine/anura) - Anura is the tech behind the spectacular Frogatto & Friends.
 * [Atomic Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - features 2D and 3D rendering, standards compliant JavaScript, full Player and Editor source on GitHub, Windows & Mac Editors, with deployment to Windows, Mac, WebGL, Android, and iOS from the editor.
+* [Bevy](https://github.com/bevyengine/bevy - A refreshingly simple data-driven game engine built in Rust.
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 * [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform rendering library.
 * [Castle Game Engine](https://github.com/castle-engine/castle-engine) - Cross-platform 3D and 2D game engine with a lot of graphic effects and a powerful scene graph based on X3D.
