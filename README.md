@@ -302,6 +302,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### Action RPG
 * [GTACoop](https://github.com/GTACoop/GTACoop) -  An online co-op modification for Grand Theft Auto V. [Play it now!](https://www.gta5-mods.com/scripts/multiplayer-co-op-mod)
 ### MMORPG / MMO
+* [2D MMORPG](https://github.com/KDSBest/2D-MMORPG-Youtube) - An Open Source 2D MMORPG with Azure (AKS [K8s], CosmosDB and Redis) and Unity Game Engine.
 * [Eternal Lands](https://github.com/raduprv/Eternal-Lands/) - Eternal Lands is a free, multiplayer, online role-playing game created by Radu Privantu in 2002.[Play it now!](http://www.eternal-lands.com)
 * [FreeSO](https://github.com/RHY3756547/FreeSO) - Re-implementation of The Sims Online. [Play it now!](http://freeso.org)
 * [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59, less frequently updated. [Play it now!](http://www.meridian59.com)
