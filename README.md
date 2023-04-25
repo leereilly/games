@@ -457,11 +457,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 -------
 
-# Chat bots
-* [c4bot](https://github.com/kenrick95/c4bot) - Chat bot that plays Connect Four with you, works in web chat, Facebook Messenger, Skype, and Telegram. [Play it now!](https://bots.botframework.com/bot?id=c4bot)
-
--------
-
 # Just The Source
 
 * [Aquaria](https://github.com/AquariaOSE/Aquaria) - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
