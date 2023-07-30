@@ -78,6 +78,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
 * [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
+* [Welcome To The Moon Companion](https://github.com/Cheshiriks/Welcome-To-The-Moon-Companion) - A companion app for independently completing all 8 scenarios of the board game Welcome to the Moon. [Play it now!](https://cheshiriks.github.io/WelcomeToTheMoonCompanion/)
 
 
 ## Arcade
