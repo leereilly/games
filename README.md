@@ -1,5 +1,7 @@
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
+## It is not maintained anymore. You can visit [https://github.com/OpenSourceVideoGames/list](https://github.com/OpenSourceVideoGames/list) to see up to date list of open-source games.
+
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
 #### Contributing
