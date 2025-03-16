@@ -237,6 +237,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Clicker
 
+* [Byte Clicker](https://github.com/non-npc/Byte-Clicker-Incremental-Game) - An incremental clicker game that demonstrates how to build interactive desktop applications using Python and JavaScript.
 * [Particle Clicker](https://github.com/particle-clicker/particle-clicker) - Addictive incremental game that teaches players the history of high energy particle physics. [Play it now!](http://cern.ch/particle-clicker)
 
 ## Point and Click
