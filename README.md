@@ -1,6 +1,8 @@
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
-**Archive notice:** In 2012, this project started as a [Hacker News thread collecting cool open source games](https://news.ycombinator.com/item?id=3438505). Back then, GitHub was more of a graveyard for games than a place where they thrived. Fast forward to today, and it’s a very different story: we now have a vibrant community of game developers building engines, crafting game jam entries, and sharing creative experiments with the world.
+**📦 Archive notice:** 
+
+In 2012, this project started as a [Hacker News thread collecting cool open source games](https://news.ycombinator.com/item?id=3438505). Back then, GitHub was more of a graveyard for games than a place where they thrived. Fast forward to today, and it’s a very different story: we now have a vibrant community of game developers building engines, crafting game jam entries, and sharing creative experiments with the world.
 
 Over the years, this repo became one of the most-starred collections of open source games on GitHub, drawing contributions from more than 100 developers and surfacing thousands of projects. It has been humbling to watch a simple list evolve into a community resource and a snapshot of how open source gaming has grown.
 
