@@ -1,20 +1,20 @@
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
-Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
+**Archive notice:** In 2012, this project started as a [Hacker News thread collecting cool open source games](https://news.ycombinator.com/item?id=3438505). Back then, GitHub was more of a graveyard for games than a place where they thrived. Fast forward to today, and it’s a very different story: we now have a vibrant community of game developers building engines, crafting game jam entries, and sharing creative experiments with the world.
 
-#### Contributing
+Over the years, this repo became one of the most-starred collections of open source games on GitHub, drawing contributions from more than 100 developers and surfacing thousands of projects. It has been humbling to watch a simple list evolve into a community resource and a snapshot of how open source gaming has grown.
 
-If you'd like to add a repository to the list, please [create an Issue](https://github.com/leereilly/games/issues), or fork this repository and submit a pull request ([click here to edit this file from github](https://github.com/leereilly/games/edit/master/README.md)).
+I’m now officially archiving the repo. A huge thank you to everyone who submitted games, plugins, maps, hacks, and other treasures. You’ve helped make this something truly special <3
 
-**Would you like to help maintain and improve this repository?** [Click here for information on becoming a maintainer](https://github.com/leereilly/games/issues/483).
+And let’s be honest: a single Markdown file was never the best database for hundreds of games. 😉
 
-Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Cheers,<br>
+Lee
 
 -------
 
 # Table of Contents.
 
-- [Major Companies](#major-companies)
 - [Browser-Based](#user-content-browser-based)
   - [Boardgame](#user-content-boardgame)
   - [Arcade](#user-content-arcade)
@@ -48,25 +48,6 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 - [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
 
 -------
-
-# Major Companies
-
-A selection of major game studios, publishers, etc. using GitHub:
-
-[<img src="https://github.com/zynga.png" title="Zynga" height="50">](https://github.com/zynga)&nbsp;
-[<img src="https://github.com/mojang.png" title="Mojang" height="50">](https://github.com/mojang)&nbsp;
-[<img src="https://github.com/riotgames.png" title="Riot Games" height="50">](https://github.com/riotgames)&nbsp;
-[<img src="https://github.com/epicgames.png" title="Epic Games" height="50">](https://github.com/epicgames)&nbsp;
-[<img src="https://github.com/OculusVR.png" title="Oculus VR Inc" height="50">](https://github.com/OculusVR)&nbsp;
-[<img src="https://github.com/unity-technologies.png" title="Unity Technologies" height="50">](https://github.com/unity-technologies)&nbsp;
-[<img src="https://github.com/electronicarts.png" title="Electronic Arts" height="50">](https://github.com/electronicarts)&nbsp;
-[<img src="https://github.com/valvesoftware.png" title="Valve" height="50">](https://github.com/valvesoftware)&nbsp;
-[<img src="https://github.com/gree.png" title="GREE" height="50">](https://github.com/gree)&nbsp;
-[<img src="https://github.com/dena.png" title="DeNA" height="50">](https://github.com/dena)&nbsp;
-[<img src="https://github.com/playgameservices.png" title="Google Play Game Services" height="50">](https://github.com/playgameservices)&nbsp;
-[<img src="https://github.com/blizzard.png" title="Blizzard" height="50">](https://github.com/blizzard)&nbsp;
-[<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
-
 
 # Browser-Based
 
@@ -576,5 +557,3 @@ A selection of major game studios, publishers, etc. using GitHub:
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
