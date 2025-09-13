@@ -9,7 +9,7 @@ I’m now officially archiving the repo. A huge thank you to everyone who submit
 And let’s be honest: a single Markdown file was never the best database for hundreds of games. 😉
 
 Cheers,<br>
-Lee
+Lee 🍻
 
 -------
 
